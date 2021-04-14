@@ -38,6 +38,6 @@ do
   if [ -f $OUTFOLDER/scaffolds.fasta ]; then
     rm -rf $OUTFOLDER/tmp $OUTFOLDER/corrected $OUTFOLDER/K*
     rm -f $OUTFOLDER/before_rr.fasta $OUTFOLDER/first_pe_contigs.fasta
-    pigz $OUTFOLDER/spades.log $OUTFOLDER/*.gfa $OUTFOLDER/*.fastg
+    pigz $OUTFOLDER/spades.log $OUTFOLDER/*.gfa $OUTFOLDER/*.fastg $OUTFOLDER/*.paths
   fi
 done

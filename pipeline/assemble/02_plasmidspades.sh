@@ -36,7 +36,7 @@ do
         -o $OUTFOLDER
   fi
   if [ -f $OUTFOLDER/scaffolds.fasta ]; then
-	  rm -rf $OUTFOLDER/before_rr.fasta $OUTFOLDER/corrected $OUTFOLDER/K*
+    rm -rf $OUTFOLDER/before_rr.fasta $OUTFOLDER/corrected $OUTFOLDER/K*
     rm -rf $OUTFOLDER/assembly_graph_after_simplification.gfa $OUTFOLDER/tmp
     pigz $OUTFOLDER/contigs.fasta
     pigz $OUTFOLDER/spades.log
