@@ -49,7 +49,7 @@ tail -n +2 $SAMPLES | sed -n ${N}p | while read SPECIES STRAIN JGILIBRARY BIOSAM
         -1 ${INFOLDER}/${STEM}_R1.fq.gz -2 ${INFOLDER}/${STEM}_R2.fq.gz \
         -o $OUTFOLDER"
     echo "Running:\n\t$cmd"
-    time eval " $cmd"
+    time " $cmd"
   fi
   
   # Clean up and compress
