@@ -41,20 +41,20 @@ tail -n +2 $SAMPLES | sed -n ${N}p | while read SPECIES STRAIN JGILIBRARY BIOSAM
   # Determine output directory
   STEM=$(echo -n $SPECIES | perl -p -e 's/\s+/_/g')
   OUTFOLDER=$ASM/${STEM}.plasmidspades
-  echo -e "OUTPUT:\n\t${OUTFOLDER}"
+  echo "OUTPUT:\n\t${OUTFOLDER}"
   
   # Run spades
   if [ ! -d $OUTFOLDER ]; then
     cmd="spades.py --meta --plasmid --threads $CPU -m $MEM \
         -1 ${INFOLDER}/${STEM}_R1.fq.gz -2 ${INFOLDER}/${STEM}_R2.fq.gz \
         -o $OUTFOLDER"
-    echo -e "Running:\n\t$cmd"
+    echo "Running:\n\t$cmd"
     time $cmd
   fi
   
   # Clean up and compress
   if [ -f $OUTFOLDER/scaffolds.fasta ]; then
-    echo -e "Cleaning..."
+    echo "Cleaning..."
     rm -rf $OUTFOLDER/before_rr.fasta $OUTFOLDER/corrected $OUTFOLDER/K*
     rm -rf $OUTFOLDER/assembly_graph_after_simplification.gfa $OUTFOLDER/tmp
     pigz $OUTFOLDER/contigs.fasta
