@@ -45,10 +45,8 @@ tail -n +2 $SAMPLES | sed -n ${N}p | while read SPECIES STRAIN JGILIBRARY BIOSAM
   
   # Run spades
   if [ ! -d $OUTFOLDER ]; then
-    echo "Running spades"
-    time spades.py --meta --plasmid --threads $CPU -m $MEM \
-    -1 ${INFOLDER}/${STEM}_R1.fq.gz -2 ${INFOLDER}/${STEM}_R2.fq.gz \
-    -o $OUTFOLDER   
+    echo "Running spades.py --meta --plasmid --threads $CPU -m $MEM -1 ${INFOLDER}/${STEM}_R1.fq.gz -2 ${INFOLDER}/${STEM}_R2.fq.gz -o $OUTFOLDER"
+    time spades.py --meta --plasmid --threads $CPU -m $MEM -1 ${INFOLDER}/${STEM}_R1.fq.gz -2 ${INFOLDER}/${STEM}_R2.fq.gz -o $OUTFOLDER
   fi
   
   # Clean up and compress
