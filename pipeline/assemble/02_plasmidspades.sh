@@ -10,7 +10,10 @@ ASM=assembly
 mkdir -p $ASM
 CPU=$SLURM_CPUS_ON_NODE
 if [ -z $CPU ]; then
-  CPU=1
+  CPU=$2
+  if [ ! $CPU ]; then
+    CPU=1
+  fi
 fi
 
 N=${SLURM_ARRAY_TASK_ID}
