@@ -5,18 +5,18 @@ import rediswq
 
 host="redis"
 # Uncomment next two lines if you do not have Kube-DNS working.
-#import os
+import os
 #host = os.getenv("REDIS_SERVICE_HOST")
 
 q = rediswq.RedisWQ(name="job2", host="redis")
 print("Worker with sessionID: " +  q.sessionID())
 print("Initial queue state: empty=" + str(q.empty()))
 while not q.empty():
-  item = q.lease(lease_secs=10, block=True, timeout=2) 
+  item = q.lease(lease_secs=10, block=True, timeout=2)
   if item is not None:
     itemstr = item.decode("utf-8")
     print("Working on " + itemstr)
-    time.sleep(10) # Put your actual work here instead of sleep.
+    os.system("./pipeline/assemble/02_plasmidspades.sh %(ARRAY_ID)s %(CPU)s" % ['ARRAY_ID':itemstr,'CPU':16])
     q.complete(item)
   else:
     print("Waiting for work")
