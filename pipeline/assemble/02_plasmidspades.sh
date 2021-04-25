@@ -30,10 +30,14 @@ tail -n +2 $SAMPLES | sed -n ${N}p | while read SPECIES STRAIN JGILIBRARY BIOSAM
 do
   STEM=$(echo -n $SPECIES | perl -p -e 's/\s+/_/g')
   OUTFOLDER=$ASM/${STEM}.plasmidspades
-  if [ ! -d $OUTFOLDER ]; then
-    time spades.py --meta --plasmid --threads $CPU -m $MEM \
+  if [[ ! -d $OUTFOLDER && ! -f $OUTFOLDER/scaffolds.fasta ]]; then
+  	if [ -d $OUTFOLDER ]; then
+		 time spades.py --threads $CPU -o $OUTFOLDER --restart-from last
+	else
+    		time spades.py --meta --plasmid --threads $CPU -m $MEM \
         -1 ${INFOLDER}/${STEM}_R1.fq.gz -2 ${INFOLDER}/${STEM}_R2.fq.gz \
         -o $OUTFOLDER
+	fi
   fi
   if [ -f $OUTFOLDER/scaffolds.fasta ]; then
     rm -rf $OUTFOLDER/before_rr.fasta $OUTFOLDER/corrected $OUTFOLDER/K*
