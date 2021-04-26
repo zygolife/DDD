@@ -7,7 +7,7 @@ if [ -n "$MODULESHOME" ]; then
 fi
 
 # Define params
-MEM=64
+MEM=16
 SAMPLES=samples_prefix.csv
 INFOLDER=input
 ASM=assembly
