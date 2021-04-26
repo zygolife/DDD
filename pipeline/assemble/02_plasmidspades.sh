@@ -45,17 +45,15 @@ tail -n +2 $SAMPLES | sed -n ${N}p | while read SPECIES STRAIN JGILIBRARY BIOSAM
   
   # Run spades with either --meta or --plasmid
   if [[ ! -d $OUTFOLDER && ! -f $OUTFOLDER/scaffolds.fasta ]]; then
-  	if [ -d $OUTFOLDER ]; then
-     echo "Restarting spades.py --plasmid -o $OUTFOLDER"
-		 time spades.py --threads $CPU -o $OUTFOLDER --restart-from last
-	else
-    echo "Running spades.py --plasmid --threads $CPU -m $MEM -1 ${INFOLDER}/${STEM}_R1.fq.gz -2 ${INFOLDER}/${STEM}_R2.fq.gz -o $OUTFOLDER"
-    time spades.py --plasmid --threads $CPU -m $MEM -1 ${INFOLDER}/${STEM}_R1.fq.gz -2 ${INFOLDER}/${STEM}_R2.fq.gz -o $OUTFOLDER
-    
-    		time spades.py --meta --plasmid --threads $CPU -m $MEM \
-        -1 ${INFOLDER}/${STEM}_R1.fq.gz -2 ${INFOLDER}/${STEM}_R2.fq.gz \
-        -o $OUTFOLDER
-	fi  
+    if [ -d $OUTFOLDER ]; then
+      echo "Restarting spades.py --plasmid -o $OUTFOLDER"
+      time spades.py --threads $CPU -o $OUTFOLDER --restart-from last
+    else
+      echo "Running spades.py --plasmid --threads $CPU -m $MEM -1 ${INFOLDER}/${STEM}_R1.fq.gz -2 ${INFOLDER}/${STEM}_R2.fq.gz -o $OUTFOLDER"
+      time spades.py --plasmid --threads $CPU -m $MEM -1 ${INFOLDER}/${STEM}_R1.fq.gz -2 ${INFOLDER}/${STEM}_R2.fq.gz -o $OUTFOLDER
+    fi
+  fi
+
   # Clean up and compress
   if [ -f $OUTFOLDER/scaffolds.fasta ]; then
     echo "Cleaning..."
