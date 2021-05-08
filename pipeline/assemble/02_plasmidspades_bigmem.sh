@@ -1,20 +1,31 @@
 #!/usr/bin/bash
-#SBATCH -p highmem -N 1 -n 32 --mem 900gb --out logs/metaspades_bigmem.%a.log -J metaspades
+#SBATCH -p highmem -N 1 -n 32 --mem 384gb --out logs/plasmidspades_bigmem.%a.log -J bigplasmidspades
 
-module load spades/3.15.2
+# Load modules
+if [ -n "$MODULESHOME" ]; then
+  module load spades/3.15.2
+fi
 
-MEM=900
+# Define params
+MEM=384
 SAMPLES=samples_prefix.csv
 INFOLDER=input
 ASM=assembly
+
+# Ensure parent output directory
 mkdir -p $ASM
+
+# Determine num CPUs
 CPU=$SLURM_CPUS_ON_NODE
 if [ -z $CPU ]; then
-  CPU=1
+  CPU=$2
+  if [ ! $CPU ]; then
+    CPU=1
+  fi
 fi
 
+# Determine job index
 N=${SLURM_ARRAY_TASK_ID}
-
 if [ ! $N ]; then
     N=$1
     if [ ! $N ]; then
@@ -23,14 +34,14 @@ if [ ! $N ]; then
     fi
 fi
 
-
-#--meta
+# Determine input data from job index
 IFS=,
-tail -n +2 $SAMPLES | sed -n ${N}p | while read SPECIES STRAIN JGILIBRARY BIOSAMPLE BIOPROJECT TAXONOMY_ID ORGANISM_NAME SRA_SAMPID SRA_RUNID LOCUSTAG TEMPLATE
+tail -n +2 $SAMPLES | sed -n ${N}p | while read SPECIES STRAIN JGILIBRARY BIOSAMPLE BIOPROJECT TAXONOMY_ID ORGANISM_NAME SRA_SAMPID SRA_RUNID LOCUSTAG TEMPLATE; 
 do
+    
     # Determine output directory
     STEM=$(echo -n $SPECIES | perl -p -e 's/\s+/_/g')
-    OUTFOLDER=$ASM/${STEM}.spades
+    OUTFOLDER=$ASM/${STEM}.plasmidspades
     echo -e "OUTPUT:\n\t${OUTFOLDER}"
     if [ -f $OUTFOLDER/scaffolds.fasta ]; then
 	echo -e "\tSkipping -> already run"
@@ -38,14 +49,14 @@ do
     fi
     # Run spades with either --meta or --plasmid
     if [ -d $OUTFOLDER ]; then
-	echo "Restarting spades.py --meta -o $OUTFOLDER"
-	time spades.py --threads $CPU -o $OUTFOLDER -m $MEM --restart-from last
+	echo "Restarting spades.py --plasmid -o $OUTFOLDER"
+	time spades.py -m $MEM --threads $CPU -o $OUTFOLDER --restart-from last
     else
-	echo "Running spades.py --meta --threads $CPU -m $MEM -1 ${INFOLDER}/${STEM}_R1.fq.gz -2 ${INFOLDER}/${STEM}_R2.fq.gz -o $OUTFOLDER"
-	time spades.py --meta --threads $CPU -m $MEM --only-assembler \
+	echo "Running spades.py --meta --plasmid --threads $CPU -m $MEM -1 ${INFOLDER}/${STEM}_R1.fq.gz -2 ${INFOLDER}/${STEM}_R2.fq.gz -o $OUTFOLDER"
+	time spades.py --meta --plasmid --threads $CPU -m $MEM --only-assembler \
 	    -1 ${INFOLDER}/${STEM}_R1.fq.gz -2 ${INFOLDER}/${STEM}_R2.fq.gz \
-		-o $OUTFOLDER
-    fi
+		-o $OUTFOLDER 
+    fi  
     # Clean up and compress
     if [ -f $OUTFOLDER/scaffolds.fasta ]; then
 	echo "Cleaning..."
