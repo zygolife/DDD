@@ -74,7 +74,7 @@ do
 
     if [ ! -s $BARRNAP_OUT/$STEM.16S_hits.blastn.tab ]; then
  	blastn -query $BARRNAP_OUT/$STEM.16S_hits.fas  -db $NCBI16S -evalue 1e-30 -out $BARRNAP_OUT/$STEM.16S_hits.blastn.tab \
-	    -num_threads $CPU -num_alignments 10 -outfmt "6 qacc sacc length score evalue pident sscinames"
+		     -num_threads $CPU -num_alignments 5 -outfmt "6 qacc sacc length pident qstart qend sstart ssend score evalue sscinames"
     fi
     if [ ! -s $BARRNAP_OUT/$STEM.ITS_hits.blastn.tab ]; then
 	blastn -query $GENOME -db $NCBIITS -evalue 1e-30 -out $BARRNAP_OUT/$STEM.ITS_hits.blastn.tab \
@@ -82,7 +82,7 @@ do
     fi
     if [ ! -s $BARRNAP_OUT/$STEM.18S_hits.blastn.tab ]; then
 	    blastn -db $NCBI18S -query $GENOME -evalue 1e-30 -out $BARRNAP_OUT/$STEM.18S_hits.blastn.tab \
-		     -num_threads $CPU -num_alignments 10 -outfmt "6 qacc sacc length pident qstart qend sstart ssend score evalue sscinames"
+		     -num_threads $CPU -num_alignments 5 -outfmt "6 qacc sacc length pident qstart qend sstart ssend score evalue sscinames"
  	fi
 #	vsearch --db $SSUDB --usearch_global $BARRNAP_OUT/$STEM.16S_hits.fas --uc $BARRNAP_OUT/$STEM.16S_hits.SILVA_SSU.uc --id 0.95 --threads $CPU
 #    fi

@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-#SBATCH -p batch,intel --mem 32gb -N 1 -n 24 --out logs/autometa_taxonomy.%a.%A.log
+#SBATCH -p batch,intel --mem 24gb -N 1 -n 24 --out logs/autometa_taxonomy.%a.%A.log
 
 # see module load below
 
