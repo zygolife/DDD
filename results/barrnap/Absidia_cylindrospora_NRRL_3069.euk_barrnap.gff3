@@ -1,0 +1,15 @@
+##gff-version 3
+NRRL_3069_metscf_1272	barrnap:0.9	rRNA	826	2661	0	+	.	Name=18S_rRNA;product=18S ribosomal RNA
+NRRL_3069_metscf_1272	barrnap:0.9	rRNA	2851	6684	0	+	.	Name=28S_rRNA;product=28S ribosomal RNA
+NRRL_3069_metscf_1272	barrnap:0.9	rRNA	2855	3002	7e-27	+	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+NRRL_3069_metscf_1337	barrnap:0.9	rRNA	2001	3210	1.3e-101	-	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 41 percent of the 28S ribosomal RNA
+NRRL_3069_metscf_1337	barrnap:0.9	rRNA	3433	4308	4.2e-168	-	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 30 percent of the 28S ribosomal RNA
+NRRL_3069_metscf_1337	barrnap:0.9	rRNA	4351	5222	1.3e-61	-	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 29 percent of the 28S ribosomal RNA
+NRRL_3069_metscf_1337	barrnap:0.9	rRNA	5508	5606	2e-16	-	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA (partial);note=aligned only 63 percent of the 5.8S ribosomal RNA
+NRRL_3069_metscf_139	barrnap:0.9	rRNA	7249	7895	4.1e-45	+	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 34 percent of the 18S ribosomal RNA
+NRRL_3069_metscf_139	barrnap:0.9	rRNA	26798	28659	1.7e-55	+	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 63 percent of the 28S ribosomal RNA
+NRRL_3069_metscf_1571	barrnap:0.9	rRNA	1112	1185	4.5e-12	-	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA (partial);note=aligned only 47 percent of the 5.8S ribosomal RNA
+NRRL_3069_metscf_1648	barrnap:0.9	rRNA	1467	1587	2.4e-13	-	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA (partial);note=aligned only 77 percent of the 5.8S ribosomal RNA
+NRRL_3069_metscf_2388	barrnap:0.9	rRNA	41	153	4.3e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_3069_plascf_1_covcut_5	barrnap:0.9	rRNA	25927	27788	1.7e-55	-	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 63 percent of the 28S ribosomal RNA
+NRRL_3069_plascf_1_covcut_5	barrnap:0.9	rRNA	46691	47337	4.1e-45	-	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 34 percent of the 18S ribosomal RNA

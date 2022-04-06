@@ -1,0 +1,4 @@
+##gff-version 3
+GBA43_metscf_11	barrnap:0.9	rRNA	115710	116743	5.6e-47	-	.	Name=12S_rRNA;product=12S ribosomal RNA
+GBA43_metscf_866	barrnap:0.9	rRNA	3906	4221	3.6e-08	+	.	Name=12S_rRNA;product=12S ribosomal RNA (partial);note=aligned only 33 percent of the 12S ribosomal RNA
+GBA43_metscf_866	barrnap:0.9	rRNA	4549	4795	1.3e-08	+	.	Name=12S_rRNA;product=12S ribosomal RNA (partial);note=aligned only 25 percent of the 12S ribosomal RNA

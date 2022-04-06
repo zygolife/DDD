@@ -1,0 +1,27 @@
+##gff-version 3
+PUST_F9C_metscf_11458	barrnap:0.9	rRNA	3	85	2.8e-10	+	.	Name=5S_rRNA;product=5S ribosomal RNA (partial);note=aligned only 69 percent of the 5S ribosomal RNA
+PUST_F9C_metscf_11713	barrnap:0.9	rRNA	3	85	2.5e-09	+	.	Name=5S_rRNA;product=5S ribosomal RNA (partial);note=aligned only 69 percent of the 5S ribosomal RNA
+PUST_F9C_metscf_11779	barrnap:0.9	rRNA	1	83	1.2e-10	-	.	Name=5S_rRNA;product=5S ribosomal RNA (partial);note=aligned only 69 percent of the 5S ribosomal RNA
+PUST_F9C_metscf_1351	barrnap:0.9	rRNA	8003	8116	1.5e-15	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+PUST_F9C_metscf_14363	barrnap:0.9	rRNA	3	75	2.1e-09	-	.	Name=5S_rRNA;product=5S ribosomal RNA (partial);note=aligned only 61 percent of the 5S ribosomal RNA
+PUST_F9C_metscf_14411	barrnap:0.9	rRNA	3	76	3.2e-07	+	.	Name=5S_rRNA;product=5S ribosomal RNA (partial);note=aligned only 62 percent of the 5S ribosomal RNA
+PUST_F9C_metscf_14418	barrnap:0.9	rRNA	3	76	4.9e-08	+	.	Name=5S_rRNA;product=5S ribosomal RNA (partial);note=aligned only 62 percent of the 5S ribosomal RNA
+PUST_F9C_metscf_14423	barrnap:0.9	rRNA	3	75	1.4e-08	+	.	Name=5S_rRNA;product=5S ribosomal RNA (partial);note=aligned only 61 percent of the 5S ribosomal RNA
+PUST_F9C_metscf_1563	barrnap:0.9	rRNA	7	2052	1.1e-131	-	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 63 percent of the 23S ribosomal RNA
+PUST_F9C_metscf_1563	barrnap:0.9	rRNA	3583	4509	1.3e-82	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 58 percent of the 16S ribosomal RNA
+PUST_F9C_metscf_1563	barrnap:0.9	rRNA	4750	5372	1.3e-13	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 39 percent of the 16S ribosomal RNA
+PUST_F9C_metscf_189	barrnap:0.9	rRNA	44884	44994	9e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+PUST_F9C_metscf_198	barrnap:0.9	rRNA	7528	7641	3.6e-15	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+PUST_F9C_metscf_25	barrnap:0.9	rRNA	15926	16039	1.5e-15	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+PUST_F9C_metscf_297	barrnap:0.9	rRNA	39042	39155	1.5e-15	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+PUST_F9C_metscf_3	barrnap:0.9	rRNA	82623	82734	1.1e-09	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+PUST_F9C_metscf_31	barrnap:0.9	rRNA	27741	27854	1.5e-15	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+PUST_F9C_metscf_352	barrnap:0.9	rRNA	9999	11502	2e-144	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+PUST_F9C_metscf_374	barrnap:0.9	rRNA	26021	26133	1.7e-07	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+PUST_F9C_metscf_4763	barrnap:0.9	rRNA	2	105	9.3e-13	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+PUST_F9C_metscf_555	barrnap:0.9	rRNA	4001	4108	3.2e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+PUST_F9C_metscf_603	barrnap:0.9	rRNA	17000	20040	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+PUST_F9C_metscf_7983	barrnap:0.9	rRNA	4	91	1.1e-11	+	.	Name=5S_rRNA;product=5S ribosomal RNA (partial);note=aligned only 73 percent of the 5S ribosomal RNA
+PUST_F9C_metscf_818	barrnap:0.9	rRNA	2917	3031	2.7e-07	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+PUST_F9C_metscf_9310	barrnap:0.9	rRNA	2	86	2.5e-09	+	.	Name=5S_rRNA;product=5S ribosomal RNA (partial);note=aligned only 71 percent of the 5S ribosomal RNA
+PUST_F9C_metscf_9603	barrnap:0.9	rRNA	6	94	1e-10	+	.	Name=5S_rRNA;product=5S ribosomal RNA (partial);note=aligned only 74 percent of the 5S ribosomal RNA

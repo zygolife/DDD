@@ -1,0 +1,5 @@
+##gff-version 3
+RSA_564_metscf_431	barrnap:0.9	rRNA	1933	3784	0	+	.	Name=18S_rRNA;product=18S ribosomal RNA
+RSA_564_metscf_431	barrnap:0.9	rRNA	3953	7926	0	+	.	Name=28S_rRNA;product=28S ribosomal RNA
+RSA_564_metscf_431	barrnap:0.9	rRNA	3959	4103	2.3e-24	+	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+RSA_564_metscf_981	barrnap:0.9	rRNA	1853	1963	4.5e-16	+	.	Name=5S_rRNA;product=5S ribosomal RNA

@@ -1,0 +1,25 @@
+##gff-version 3
+ARSEF_6913_metscf_1166	barrnap:0.9	rRNA	16742	16890	7e-11	+	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+ARSEF_6913_metscf_1166	barrnap:0.9	rRNA	17244	20592	0	+	.	Name=28S_rRNA;product=28S ribosomal RNA
+ARSEF_6913_metscf_1330	barrnap:0.9	rRNA	6503	9204	0	-	.	Name=28S_rRNA;product=28S ribosomal RNA
+ARSEF_6913_metscf_1330	barrnap:0.9	rRNA	9662	9806	1.1e-11	-	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+ARSEF_6913_metscf_2270	barrnap:0.9	rRNA	3087	6289	0	-	.	Name=28S_rRNA;product=28S ribosomal RNA
+ARSEF_6913_metscf_2270	barrnap:0.9	rRNA	6678	6798	5.3e-12	-	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA (partial);note=aligned only 77 percent of the 5.8S ribosomal RNA
+ARSEF_6913_metscf_2336	barrnap:0.9	rRNA	23	664	1.1e-133	-	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 34 percent of the 18S ribosomal RNA
+ARSEF_6913_metscf_2383	barrnap:0.9	rRNA	687	797	1.6e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+ARSEF_6913_metscf_2383	barrnap:0.9	rRNA	2669	6661	0	-	.	Name=28S_rRNA;product=28S ribosomal RNA
+ARSEF_6913_metscf_2383	barrnap:0.9	rRNA	6510	6658	5.2e-24	-	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+ARSEF_6913_metscf_2383	barrnap:0.9	rRNA	6938	8781	0	-	.	Name=18S_rRNA;product=18S ribosomal RNA
+ARSEF_6913_metscf_2559	barrnap:0.9	rRNA	1856	1975	3.2e-15	+	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA (partial);note=aligned only 76 percent of the 5.8S ribosomal RNA
+ARSEF_6913_metscf_2559	barrnap:0.9	rRNA	2501	4926	0	+	.	Name=28S_rRNA;product=28S ribosomal RNA
+ARSEF_6913_metscf_3248	barrnap:0.9	rRNA	2541	2681	1.5e-14	-	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+ARSEF_6913_metscf_489	barrnap:0.9	rRNA	35092	35881	8.7e-41	+	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 42 percent of the 18S ribosomal RNA
+NODE_1_length_11419_cov_882.897184_cutoff_434	barrnap:0.9	rRNA	927	1037	1.6e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NODE_1_length_11419_cov_882.897184_cutoff_434	barrnap:0.9	rRNA	2909	6901	0	-	.	Name=28S_rRNA;product=28S ribosomal RNA
+NODE_1_length_11419_cov_882.897184_cutoff_434	barrnap:0.9	rRNA	6750	6898	5.2e-24	-	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+NODE_1_length_11419_cov_882.897184_cutoff_434	barrnap:0.9	rRNA	7178	9021	0	-	.	Name=18S_rRNA;product=18S ribosomal RNA
+NODE_1_length_41366_cov_714.223211_cutoff_0	barrnap:0.9	rRNA	3792	4581	8.7e-41	-	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 42 percent of the 18S ribosomal RNA
+NODE_2_length_11805_cov_874.134441_cutoff_0	barrnap:0.9	rRNA	927	1037	1.6e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NODE_2_length_11805_cov_874.134441_cutoff_0	barrnap:0.9	rRNA	2909	6901	0	-	.	Name=28S_rRNA;product=28S ribosomal RNA
+NODE_2_length_11805_cov_874.134441_cutoff_0	barrnap:0.9	rRNA	6750	6898	5.2e-24	-	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+NODE_2_length_11805_cov_874.134441_cutoff_0	barrnap:0.9	rRNA	7178	9021	0	-	.	Name=18S_rRNA;product=18S ribosomal RNA

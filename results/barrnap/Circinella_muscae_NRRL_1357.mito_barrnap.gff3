@@ -1,0 +1,15 @@
+##gff-version 3
+NRRL_1357_metscf_1553	barrnap:0.9	rRNA	2704	2951	1.2e-08	+	.	Name=12S_rRNA;product=12S ribosomal RNA (partial);note=aligned only 25 percent of the 12S ribosomal RNA
+NRRL_1357_metscf_1553	barrnap:0.9	rRNA	5735	6637	5.4e-34	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 56 percent of the 16S ribosomal RNA
+NRRL_1357_metscf_8	barrnap:0.9	rRNA	5205	5938	5.7e-60	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 46 percent of the 16S ribosomal RNA
+NRRL_1357_metscf_8	barrnap:0.9	rRNA	58484	59473	8.4e-34	-	.	Name=12S_rRNA;product=12S ribosomal RNA
+NRRL_1357_plascf_1_covcut_0	barrnap:0.9	rRNA	9125	9858	5.7e-60	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 46 percent of the 16S ribosomal RNA
+NRRL_1357_plascf_1_covcut_0	barrnap:0.9	rRNA	61819	62808	8.4e-34	+	.	Name=12S_rRNA;product=12S ribosomal RNA
+NRRL_1357_plascf_1_covcut_10	barrnap:0.9	rRNA	23152	23885	5.7e-60	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 46 percent of the 16S ribosomal RNA
+NRRL_1357_plascf_1_covcut_10	barrnap:0.9	rRNA	76431	77420	8.4e-34	-	.	Name=12S_rRNA;product=12S ribosomal RNA
+NRRL_1357_plascf_1_covcut_20	barrnap:0.9	rRNA	37941	38674	5.7e-60	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 46 percent of the 16S ribosomal RNA
+NRRL_1357_plascf_1_covcut_20	barrnap:0.9	rRNA	90635	91624	8.4e-34	+	.	Name=12S_rRNA;product=12S ribosomal RNA
+NRRL_1357_plascf_1_covcut_33	barrnap:0.9	rRNA	11684	12673	8.4e-34	+	.	Name=12S_rRNA;product=12S ribosomal RNA
+NRRL_1357_plascf_1_covcut_33	barrnap:0.9	rRNA	63764	64497	5.7e-60	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 46 percent of the 16S ribosomal RNA
+NRRL_1357_plascf_1_covcut_5	barrnap:0.9	rRNA	23152	23885	5.7e-60	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 46 percent of the 16S ribosomal RNA
+NRRL_1357_plascf_1_covcut_5	barrnap:0.9	rRNA	76431	77420	8.4e-34	-	.	Name=12S_rRNA;product=12S ribosomal RNA

@@ -1,0 +1,15 @@
+##gff-version 3
+NRRL_1439_metscf_1023	barrnap:0.9	rRNA	1	85	4.4e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA (partial);note=aligned only 71 percent of the 5S ribosomal RNA
+NRRL_1439_metscf_1023	barrnap:0.9	rRNA	1292	1926	2.5e-27	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 40 percent of the 16S ribosomal RNA
+NRRL_1439_metscf_1023	barrnap:0.9	rRNA	2171	3116	2.8e-105	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 59 percent of the 16S ribosomal RNA
+NRRL_1439_metscf_1023	barrnap:0.9	rRNA	3330	3479	6e-31	+	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+NRRL_1439_metscf_1023	barrnap:0.9	rRNA	4411	5730	3e-104	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 40 percent of the 23S ribosomal RNA
+NRRL_1439_metscf_1023	barrnap:0.9	rRNA	5818	6992	4.3e-142	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 36 percent of the 23S ribosomal RNA
+NRRL_1439_metscf_348	barrnap:0.9	rRNA	3185	4419	3.4e-86	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 38 percent of the 23S ribosomal RNA
+NRRL_1439_metscf_348	barrnap:0.9	rRNA	4573	5813	1.4e-146	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 38 percent of the 23S ribosomal RNA
+NRRL_1439_metscf_348	barrnap:0.9	rRNA	7433	8764	1.4e-105	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NRRL_1439_metscf_4605	barrnap:0.9	rRNA	18	131	2.5e-15	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_1439_metscf_6851	barrnap:0.9	rRNA	1	83	2.6e-11	-	.	Name=5S_rRNA;product=5S ribosomal RNA (partial);note=aligned only 69 percent of the 5S ribosomal RNA
+NRRL_1439_plascf_1_covcut_0	barrnap:0.9	rRNA	24663	25994	1.4e-105	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+NRRL_1439_plascf_1_covcut_0	barrnap:0.9	rRNA	27614	28854	1.4e-146	-	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 38 percent of the 23S ribosomal RNA
+NRRL_1439_plascf_1_covcut_0	barrnap:0.9	rRNA	29008	30242	3.4e-86	-	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 38 percent of the 23S ribosomal RNA

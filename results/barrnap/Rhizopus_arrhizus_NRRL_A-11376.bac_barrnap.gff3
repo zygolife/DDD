@@ -1,0 +1,18 @@
+##gff-version 3
+NRRL_A-11376_metscf_2922	barrnap:0.9	rRNA	527	3720	4.8e-205	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NRRL_A-11376_metscf_2922	barrnap:0.9	rRNA	4272	5223	4.9e-82	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 60 percent of the 16S ribosomal RNA
+NRRL_A-11376_metscf_2922	barrnap:0.9	rRNA	5460	6086	3.3e-12	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 39 percent of the 16S ribosomal RNA
+NRRL_A-11376_metscf_2922	barrnap:0.9	rRNA	7680	7792	2.1e-18	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_A-11376_metscf_3695	barrnap:0.9	rRNA	292	1820	0	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NRRL_A-11376_metscf_3695	barrnap:0.9	rRNA	2361	5242	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NRRL_A-11376_metscf_4209	barrnap:0.9	rRNA	745	854	7.8e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_A-11376_metscf_4209	barrnap:0.9	rRNA	956	3864	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NRRL_A-11376_metscf_605	barrnap:0.9	rRNA	5498	9083	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NRRL_A-11376_metscf_605	barrnap:0.9	rRNA	10926	12335	1.8e-184	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+NRRL_A-11376_metscf_6492	barrnap:0.9	rRNA	1	1130	2.8e-293	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 71 percent of the 16S ribosomal RNA
+NRRL_A-11376_plascf_1_covcut_0	barrnap:0.9	rRNA	1641	5226	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NRRL_A-11376_plascf_1_covcut_0	barrnap:0.9	rRNA	58177	59586	1.8e-184	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NRRL_A-11376_plascf_2_covcut_0	barrnap:0.9	rRNA	569	681	2.1e-18	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_A-11376_plascf_2_covcut_0	barrnap:0.9	rRNA	1493	4685	5e-205	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NRRL_A-11376_plascf_2_covcut_0	barrnap:0.9	rRNA	5237	6188	4.9e-82	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 60 percent of the 16S ribosomal RNA
+NRRL_A-11376_plascf_2_covcut_0	barrnap:0.9	rRNA	6425	7051	3.3e-12	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 39 percent of the 16S ribosomal RNA

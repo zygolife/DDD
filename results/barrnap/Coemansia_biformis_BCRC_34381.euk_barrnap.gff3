@@ -1,0 +1,17 @@
+##gff-version 3
+BCRC_34381_metscf_1889	barrnap:0.9	rRNA	1	1261	1.7e-294	-	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 67 percent of the 18S ribosomal RNA
+BCRC_34381_metscf_2775	barrnap:0.9	rRNA	1	621	2.9e-138	-	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 33 percent of the 18S ribosomal RNA
+BCRC_34381_metscf_3294	barrnap:0.9	rRNA	340	449	2.3e-15	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+BCRC_34381_metscf_33	barrnap:0.9	rRNA	29729	29838	6.5e-15	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+BCRC_34381_metscf_36	barrnap:0.9	rRNA	37462	38306	7.9e-14	-	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 45 percent of the 18S ribosomal RNA
+BCRC_34381_metscf_36	barrnap:0.9	rRNA	39881	41424	2.3e-08	-	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 53 percent of the 28S ribosomal RNA
+BCRC_34381_metscf_444	barrnap:0.9	rRNA	4494	5593	4.5e-244	-	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 37 percent of the 28S ribosomal RNA
+BCRC_34381_metscf_444	barrnap:0.9	rRNA	6615	9831	0	-	.	Name=28S_rRNA;product=28S ribosomal RNA
+BCRC_34381_metscf_444	barrnap:0.9	rRNA	9680	9824	4.1e-26	-	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+BCRC_34381_metscf_5	barrnap:0.9	rRNA	160611	160720	2.1e-15	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+BCRC_34381_metscf_5930	barrnap:0.9	rRNA	155	238	1.5e-08	+	.	Name=5S_rRNA;product=5S ribosomal RNA (partial);note=aligned only 70 percent of the 5S ribosomal RNA
+BCRC_34381_metscf_6670	barrnap:0.9	rRNA	113	207	7.1e-10	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+BCRC_34381_metscf_6810	barrnap:0.9	rRNA	97	202	5.9e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+BCRC_34381_metscf_7519	barrnap:0.9	rRNA	2	67	2.7e-07	+	.	Name=5S_rRNA;product=5S ribosomal RNA (partial);note=aligned only 55 percent of the 5S ribosomal RNA
+BCRC_34381_metscf_7853	barrnap:0.9	rRNA	61	158	3.5e-11	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+BCRC_34381_metscf_867	barrnap:0.9	rRNA	164	2042	0	-	.	Name=18S_rRNA;product=18S ribosomal RNA

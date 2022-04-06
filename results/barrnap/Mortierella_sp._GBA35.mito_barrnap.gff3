@@ -1,0 +1,6 @@
+##gff-version 3
+GBA35_metscf_13	barrnap:0.9	rRNA	26498	27718	7e-49	+	.	Name=12S_rRNA;product=12S ribosomal RNA
+GBA35_metscf_1725	barrnap:0.9	rRNA	2402	2717	3.2e-08	+	.	Name=12S_rRNA;product=12S ribosomal RNA (partial);note=aligned only 33 percent of the 12S ribosomal RNA
+GBA35_metscf_1725	barrnap:0.9	rRNA	3041	3291	7.8e-09	+	.	Name=12S_rRNA;product=12S ribosomal RNA (partial);note=aligned only 26 percent of the 12S ribosomal RNA
+GBA35_metscf_3428	barrnap:0.9	rRNA	22	266	1.2e-19	+	.	Name=12S_rRNA;product=12S ribosomal RNA (partial);note=aligned only 25 percent of the 12S ribosomal RNA
+GBA35_plascf_1_covcut_0	barrnap:0.9	rRNA	7120	8340	7e-49	-	.	Name=12S_rRNA;product=12S ribosomal RNA

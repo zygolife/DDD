@@ -1,0 +1,15 @@
+##gff-version 3
+RSA_2559_metscf_117	barrnap:0.9	rRNA	18811	18921	6.2e-16	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+RSA_2559_metscf_1439	barrnap:0.9	rRNA	2447	2557	6.2e-16	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+RSA_2559_metscf_1541	barrnap:0.9	rRNA	16	3630	0	-	.	Name=28S_rRNA;product=28S ribosomal RNA
+RSA_2559_metscf_1573	barrnap:0.9	rRNA	3379	3489	6.2e-16	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+RSA_2559_metscf_1890	barrnap:0.9	rRNA	146	256	6.2e-16	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+RSA_2559_metscf_2303	barrnap:0.9	rRNA	29	1880	0	-	.	Name=18S_rRNA;product=18S ribosomal RNA
+RSA_2559_metscf_297	barrnap:0.9	rRNA	3253	3362	8.6e-09	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+RSA_2559_metscf_3235	barrnap:0.9	rRNA	1303	1413	6.2e-16	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+RSA_2559_metscf_4057	barrnap:0.9	rRNA	622	732	6.2e-16	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+RSA_2559_metscf_4293	barrnap:0.9	rRNA	220	330	6.2e-16	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+RSA_2559_metscf_4536	barrnap:0.9	rRNA	298	408	6.2e-16	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+RSA_2559_metscf_5844	barrnap:0.9	rRNA	143	281	1.9e-22	-	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+RSA_2559_metscf_6087	barrnap:0.9	rRNA	159	269	6.2e-16	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+RSA_2559_metscf_6797	barrnap:0.9	rRNA	154	292	1.9e-22	-	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA

@@ -1,0 +1,6 @@
+##gff-version 3
+RSA_720_metscf_189	barrnap:0.9	rRNA	2245	2621	9.5e-07	+	.	Name=12S_rRNA;product=12S ribosomal RNA (partial);note=aligned only 39 percent of the 12S ribosomal RNA
+RSA_720_metscf_189	barrnap:0.9	rRNA	4042	4297	3.6e-10	+	.	Name=12S_rRNA;product=12S ribosomal RNA (partial);note=aligned only 26 percent of the 12S ribosomal RNA
+RSA_720_metscf_193	barrnap:0.9	rRNA	6133	7883	5.4e-71	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+RSA_720_metscf_193	barrnap:0.9	rRNA	9069	9560	1.2e-22	+	.	Name=12S_rRNA;product=12S ribosomal RNA (partial);note=aligned only 51 percent of the 12S ribosomal RNA
+RSA_720_metscf_193	barrnap:0.9	rRNA	10786	11170	3.9e-12	+	.	Name=12S_rRNA;product=12S ribosomal RNA (partial);note=aligned only 40 percent of the 12S ribosomal RNA

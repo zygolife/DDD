@@ -1,0 +1,9 @@
+##gff-version 3
+FLAS-F-62758_metscf_1270	barrnap:0.9	rRNA	1467	1574	1.4e-16	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+FLAS-F-62758_metscf_1437	barrnap:0.9	rRNA	139	246	1.4e-16	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+FLAS-F-62758_metscf_461	barrnap:0.9	rRNA	11904	15113	4.3e-220	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+FLAS-F-62758_metscf_504	barrnap:0.9	rRNA	8899	10343	6.1e-184	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+FLAS-F-62758_metscf_5649	barrnap:0.9	rRNA	91	198	6.7e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+FLAS-F-62758_metscf_698	barrnap:0.9	rRNA	244	3444	7.5e-206	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+FLAS-F-62758_metscf_698	barrnap:0.9	rRNA	4022	4972	1.1e-82	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 60 percent of the 16S ribosomal RNA
+FLAS-F-62758_metscf_698	barrnap:0.9	rRNA	5207	5833	1.6e-12	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 39 percent of the 16S ribosomal RNA

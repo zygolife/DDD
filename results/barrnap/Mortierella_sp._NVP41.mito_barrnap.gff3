@@ -1,0 +1,4 @@
+##gff-version 3
+NVP41_metscf_1287	barrnap:0.9	rRNA	2575	2890	3.2e-08	+	.	Name=12S_rRNA;product=12S ribosomal RNA (partial);note=aligned only 33 percent of the 12S ribosomal RNA
+NVP41_metscf_1287	barrnap:0.9	rRNA	3214	3464	7.8e-09	+	.	Name=12S_rRNA;product=12S ribosomal RNA (partial);note=aligned only 26 percent of the 12S ribosomal RNA
+NVP41_metscf_76	barrnap:0.9	rRNA	50465	51685	7e-49	+	.	Name=12S_rRNA;product=12S ribosomal RNA

@@ -1,0 +1,16 @@
+##gff-version 3
+NRRL_5550_metscf_245	barrnap:0.9	rRNA	436	1210	1.6e-47	+	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 41 percent of the 18S ribosomal RNA
+NRRL_5550_metscf_245	barrnap:0.9	rRNA	29104	30130	4.1e-60	+	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 35 percent of the 28S ribosomal RNA
+NRRL_5550_metscf_505	barrnap:0.9	rRNA	3	1521	0	+	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 52 percent of the 28S ribosomal RNA
+NRRL_5550_metscf_505	barrnap:0.9	rRNA	1938	2051	6.9e-19	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_5550_metscf_505	barrnap:0.9	rRNA	3613	5435	0	+	.	Name=18S_rRNA;product=18S ribosomal RNA
+NRRL_5550_metscf_505	barrnap:0.9	rRNA	5682	8007	0	+	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 79 percent of the 28S ribosomal RNA
+NRRL_5550_metscf_505	barrnap:0.9	rRNA	5686	5835	1.3e-27	+	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+NRRL_5550_metscf_542	barrnap:0.9	rRNA	936	1807	2.4e-89	+	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 46 percent of the 18S ribosomal RNA
+NRRL_5550_metscf_542	barrnap:0.9	rRNA	4113	5113	8.2e-75	+	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 34 percent of the 28S ribosomal RNA
+NRRL_5550_plascf_1_covcut_0	barrnap:0.9	rRNA	19783	20809	4.1e-60	+	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 35 percent of the 28S ribosomal RNA
+NRRL_5550_plascf_1_covcut_0	barrnap:0.9	rRNA	27802	28576	1.6e-47	+	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 41 percent of the 18S ribosomal RNA
+NRRL_5550_plascf_2_covcut_0	barrnap:0.9	rRNA	972	1085	6.9e-19	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_5550_plascf_2_covcut_0	barrnap:0.9	rRNA	2647	4469	0	+	.	Name=18S_rRNA;product=18S ribosomal RNA
+NRRL_5550_plascf_2_covcut_0	barrnap:0.9	rRNA	4716	8079	0	+	.	Name=28S_rRNA;product=28S ribosomal RNA
+NRRL_5550_plascf_2_covcut_0	barrnap:0.9	rRNA	4720	4869	1.3e-27	+	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA

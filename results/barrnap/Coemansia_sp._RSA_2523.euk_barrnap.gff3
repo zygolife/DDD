@@ -1,0 +1,6 @@
+##gff-version 3
+RSA_2523_metscf_270	barrnap:0.9	rRNA	10963	14936	0	-	.	Name=28S_rRNA;product=28S ribosomal RNA
+RSA_2523_metscf_270	barrnap:0.9	rRNA	14786	14930	2.3e-24	-	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+RSA_2523_metscf_270	barrnap:0.9	rRNA	15110	16961	0	-	.	Name=18S_rRNA;product=18S ribosomal RNA
+RSA_2523_metscf_3224	barrnap:0.9	rRNA	3	151	7.3e-25	+	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+RSA_2523_metscf_690	barrnap:0.9	rRNA	35	145	4.5e-16	-	.	Name=5S_rRNA;product=5S ribosomal RNA

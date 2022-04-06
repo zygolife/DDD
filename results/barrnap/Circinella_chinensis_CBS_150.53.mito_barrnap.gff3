@@ -1,0 +1,5 @@
+##gff-version 3
+CBS_150.53_metscf_27	barrnap:0.9	rRNA	95764	96753	3.8e-34	+	.	Name=12S_rRNA;product=12S ribosomal RNA
+CBS_150.53_metscf_27	barrnap:0.9	rRNA	103894	104937	1.7e-71	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 65 percent of the 16S ribosomal RNA
+CBS_150.53_metscf_780	barrnap:0.9	rRNA	679	1583	1.2e-33	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 57 percent of the 16S ribosomal RNA
+CBS_150.53_metscf_780	barrnap:0.9	rRNA	4449	4696	9.5e-09	-	.	Name=12S_rRNA;product=12S ribosomal RNA (partial);note=aligned only 25 percent of the 12S ribosomal RNA

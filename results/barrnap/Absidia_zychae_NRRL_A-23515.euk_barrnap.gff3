@@ -1,0 +1,19 @@
+##gff-version 3
+NRRL_A-23515_metscf_13	barrnap:0.9	rRNA	21459	21571	8.7e-19	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_A-23515_metscf_148	barrnap:0.9	rRNA	37536	37648	8.7e-19	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_A-23515_metscf_16	barrnap:0.9	rRNA	131781	131894	5.1e-19	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_A-23515_metscf_161	barrnap:0.9	rRNA	114	745	8.3e-39	-	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 33 percent of the 18S ribosomal RNA
+NRRL_A-23515_metscf_161	barrnap:0.9	rRNA	10156	11186	3.1e-55	-	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 35 percent of the 28S ribosomal RNA
+NRRL_A-23515_metscf_168	barrnap:0.9	rRNA	401	512	5.7e-17	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_A-23515_metscf_18	barrnap:0.9	rRNA	2667	2779	8.7e-19	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_A-23515_metscf_186	barrnap:0.9	rRNA	16267	16379	7.3e-19	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_A-23515_metscf_216	barrnap:0.9	rRNA	275	2045	0	+	.	Name=18S_rRNA;product=18S ribosomal RNA
+NRRL_A-23515_metscf_216	barrnap:0.9	rRNA	2187	5780	0	+	.	Name=28S_rRNA;product=28S ribosomal RNA
+NRRL_A-23515_metscf_216	barrnap:0.9	rRNA	2191	2342	2.1e-27	+	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+NRRL_A-23515_metscf_366	barrnap:0.9	rRNA	110	222	8.7e-19	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_A-23515_metscf_388	barrnap:0.9	rRNA	62	173	5.7e-17	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_A-23515_metscf_44	barrnap:0.9	rRNA	145736	145847	1.9e-18	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_A-23515_metscf_456	barrnap:0.9	rRNA	180	237	6.9e-09	+	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA (partial);note=aligned only 37 percent of the 5.8S ribosomal RNA
+NRRL_A-23515_metscf_54	barrnap:0.9	rRNA	127108	127219	5.7e-17	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_A-23515_metscf_63	barrnap:0.9	rRNA	109426	109538	8.7e-19	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_A-23515_plascf_1_covcut_0	barrnap:0.9	rRNA	20268	20899	7e-39	-	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 33 percent of the 18S ribosomal RNA

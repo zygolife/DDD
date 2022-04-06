@@ -1,0 +1,7 @@
+##gff-version 3
+RSA_2603_metscf_17	barrnap:0.9	rRNA	30335	31442	6.1e-40	-	.	Name=12S_rRNA;product=12S ribosomal RNA
+RSA_2603_metscf_17	barrnap:0.9	rRNA	32235	33168	5e-49	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 58 percent of the 16S ribosomal RNA
+RSA_2603_metscf_535	barrnap:0.9	rRNA	6048	6299	6.3e-09	-	.	Name=12S_rRNA;product=12S ribosomal RNA (partial);note=aligned only 26 percent of the 12S ribosomal RNA
+RSA_2603_metscf_535	barrnap:0.9	rRNA	6629	6940	3.4e-08	-	.	Name=12S_rRNA;product=12S ribosomal RNA (partial);note=aligned only 32 percent of the 12S ribosomal RNA
+RSA_2603_plascf_1_covcut_0	barrnap:0.9	rRNA	25849	26956	6.1e-40	-	.	Name=12S_rRNA;product=12S ribosomal RNA
+RSA_2603_plascf_1_covcut_0	barrnap:0.9	rRNA	27749	28682	5e-49	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 58 percent of the 16S ribosomal RNA

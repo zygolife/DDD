@@ -1,0 +1,4 @@
+##gff-version 3
+IMI_214461_metscf_343	barrnap:0.9	rRNA	2363	2618	3.9e-09	+	.	Name=12S_rRNA;product=12S ribosomal RNA (partial);note=aligned only 26 percent of the 12S ribosomal RNA
+IMI_214461_metscf_49	barrnap:0.9	rRNA	4768	5900	1.9e-37	+	.	Name=12S_rRNA;product=12S ribosomal RNA
+IMI_214461_plascf_1_covcut_0	barrnap:0.9	rRNA	37462	38594	1.9e-37	+	.	Name=12S_rRNA;product=12S ribosomal RNA

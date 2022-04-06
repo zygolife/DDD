@@ -1,0 +1,5 @@
+##gff-version 3
+AD009_metscf_1621	barrnap:0.9	rRNA	975	1290	4e-08	+	.	Name=12S_rRNA;product=12S ribosomal RNA (partial);note=aligned only 33 percent of the 12S ribosomal RNA
+AD009_metscf_1621	barrnap:0.9	rRNA	1614	1864	5.2e-09	+	.	Name=12S_rRNA;product=12S ribosomal RNA (partial);note=aligned only 26 percent of the 12S ribosomal RNA
+AD009_metscf_93	barrnap:0.9	rRNA	37049	38065	5.3e-50	+	.	Name=12S_rRNA;product=12S ribosomal RNA
+AD009_plascf_1_covcut_0	barrnap:0.9	rRNA	37071	38087	5.3e-50	+	.	Name=12S_rRNA;product=12S ribosomal RNA

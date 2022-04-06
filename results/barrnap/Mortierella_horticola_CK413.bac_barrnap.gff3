@@ -1,0 +1,17 @@
+##gff-version 3
+CK413_metscf_1382	barrnap:0.9	rRNA	764	876	1.5e-09	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+CK413_metscf_1402	barrnap:0.9	rRNA	1510	1621	2.4e-15	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+CK413_metscf_1693	barrnap:0.9	rRNA	146	259	4.6e-15	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+CK413_metscf_202	barrnap:0.9	rRNA	24668	27688	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+CK413_metscf_202	barrnap:0.9	rRNA	38843	40167	1.1e-145	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+CK413_metscf_2651	barrnap:0.9	rRNA	30	127	6.1e-07	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+CK413_metscf_657	barrnap:0.9	rRNA	2595	3404	4.6e-32	-	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 25 percent of the 23S ribosomal RNA
+CK413_metscf_970	barrnap:0.9	rRNA	1553	2174	4.7e-13	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 39 percent of the 16S ribosomal RNA
+CK413_metscf_970	barrnap:0.9	rRNA	2417	3343	5.6e-83	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 58 percent of the 16S ribosomal RNA
+CK413_metscf_970	barrnap:0.9	rRNA	4850	6896	3.3e-132	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 63 percent of the 23S ribosomal RNA
+CK413_plascf_1_covcut_0	barrnap:0.9	rRNA	25505	28525	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+CK413_plascf_1_covcut_0	barrnap:0.9	rRNA	39680	41004	1.1e-145	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+CK413_plascf_1_covcut_91	barrnap:0.9	rRNA	5	2077	7.2e-139	-	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 64 percent of the 23S ribosomal RNA
+CK413_plascf_1_covcut_91	barrnap:0.9	rRNA	3584	4510	5.6e-83	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 58 percent of the 16S ribosomal RNA
+CK413_plascf_1_covcut_91	barrnap:0.9	rRNA	4753	5374	4.7e-13	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 39 percent of the 16S ribosomal RNA
+CK413_plascf_1_covcut_91	barrnap:0.9	rRNA	7017	7130	4.6e-15	-	.	Name=5S_rRNA;product=5S ribosomal RNA

@@ -1,0 +1,6 @@
+##gff-version 3
+Benny_63K_metscf_1115	barrnap:0.9	rRNA	4018	4271	6.8e-09	-	.	Name=12S_rRNA;product=12S ribosomal RNA (partial);note=aligned only 26 percent of the 12S ribosomal RNA
+Benny_63K_metscf_1115	barrnap:0.9	rRNA	4599	4912	1.3e-07	-	.	Name=12S_rRNA;product=12S ribosomal RNA (partial);note=aligned only 32 percent of the 12S ribosomal RNA
+Benny_63K_metscf_12	barrnap:0.9	rRNA	43529	44540	5.4e-52	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 63 percent of the 16S ribosomal RNA
+Benny_63K_metscf_12	barrnap:0.9	rRNA	45349	46474	3.1e-40	+	.	Name=12S_rRNA;product=12S ribosomal RNA
+Benny_63K_metscf_2078	barrnap:0.9	rRNA	2	805	7.4e-124	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 50 percent of the 16S ribosomal RNA

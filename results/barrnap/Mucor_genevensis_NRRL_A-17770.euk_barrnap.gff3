@@ -1,0 +1,18 @@
+##gff-version 3
+NRRL_A-17770_metscf_12161	barrnap:0.9	rRNA	1	68	4.7e-08	-	.	Name=5S_rRNA;product=5S ribosomal RNA (partial);note=aligned only 57 percent of the 5S ribosomal RNA
+NRRL_A-17770_metscf_133	barrnap:0.9	rRNA	7823	8597	7.7e-45	+	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 41 percent of the 18S ribosomal RNA
+NRRL_A-17770_metscf_133	barrnap:0.9	rRNA	11265	12294	7.1e-61	+	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 35 percent of the 28S ribosomal RNA
+NRRL_A-17770_metscf_13703	barrnap:0.9	rRNA	1	55	2.3e-07	-	.	Name=5S_rRNA;product=5S ribosomal RNA (partial);note=aligned only 46 percent of the 5S ribosomal RNA
+NRRL_A-17770_metscf_1817	barrnap:0.9	rRNA	2	1499	0	+	.	Name=18S_rRNA;product=18S ribosomal RNA
+NRRL_A-17770_metscf_1817	barrnap:0.9	rRNA	1738	5338	0	+	.	Name=28S_rRNA;product=28S ribosomal RNA
+NRRL_A-17770_metscf_1817	barrnap:0.9	rRNA	1742	1891	5e-31	+	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+NRRL_A-17770_metscf_2071	barrnap:0.9	rRNA	1533	1625	1.4e-10	+	.	Name=5S_rRNA;product=5S ribosomal RNA (partial);note=aligned only 78 percent of the 5S ribosomal RNA
+NRRL_A-17770_metscf_221	barrnap:0.9	rRNA	20363	20461	4.3e-14	+	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA (partial);note=aligned only 63 percent of the 5.8S ribosomal RNA
+NRRL_A-17770_metscf_2810	barrnap:0.9	rRNA	844	956	9.1e-19	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_A-17770_metscf_7352	barrnap:0.9	rRNA	11	69	6e-07	-	.	Name=5S_rRNA;product=5S ribosomal RNA (partial);note=aligned only 49 percent of the 5S ribosomal RNA
+NRRL_A-17770_plascf_1_covcut_5	barrnap:0.9	rRNA	25857	26886	7.1e-61	-	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 35 percent of the 28S ribosomal RNA
+NRRL_A-17770_plascf_1_covcut_5	barrnap:0.9	rRNA	29554	30328	7.7e-45	-	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 41 percent of the 18S ribosomal RNA
+NRRL_A-17770_plascf_1_covcut_70	barrnap:0.9	rRNA	844	956	9.1e-19	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_A-17770_plascf_1_covcut_70	barrnap:0.9	rRNA	3140	4967	0	+	.	Name=18S_rRNA;product=18S ribosomal RNA
+NRRL_A-17770_plascf_1_covcut_70	barrnap:0.9	rRNA	5206	8807	0	+	.	Name=28S_rRNA;product=28S ribosomal RNA
+NRRL_A-17770_plascf_1_covcut_70	barrnap:0.9	rRNA	5210	5359	5e-31	+	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA

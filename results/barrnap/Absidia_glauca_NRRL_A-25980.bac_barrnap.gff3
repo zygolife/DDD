@@ -1,0 +1,16 @@
+##gff-version 3
+NRRL_A-25980_metscf_10	barrnap:0.9	rRNA	18441	21080	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NRRL_A-25980_metscf_10	barrnap:0.9	rRNA	37060	38416	4e-183	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+NRRL_A-25980_metscf_2119	barrnap:0.9	rRNA	1033	1664	3.1e-14	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 39 percent of the 16S ribosomal RNA
+NRRL_A-25980_metscf_2119	barrnap:0.9	rRNA	1910	2859	1.2e-82	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 59 percent of the 16S ribosomal RNA
+NRRL_A-25980_metscf_2119	barrnap:0.9	rRNA	3447	6686	3.2e-206	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NRRL_A-25980_metscf_2415	barrnap:0.9	rRNA	5656	5768	3.6e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_A-25980_metscf_2532	barrnap:0.9	rRNA	2005	2971	6.2e-28	-	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 29 percent of the 23S ribosomal RNA
+NRRL_A-25980_metscf_5952	barrnap:0.9	rRNA	154	266	3.6e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_A-25980_plascf_1_covcut_0	barrnap:0.9	rRNA	606	1919	7.2e-162	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 40 percent of the 23S ribosomal RNA
+NRRL_A-25980_plascf_1_covcut_0	barrnap:0.9	rRNA	1978	3245	7.4e-262	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 39 percent of the 23S ribosomal RNA
+NRRL_A-25980_plascf_1_covcut_0	barrnap:0.9	rRNA	36741	38097	4e-183	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NRRL_A-25980_plascf_1_covcut_70	barrnap:0.9	rRNA	4127	4239	3.6e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_A-25980_plascf_1_covcut_70	barrnap:0.9	rRNA	5276	5907	3.1e-14	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 39 percent of the 16S ribosomal RNA
+NRRL_A-25980_plascf_1_covcut_70	barrnap:0.9	rRNA	6153	7102	1e-82	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 59 percent of the 16S ribosomal RNA
+NRRL_A-25980_plascf_1_covcut_70	barrnap:0.9	rRNA	7691	10930	3.4e-206	+	.	Name=23S_rRNA;product=23S ribosomal RNA

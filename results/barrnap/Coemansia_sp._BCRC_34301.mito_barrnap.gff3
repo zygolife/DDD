@@ -1,0 +1,3 @@
+##gff-version 3
+BCRC_34301_metscf_513	barrnap:0.9	rRNA	2145	2400	3.5e-09	+	.	Name=12S_rRNA;product=12S ribosomal RNA (partial);note=aligned only 26 percent of the 12S ribosomal RNA
+BCRC_34301_metscf_8	barrnap:0.9	rRNA	41822	42957	2.8e-37	-	.	Name=12S_rRNA;product=12S ribosomal RNA

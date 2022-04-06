@@ -1,0 +1,26 @@
+##gff-version 3
+RSA_2599_metscf_103	barrnap:0.9	rRNA	65	174	1.5e-15	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+RSA_2599_metscf_1062	barrnap:0.9	rRNA	1369	1478	1.5e-15	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+RSA_2599_metscf_1081	barrnap:0.9	rRNA	228	337	1.5e-15	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+RSA_2599_metscf_1200	barrnap:0.9	rRNA	64	173	1.5e-15	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+RSA_2599_metscf_1357	barrnap:0.9	rRNA	810	919	1.5e-15	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+RSA_2599_metscf_1466	barrnap:0.9	rRNA	64	173	1.5e-15	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+RSA_2599_metscf_1487	barrnap:0.9	rRNA	53	162	1.5e-15	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+RSA_2599_metscf_16	barrnap:0.9	rRNA	80490	80599	1.5e-15	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+RSA_2599_metscf_1730	barrnap:0.9	rRNA	89	198	1.5e-15	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+RSA_2599_metscf_1797	barrnap:0.9	rRNA	461	570	1.5e-15	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+RSA_2599_metscf_1956	barrnap:0.9	rRNA	646	755	1.5e-15	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+RSA_2599_metscf_2	barrnap:0.9	rRNA	225692	225801	1.5e-15	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+RSA_2599_metscf_2050	barrnap:0.9	rRNA	114	223	1.5e-15	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+RSA_2599_metscf_2388	barrnap:0.9	rRNA	115	224	1.5e-15	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+RSA_2599_metscf_2497	barrnap:0.9	rRNA	1	481	4.8e-128	+	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 25 percent of the 18S ribosomal RNA
+RSA_2599_metscf_3	barrnap:0.9	rRNA	177782	177891	1.5e-15	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+RSA_2599_metscf_40	barrnap:0.9	rRNA	67230	67339	1.5e-15	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+RSA_2599_metscf_564	barrnap:0.9	rRNA	1	4584	0	-	.	Name=28S_rRNA;product=28S ribosomal RNA
+RSA_2599_metscf_564	barrnap:0.9	rRNA	4431	4578	4.4e-27	-	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+RSA_2599_metscf_564	barrnap:0.9	rRNA	4778	6617	0	-	.	Name=18S_rRNA;product=18S ribosomal RNA
+RSA_2599_metscf_669	barrnap:0.9	rRNA	1951	2060	1.5e-15	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+RSA_2599_metscf_675	barrnap:0.9	rRNA	4225	4334	1.5e-15	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+RSA_2599_metscf_9	barrnap:0.9	rRNA	52489	53204	1.6e-11	-	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 38 percent of the 18S ribosomal RNA
+RSA_2599_metscf_929	barrnap:0.9	rRNA	221	330	1.5e-15	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+RSA_2599_metscf_943	barrnap:0.9	rRNA	303	412	1.5e-15	-	.	Name=5S_rRNA;product=5S ribosomal RNA

@@ -1,0 +1,15 @@
+##gff-version 3
+NRRL_A-15186_metscf_307	barrnap:0.9	rRNA	155	268	2.1e-20	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_A-15186_metscf_307	barrnap:0.9	rRNA	1600	2220	2.2e-14	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 39 percent of the 16S ribosomal RNA
+NRRL_A-15186_metscf_307	barrnap:0.9	rRNA	2475	3427	5.4e-84	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 60 percent of the 16S ribosomal RNA
+NRRL_A-15186_metscf_307	barrnap:0.9	rRNA	3999	6689	2.2e-166	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NRRL_A-15186_metscf_85	barrnap:0.9	rRNA	8487	11044	2e-189	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 79 percent of the 23S ribosomal RNA
+NRRL_A-15186_metscf_85	barrnap:0.9	rRNA	12501	13395	2e-175	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 27 percent of the 23S ribosomal RNA
+NRRL_A-15186_metscf_85	barrnap:0.9	rRNA	93305	94746	9.1e-187	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NRRL_A-15186_plascf_1_covcut_0	barrnap:0.9	rRNA	60185	61626	9.1e-187	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NRRL_A-15186_plascf_1_covcut_0	barrnap:0.9	rRNA	82298	84855	2e-189	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 79 percent of the 23S ribosomal RNA
+NRRL_A-15186_plascf_1_covcut_0	barrnap:0.9	rRNA	86312	87206	2e-175	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 27 percent of the 23S ribosomal RNA
+NRRL_A-15186_plascf_1_covcut_153	barrnap:0.9	rRNA	1420	4545	1.9e-212	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NRRL_A-15186_plascf_1_covcut_153	barrnap:0.9	rRNA	5101	6053	5.4e-84	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 60 percent of the 16S ribosomal RNA
+NRRL_A-15186_plascf_1_covcut_153	barrnap:0.9	rRNA	6308	6928	2.2e-14	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 39 percent of the 16S ribosomal RNA
+NRRL_A-15186_plascf_1_covcut_153	barrnap:0.9	rRNA	8260	8373	2.1e-20	-	.	Name=5S_rRNA;product=5S ribosomal RNA

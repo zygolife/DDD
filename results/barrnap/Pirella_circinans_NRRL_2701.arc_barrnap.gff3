@@ -1,0 +1,9 @@
+##gff-version 3
+NRRL_2701_metscf_1001	barrnap:0.9	rRNA	1074	4666	7.1e-233	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NRRL_2701_metscf_1174	barrnap:0.9	rRNA	525	1567	2e-139	-	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 32 percent of the 23S ribosomal RNA
+NRRL_2701_metscf_1174	barrnap:0.9	rRNA	1719	3044	7.1e-108	-	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 41 percent of the 23S ribosomal RNA
+NRRL_2701_metscf_1174	barrnap:0.9	rRNA	4010	4159	9e-31	-	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+NRRL_2701_metscf_1174	barrnap:0.9	rRNA	4402	5347	5.5e-104	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 59 percent of the 16S ribosomal RNA
+NRRL_2701_metscf_1174	barrnap:0.9	rRNA	5582	6230	6.8e-29	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 40 percent of the 16S ribosomal RNA
+NRRL_2701_metscf_265	barrnap:0.9	rRNA	19790	21120	2.1e-106	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NRRL_2701_metscf_3718	barrnap:0.9	rRNA	63	175	1.2e-18	-	.	Name=5S_rRNA;product=5S ribosomal RNA

@@ -1,0 +1,14 @@
+##gff-version 3
+NRRL_2814_metscf_152	barrnap:0.9	rRNA	7679	8620	6e-36	+	.	Name=12S_rRNA;product=12S ribosomal RNA
+NRRL_2814_metscf_152	barrnap:0.9	rRNA	16475	17528	3.1e-73	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 66 percent of the 16S ribosomal RNA
+NRRL_2814_metscf_1593	barrnap:0.9	rRNA	2830	3077	6.6e-09	+	.	Name=12S_rRNA;product=12S ribosomal RNA (partial);note=aligned only 25 percent of the 12S ribosomal RNA
+NRRL_2814_metscf_1593	barrnap:0.9	rRNA	5860	6720	7.5e-33	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 54 percent of the 16S ribosomal RNA
+NRRL_2814_metscf_2586	barrnap:0.9	rRNA	674	1108	3.6e-19	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 27 percent of the 16S ribosomal RNA
+NRRL_2814_plascf_1_covcut_10	barrnap:0.9	rRNA	2273	3124	1.3e-32	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 53 percent of the 16S ribosomal RNA
+NRRL_2814_plascf_1_covcut_10	barrnap:0.9	rRNA	5907	6154	6.6e-09	-	.	Name=12S_rRNA;product=12S ribosomal RNA (partial);note=aligned only 25 percent of the 12S ribosomal RNA
+NRRL_2814_plascf_1_covcut_10	barrnap:0.9	rRNA	10922	11773	1.5e-32	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 53 percent of the 16S ribosomal RNA
+NRRL_2814_plascf_1_covcut_10	barrnap:0.9	rRNA	14556	14803	6.6e-09	-	.	Name=12S_rRNA;product=12S ribosomal RNA (partial);note=aligned only 25 percent of the 12S ribosomal RNA
+NRRL_2814_plascf_1_covcut_434	barrnap:0.9	rRNA	2901	3148	6.6e-09	+	.	Name=12S_rRNA;product=12S ribosomal RNA (partial);note=aligned only 25 percent of the 12S ribosomal RNA
+NRRL_2814_plascf_1_covcut_434	barrnap:0.9	rRNA	5931	6782	1.3e-32	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 53 percent of the 16S ribosomal RNA
+NRRL_2814_plascf_1_covcut_5	barrnap:0.9	rRNA	19184	20125	6e-36	+	.	Name=12S_rRNA;product=12S ribosomal RNA
+NRRL_2814_plascf_1_covcut_5	barrnap:0.9	rRNA	27980	29033	3.1e-73	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 66 percent of the 16S ribosomal RNA

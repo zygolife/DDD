@@ -1,0 +1,13 @@
+##gff-version 3
+RSA_551_metscf_443	barrnap:0.9	rRNA	103	4076	0	-	.	Name=28S_rRNA;product=28S ribosomal RNA
+RSA_551_metscf_443	barrnap:0.9	rRNA	3926	4070	2.3e-24	-	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+RSA_551_metscf_443	barrnap:0.9	rRNA	4251	6102	0	-	.	Name=18S_rRNA;product=18S ribosomal RNA
+RSA_551_metscf_672	barrnap:0.9	rRNA	2302	2412	4.5e-16	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+RSA_551_plascf_1_covcut_91	barrnap:0.9	rRNA	5025	5135	4.5e-16	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+RSA_551_plascf_1_covcut_91	barrnap:0.9	rRNA	12179	14030	0	+	.	Name=18S_rRNA;product=18S ribosomal RNA
+RSA_551_plascf_1_covcut_91	barrnap:0.9	rRNA	14205	18178	0	+	.	Name=28S_rRNA;product=28S ribosomal RNA
+RSA_551_plascf_1_covcut_91	barrnap:0.9	rRNA	14211	14355	2.3e-24	+	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+RSA_551_plascf_1_covcut_91	barrnap:0.9	rRNA	29634	29744	4.5e-16	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+RSA_551_plascf_1_covcut_91	barrnap:0.9	rRNA	36788	38639	0	+	.	Name=18S_rRNA;product=18S ribosomal RNA
+RSA_551_plascf_1_covcut_91	barrnap:0.9	rRNA	38814	42787	0	+	.	Name=28S_rRNA;product=28S ribosomal RNA
+RSA_551_plascf_1_covcut_91	barrnap:0.9	rRNA	38820	38964	2.3e-24	+	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA

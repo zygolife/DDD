@@ -1,0 +1,17 @@
+##gff-version 3
+NRRL_5244_metscf_390	barrnap:0.9	rRNA	5778	5888	6.6e-21	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_5244_metscf_390	barrnap:0.9	rRNA	7060	7170	6.6e-21	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_5244_metscf_390	barrnap:0.9	rRNA	9711	11533	0	+	.	Name=18S_rRNA;product=18S ribosomal RNA
+NRRL_5244_metscf_390	barrnap:0.9	rRNA	11791	15780	0	+	.	Name=28S_rRNA;product=28S ribosomal RNA
+NRRL_5244_metscf_390	barrnap:0.9	rRNA	11797	11942	1.1e-24	+	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+NRRL_5244_metscf_55	barrnap:0.9	rRNA	12281	13199	3.6e-22	-	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 49 percent of the 18S ribosomal RNA
+NRRL_5244_plascf_1_covcut_0	barrnap:0.9	rRNA	5270	6188	3.6e-22	+	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 49 percent of the 18S ribosomal RNA
+NRRL_5244_plascf_1_covcut_257	barrnap:0.9	rRNA	2265	4087	0	+	.	Name=18S_rRNA;product=18S ribosomal RNA
+NRRL_5244_plascf_1_covcut_257	barrnap:0.9	rRNA	4345	8334	0	+	.	Name=28S_rRNA;product=28S ribosomal RNA
+NRRL_5244_plascf_1_covcut_257	barrnap:0.9	rRNA	4351	4496	1.1e-24	+	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+NRRL_5244_plascf_1_covcut_257	barrnap:0.9	rRNA	15780	15890	6.6e-21	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_5244_plascf_1_covcut_257	barrnap:0.9	rRNA	17061	17171	6.6e-21	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_5244_plascf_1_covcut_334	barrnap:0.9	rRNA	2265	4087	0	+	.	Name=18S_rRNA;product=18S ribosomal RNA
+NRRL_5244_plascf_1_covcut_334	barrnap:0.9	rRNA	4345	8334	0	+	.	Name=28S_rRNA;product=28S ribosomal RNA
+NRRL_5244_plascf_1_covcut_334	barrnap:0.9	rRNA	4351	4496	1.1e-24	+	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+NRRL_5244_plascf_1_covcut_334	barrnap:0.9	rRNA	15780	15890	6.6e-21	-	.	Name=5S_rRNA;product=5S ribosomal RNA

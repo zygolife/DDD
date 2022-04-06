@@ -1,0 +1,4 @@
+##gff-version 3
+FLAS-F-62758_metscf_504	barrnap:0.9	rRNA	8902	9624	1.3e-29	-	.	Name=12S_rRNA;product=12S ribosomal RNA (partial);note=aligned only 75 percent of the 12S ribosomal RNA
+FLAS-F-62758_metscf_698	barrnap:0.9	rRNA	411	1264	2e-33	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 53 percent of the 16S ribosomal RNA
+FLAS-F-62758_metscf_698	barrnap:0.9	rRNA	4032	4279	5.4e-09	-	.	Name=12S_rRNA;product=12S ribosomal RNA (partial);note=aligned only 25 percent of the 12S ribosomal RNA

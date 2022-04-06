@@ -1,0 +1,15 @@
+##gff-version 3
+NRRL_2527_metscf_120	barrnap:0.9	rRNA	2159	3185	8.3e-141	-	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 31 percent of the 23S ribosomal RNA
+NRRL_2527_metscf_120	barrnap:0.9	rRNA	3307	4686	1.7e-110	-	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 42 percent of the 23S ribosomal RNA
+NRRL_2527_metscf_120	barrnap:0.9	rRNA	5462	5608	9.9e-26	-	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+NRRL_2527_metscf_120	barrnap:0.9	rRNA	5776	6729	1.8e-111	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 60 percent of the 16S ribosomal RNA
+NRRL_2527_metscf_120	barrnap:0.9	rRNA	6980	7606	1.6e-29	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 39 percent of the 16S ribosomal RNA
+NRRL_2527_metscf_120	barrnap:0.9	rRNA	9800	9913	2e-20	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_2527_metscf_1227	barrnap:0.9	rRNA	36	148	9.4e-19	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_2527_metscf_61	barrnap:0.9	rRNA	88488	88599	1.3e-22	+	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA (partial);note=aligned only 71 percent of the 5.8S ribosomal RNA
+NRRL_2527_metscf_89	barrnap:0.9	rRNA	45705	47087	1.6e-103	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NRRL_2527_metscf_89	barrnap:0.9	rRNA	58793	59997	3e-75	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 37 percent of the 23S ribosomal RNA
+NRRL_2527_metscf_89	barrnap:0.9	rRNA	60128	61350	3.4e-140	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 37 percent of the 23S ribosomal RNA
+NRRL_2527_plascf_1_covcut_0	barrnap:0.9	rRNA	11471	12853	1.6e-103	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+NRRL_2527_plascf_1_covcut_0	barrnap:0.9	rRNA	61580	62803	3.3e-140	-	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 37 percent of the 23S ribosomal RNA
+NRRL_2527_plascf_1_covcut_0	barrnap:0.9	rRNA	62934	64138	3e-75	-	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 37 percent of the 23S ribosomal RNA

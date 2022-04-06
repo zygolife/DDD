@@ -1,0 +1,19 @@
+##gff-version 3
+NRRL_6226_metscf_1077	barrnap:0.9	rRNA	87	1361	5.4e-164	-	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 39 percent of the 23S ribosomal RNA
+NRRL_6226_metscf_1150	barrnap:0.9	rRNA	7681	7793	1.2e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_6226_metscf_1492	barrnap:0.9	rRNA	2885	2997	2.6e-18	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_6226_metscf_1724	barrnap:0.9	rRNA	1198	1300	1.5e-10	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_6226_metscf_1821	barrnap:0.9	rRNA	237	2738	5e-169	-	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 77 percent of the 23S ribosomal RNA
+NRRL_6226_metscf_1872	barrnap:0.9	rRNA	1631	1743	1.8e-18	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_6226_metscf_2057	barrnap:0.9	rRNA	14	641	1.2e-12	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 39 percent of the 16S ribosomal RNA
+NRRL_6226_metscf_2057	barrnap:0.9	rRNA	891	1833	1.5e-81	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 59 percent of the 16S ribosomal RNA
+NRRL_6226_metscf_233	barrnap:0.9	rRNA	19198	19294	6e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_6226_metscf_251	barrnap:0.9	rRNA	33487	33601	1.1e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_6226_metscf_274	barrnap:0.9	rRNA	63046	63160	6.3e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_6226_metscf_364	barrnap:0.9	rRNA	28154	28266	2.1e-15	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_6226_metscf_385	barrnap:0.9	rRNA	39380	39491	5e-09	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_6226_metscf_389	barrnap:0.9	rRNA	14014	14126	4e-15	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_6226_metscf_658	barrnap:0.9	rRNA	8148	9499	5.1e-184	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+NRRL_6226_metscf_658	barrnap:0.9	rRNA	28000	30640	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NRRL_6226_plascf_1_covcut_0	barrnap:0.9	rRNA	12991	15631	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NRRL_6226_plascf_1_covcut_0	barrnap:0.9	rRNA	34132	35483	2.3e-181	+	.	Name=16S_rRNA;product=16S ribosomal RNA

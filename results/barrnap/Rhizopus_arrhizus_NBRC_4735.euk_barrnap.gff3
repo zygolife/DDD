@@ -1,0 +1,19 @@
+##gff-version 3
+NBRC_4735_metscf_1329	barrnap:0.9	rRNA	34	146	1e-18	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NBRC_4735_metscf_1329	barrnap:0.9	rRNA	689	4470	0	-	.	Name=28S_rRNA;product=28S ribosomal RNA
+NBRC_4735_metscf_1329	barrnap:0.9	rRNA	4316	4466	8.4e-29	-	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+NBRC_4735_metscf_1329	barrnap:0.9	rRNA	4664	6486	0	-	.	Name=18S_rRNA;product=18S ribosomal RNA
+NBRC_4735_metscf_1545	barrnap:0.9	rRNA	1	1273	1e-214	-	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 43 percent of the 28S ribosomal RNA
+NBRC_4735_metscf_1545	barrnap:0.9	rRNA	1116	1267	1.7e-34	-	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+NBRC_4735_metscf_1545	barrnap:0.9	rRNA	1502	2537	6.4e-257	-	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 55 percent of the 18S ribosomal RNA
+NBRC_4735_metscf_1545	barrnap:0.9	rRNA	5058	5175	9e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NBRC_4735_metscf_1908	barrnap:0.9	rRNA	2	49	2.4e-07	-	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA (partial);note=aligned only 30 percent of the 5.8S ribosomal RNA
+NBRC_4735_metscf_307	barrnap:0.9	rRNA	15501	16275	6.3e-45	+	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 41 percent of the 18S ribosomal RNA
+NBRC_4735_metscf_307	barrnap:0.9	rRNA	18227	19251	1.4e-60	-	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 35 percent of the 28S ribosomal RNA
+NBRC_4735_plascf_1_covcut_0	barrnap:0.9	rRNA	7378	8152	6.3e-45	+	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 41 percent of the 18S ribosomal RNA
+NBRC_4735_plascf_1_covcut_0	barrnap:0.9	rRNA	10104	11128	1.4e-60	-	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 35 percent of the 28S ribosomal RNA
+NBRC_4735_plascf_5_covcut_0	barrnap:0.9	rRNA	2	88	1.8e-08	+	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA (partial);note=aligned only 55 percent of the 5.8S ribosomal RNA
+NBRC_4735_plascf_5_covcut_0	barrnap:0.9	rRNA	4	3715	0	+	.	Name=28S_rRNA;product=28S ribosomal RNA
+NBRC_4735_plascf_5_covcut_0	barrnap:0.9	rRNA	4258	4370	1e-18	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NBRC_4735_plascf_5_covcut_0	barrnap:0.9	rRNA	5970	7792	0	+	.	Name=18S_rRNA;product=18S ribosomal RNA
+NBRC_4735_plascf_5_covcut_0	barrnap:0.9	rRNA	7990	8140	8.4e-29	+	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA

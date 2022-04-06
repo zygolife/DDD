@@ -1,0 +1,17 @@
+##gff-version 3
+NRRL_2566_metscf_1024	barrnap:0.9	rRNA	345	457	1.2e-15	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_2566_metscf_1024	barrnap:0.9	rRNA	1469	5357	0	-	.	Name=28S_rRNA;product=28S ribosomal RNA
+NRRL_2566_metscf_1024	barrnap:0.9	rRNA	5205	5353	5.1e-32	-	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+NRRL_2566_metscf_1024	barrnap:0.9	rRNA	5552	7380	0	-	.	Name=18S_rRNA;product=18S ribosomal RNA
+NRRL_2566_metscf_1873	barrnap:0.9	rRNA	1610	1723	1.1e-18	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_2566_metscf_2335	barrnap:0.9	rRNA	1	1254	1.7e-134	-	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 43 percent of the 28S ribosomal RNA
+NRRL_2566_metscf_2335	barrnap:0.9	rRNA	1101	1250	2.1e-27	-	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+NRRL_2566_metscf_3762	barrnap:0.9	rRNA	1	620	3.1e-129	-	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 33 percent of the 18S ribosomal RNA
+NRRL_2566_metscf_402	barrnap:0.9	rRNA	1170	1998	9.9e-47	-	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 44 percent of the 18S ribosomal RNA
+NRRL_2566_metscf_402	barrnap:0.9	rRNA	6444	7473	6.8e-61	-	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 35 percent of the 28S ribosomal RNA
+NRRL_2566_plascf_1_covcut_0	barrnap:0.9	rRNA	10473	11301	1e-46	-	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 44 percent of the 18S ribosomal RNA
+NRRL_2566_plascf_1_covcut_0	barrnap:0.9	rRNA	15747	16776	6.8e-61	-	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 35 percent of the 28S ribosomal RNA
+NRRL_2566_plascf_1_covcut_334	barrnap:0.9	rRNA	3755	5583	0	+	.	Name=18S_rRNA;product=18S ribosomal RNA
+NRRL_2566_plascf_1_covcut_334	barrnap:0.9	rRNA	5778	9666	0	+	.	Name=28S_rRNA;product=28S ribosomal RNA
+NRRL_2566_plascf_1_covcut_334	barrnap:0.9	rRNA	5782	5930	5.1e-32	+	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+NRRL_2566_plascf_1_covcut_334	barrnap:0.9	rRNA	10678	10790	1.2e-15	-	.	Name=5S_rRNA;product=5S ribosomal RNA

@@ -1,0 +1,16 @@
+##gff-version 3
+NRRL_A-11791_metscf_164	barrnap:0.9	rRNA	60	704	6.7e-47	-	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 34 percent of the 18S ribosomal RNA
+NRRL_A-11791_metscf_164	barrnap:0.9	rRNA	8265	9291	4.3e-60	-	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 35 percent of the 28S ribosomal RNA
+NRRL_A-11791_metscf_653	barrnap:0.9	rRNA	1	1889	0	-	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 64 percent of the 28S ribosomal RNA
+NRRL_A-11791_metscf_653	barrnap:0.9	rRNA	1737	1886	1.3e-27	-	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+NRRL_A-11791_metscf_653	barrnap:0.9	rRNA	2137	3959	0	-	.	Name=18S_rRNA;product=18S ribosomal RNA
+NRRL_A-11791_metscf_653	barrnap:0.9	rRNA	5639	5752	7e-19	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_A-11791_metscf_653	barrnap:0.9	rRNA	6135	8088	0	-	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 67 percent of the 28S ribosomal RNA
+NRRL_A-11791_metscf_728	barrnap:0.9	rRNA	936	1807	2.3e-89	+	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 46 percent of the 18S ribosomal RNA
+NRRL_A-11791_metscf_728	barrnap:0.9	rRNA	4111	5111	8.1e-75	+	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 34 percent of the 28S ribosomal RNA
+NRRL_A-11791_plascf_1_covcut_0	barrnap:0.9	rRNA	28173	29199	4.3e-60	+	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 35 percent of the 28S ribosomal RNA
+NRRL_A-11791_plascf_1_covcut_0	barrnap:0.9	rRNA	36760	37534	1.6e-47	+	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 41 percent of the 18S ribosomal RNA
+NRRL_A-11791_plascf_2_covcut_0	barrnap:0.9	rRNA	864	977	7e-19	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_A-11791_plascf_2_covcut_0	barrnap:0.9	rRNA	2657	4479	0	+	.	Name=18S_rRNA;product=18S ribosomal RNA
+NRRL_A-11791_plascf_2_covcut_0	barrnap:0.9	rRNA	4726	8161	0	+	.	Name=28S_rRNA;product=28S ribosomal RNA
+NRRL_A-11791_plascf_2_covcut_0	barrnap:0.9	rRNA	4730	4879	1.3e-27	+	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA

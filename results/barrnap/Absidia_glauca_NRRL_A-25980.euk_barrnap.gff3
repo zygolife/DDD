@@ -1,0 +1,18 @@
+##gff-version 3
+NRRL_A-25980_metscf_10	barrnap:0.9	rRNA	18536	19564	3.6e-61	-	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 35 percent of the 28S ribosomal RNA
+NRRL_A-25980_metscf_10	barrnap:0.9	rRNA	37072	37846	1.7e-45	-	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 41 percent of the 18S ribosomal RNA
+NRRL_A-25980_metscf_2119	barrnap:0.9	rRNA	1027	2861	0	+	.	Name=18S_rRNA;product=18S ribosomal RNA
+NRRL_A-25980_metscf_2119	barrnap:0.9	rRNA	3085	6921	0	+	.	Name=28S_rRNA;product=28S ribosomal RNA
+NRRL_A-25980_metscf_2119	barrnap:0.9	rRNA	3089	3236	1.9e-26	+	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+NRRL_A-25980_metscf_2415	barrnap:0.9	rRNA	5656	5768	3.6e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_A-25980_metscf_2532	barrnap:0.9	rRNA	717	1662	1.7e-79	-	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 32 percent of the 28S ribosomal RNA
+NRRL_A-25980_metscf_2532	barrnap:0.9	rRNA	1982	4369	0	-	.	Name=28S_rRNA;product=28S ribosomal RNA
+NRRL_A-25980_metscf_2532	barrnap:0.9	rRNA	4221	4365	3.9e-24	-	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+NRRL_A-25980_metscf_5952	barrnap:0.9	rRNA	154	266	3.6e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_A-25980_metscf_6663	barrnap:0.9	rRNA	40	180	2.2e-17	+	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+NRRL_A-25980_plascf_1_covcut_0	barrnap:0.9	rRNA	2122	3150	3.3e-61	+	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 35 percent of the 28S ribosomal RNA
+NRRL_A-25980_plascf_1_covcut_0	barrnap:0.9	rRNA	37311	38085	1.7e-45	+	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 41 percent of the 18S ribosomal RNA
+NRRL_A-25980_plascf_1_covcut_70	barrnap:0.9	rRNA	4127	4239	3.6e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_A-25980_plascf_1_covcut_70	barrnap:0.9	rRNA	5270	7104	0	+	.	Name=18S_rRNA;product=18S ribosomal RNA
+NRRL_A-25980_plascf_1_covcut_70	barrnap:0.9	rRNA	7328	11165	0	+	.	Name=28S_rRNA;product=28S ribosomal RNA
+NRRL_A-25980_plascf_1_covcut_70	barrnap:0.9	rRNA	7332	7479	1.9e-26	+	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA

@@ -1,0 +1,9 @@
+##gff-version 3
+RSA_2018-_metscf_337	barrnap:0.9	rRNA	3940	4965	1.7e-60	+	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 35 percent of the 28S ribosomal RNA
+RSA_2018-_metscf_337	barrnap:0.9	rRNA	9371	10146	1.8e-45	+	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 41 percent of the 18S ribosomal RNA
+RSA_2018-_metscf_510	barrnap:0.9	rRNA	370	482	1.6e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+RSA_2018-_metscf_510	barrnap:0.9	rRNA	1708	5768	0	-	.	Name=28S_rRNA;product=28S ribosomal RNA
+RSA_2018-_metscf_510	barrnap:0.9	rRNA	5619	5764	2.6e-25	-	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+RSA_2018-_metscf_510	barrnap:0.9	rRNA	5999	7841	0	-	.	Name=18S_rRNA;product=18S ribosomal RNA
+RSA_2018-_plascf_1_covcut_0	barrnap:0.9	rRNA	8470	9245	1.8e-45	-	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 41 percent of the 18S ribosomal RNA
+RSA_2018-_plascf_1_covcut_0	barrnap:0.9	rRNA	13651	14676	1.7e-60	-	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 35 percent of the 28S ribosomal RNA

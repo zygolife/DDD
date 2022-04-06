@@ -1,0 +1,7 @@
+##gff-version 3
+AM948_metscf_1008	barrnap:0.9	rRNA	1228	2571	6.2e-151	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+AM948_metscf_720	barrnap:0.9	rRNA	1838	4313	2.8e-166	-	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 76 percent of the 23S ribosomal RNA
+AM948_metscf_720	barrnap:0.9	rRNA	5693	6618	4.2e-83	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 58 percent of the 16S ribosomal RNA
+AM948_metscf_720	barrnap:0.9	rRNA	6858	7481	5.9e-14	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 39 percent of the 16S ribosomal RNA
+AM948_metscf_720	barrnap:0.9	rRNA	9138	9251	1.2e-15	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+AM948_metscf_958	barrnap:0.9	rRNA	673	3883	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA

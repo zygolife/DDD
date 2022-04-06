@@ -1,0 +1,9 @@
+##gff-version 3
+RSA_370_metscf_1003	barrnap:0.9	rRNA	1852	1962	4.6e-16	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+RSA_370_metscf_466	barrnap:0.9	rRNA	318	4291	0	-	.	Name=28S_rRNA;product=28S ribosomal RNA
+RSA_370_metscf_466	barrnap:0.9	rRNA	4141	4285	2.3e-24	-	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+RSA_370_metscf_466	barrnap:0.9	rRNA	4460	6311	0	-	.	Name=18S_rRNA;product=18S ribosomal RNA
+RSA_370_plascf_1_covcut_434	barrnap:0.9	rRNA	3370	7343	0	-	.	Name=28S_rRNA;product=28S ribosomal RNA
+RSA_370_plascf_1_covcut_434	barrnap:0.9	rRNA	7193	7337	2.3e-24	-	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+RSA_370_plascf_1_covcut_434	barrnap:0.9	rRNA	7512	9363	0	-	.	Name=18S_rRNA;product=18S ribosomal RNA
+RSA_370_plascf_1_covcut_434	barrnap:0.9	rRNA	16415	16525	4.6e-16	+	.	Name=5S_rRNA;product=5S ribosomal RNA

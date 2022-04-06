@@ -1,0 +1,17 @@
+##gff-version 3
+KOD_1059_metscf_1158	barrnap:0.9	rRNA	3283	4015	1.4e-189	+	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 25 percent of the 28S ribosomal RNA
+KOD_1059_metscf_1189	barrnap:0.9	rRNA	619	732	4.3e-15	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+KOD_1059_metscf_1189	barrnap:0.9	rRNA	2211	4009	0	+	.	Name=18S_rRNA;product=18S ribosomal RNA
+KOD_1059_metscf_1189	barrnap:0.9	rRNA	4164	8071	0	+	.	Name=28S_rRNA;product=28S ribosomal RNA
+KOD_1059_metscf_1189	barrnap:0.9	rRNA	4168	4318	2.6e-34	+	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+KOD_1059_metscf_1342	barrnap:0.9	rRNA	665	1756	4.7e-256	-	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 37 percent of the 28S ribosomal RNA
+KOD_1059_metscf_1720	barrnap:0.9	rRNA	9	1480	5.3e-92	-	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 50 percent of the 28S ribosomal RNA
+KOD_1059_metscf_203	barrnap:0.9	rRNA	44876	45005	1.5e-19	-	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+KOD_1059_metscf_62	barrnap:0.9	rRNA	32684	32785	2.8e-11	+	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA (partial);note=aligned only 65 percent of the 5.8S ribosomal RNA
+KOD_1059_metscf_77	barrnap:0.9	rRNA	38236	38332	1.1e-10	-	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA (partial);note=aligned only 62 percent of the 5.8S ribosomal RNA
+KOD_1059_metscf_829	barrnap:0.9	rRNA	14864	15654	7.9e-17	-	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 27 percent of the 28S ribosomal RNA
+KOD_1059_metscf_96	barrnap:0.9	rRNA	47847	48553	7.2e-29	-	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 37 percent of the 18S ribosomal RNA
+KOD_1059_metscf_96	barrnap:0.9	rRNA	58504	59662	9.2e-45	-	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 39 percent of the 28S ribosomal RNA
+KOD_1059_metscf_962	barrnap:0.9	rRNA	104	246	4.2e-21	-	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+KOD_1059_plascf_1_covcut_0	barrnap:0.9	rRNA	9439	10145	7.2e-29	-	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 37 percent of the 18S ribosomal RNA
+KOD_1059_plascf_1_covcut_0	barrnap:0.9	rRNA	20096	21254	9.2e-45	-	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 39 percent of the 28S ribosomal RNA

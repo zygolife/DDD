@@ -1,0 +1,4 @@
+##gff-version 3
+PUST_F9C_metscf_1563	barrnap:0.9	rRNA	3594	3848	7e-09	-	.	Name=12S_rRNA;product=12S ribosomal RNA (partial);note=aligned only 26 percent of the 12S ribosomal RNA
+PUST_F9C_metscf_1563	barrnap:0.9	rRNA	4168	4483	3.4e-08	-	.	Name=12S_rRNA;product=12S ribosomal RNA (partial);note=aligned only 33 percent of the 12S ribosomal RNA
+PUST_F9C_metscf_352	barrnap:0.9	rRNA	10004	11227	7.4e-48	-	.	Name=12S_rRNA;product=12S ribosomal RNA

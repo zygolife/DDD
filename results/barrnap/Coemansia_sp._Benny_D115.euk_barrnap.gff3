@@ -1,0 +1,14 @@
+##gff-version 3
+Benny_D115_metscf_275	barrnap:0.9	rRNA	93	4091	0	-	.	Name=28S_rRNA;product=28S ribosomal RNA
+Benny_D115_metscf_275	barrnap:0.9	rRNA	3939	4086	1.2e-25	-	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+Benny_D115_metscf_275	barrnap:0.9	rRNA	4350	6175	0	-	.	Name=18S_rRNA;product=18S ribosomal RNA
+Benny_D115_metscf_275	barrnap:0.9	rRNA	9998	10105	5.6e-11	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+Benny_D115_metscf_3	barrnap:0.9	rRNA	4596	4703	1.2e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+Benny_D115_metscf_317	barrnap:0.9	rRNA	4293	4400	1.2e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+Benny_D115_metscf_35	barrnap:0.9	rRNA	123371	123478	4.7e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+Benny_D115_metscf_367	barrnap:0.9	rRNA	1139	1246	1.2e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+Benny_D115_metscf_44	barrnap:0.9	rRNA	95268	95375	1.2e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+Benny_D115_metscf_45	barrnap:0.9	rRNA	104103	105009	2e-13	+	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 48 percent of the 18S ribosomal RNA
+Benny_D115_metscf_556	barrnap:0.9	rRNA	4	111	1.2e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+Benny_D115_metscf_96	barrnap:0.9	rRNA	30584	30691	1.2e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+Benny_D115_plascf_1_covcut_0	barrnap:0.9	rRNA	97835	98741	2e-13	-	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 48 percent of the 18S ribosomal RNA

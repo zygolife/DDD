@@ -1,0 +1,13 @@
+##gff-version 3
+RSA_2049_metscf_161	barrnap:0.9	rRNA	4724	4834	1.3e-16	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+RSA_2049_metscf_161	barrnap:0.9	rRNA	6031	7901	0	+	.	Name=18S_rRNA;product=18S ribosomal RNA
+RSA_2049_metscf_161	barrnap:0.9	rRNA	8073	11595	0	+	.	Name=28S_rRNA;product=28S ribosomal RNA
+RSA_2049_metscf_161	barrnap:0.9	rRNA	8082	8218	1.5e-21	+	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+RSA_2049_metscf_211	barrnap:0.9	rRNA	13201	13307	1.2e-08	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+RSA_2049_metscf_6184	barrnap:0.9	rRNA	79	187	2.8e-11	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+RSA_2049_metscf_7906	barrnap:0.9	rRNA	100	190	7.9e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA (partial);note=aligned only 76 percent of the 5S ribosomal RNA
+RSA_2049_plascf_1_covcut_10	barrnap:0.9	rRNA	5	114	1.6e-16	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+RSA_2049_plascf_1_covcut_10	barrnap:0.9	rRNA	1311	3181	0	+	.	Name=18S_rRNA;product=18S ribosomal RNA
+RSA_2049_plascf_1_covcut_10	barrnap:0.9	rRNA	3352	7355	0	+	.	Name=28S_rRNA;product=28S ribosomal RNA
+RSA_2049_plascf_1_covcut_10	barrnap:0.9	rRNA	3362	3498	1.5e-21	+	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+RSA_2049_plascf_1_covcut_10	barrnap:0.9	rRNA	8663	8773	1.3e-16	-	.	Name=5S_rRNA;product=5S ribosomal RNA

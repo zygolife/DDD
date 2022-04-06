@@ -1,0 +1,16 @@
+##gff-version 3
+Cherry_401B_metscf_10738	barrnap:0.9	rRNA	77	150	1.3e-09	-	.	Name=5S_rRNA;product=5S ribosomal RNA (partial);note=aligned only 62 percent of the 5S ribosomal RNA
+Cherry_401B_metscf_1080	barrnap:0.9	rRNA	64	172	2.4e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+Cherry_401B_metscf_1098	barrnap:0.9	rRNA	3	1133	5.5e-52	-	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 34 percent of the 23S ribosomal RNA
+Cherry_401B_metscf_1171	barrnap:0.9	rRNA	64	172	2.4e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+Cherry_401B_metscf_1373	barrnap:0.9	rRNA	472	580	2.4e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+Cherry_401B_metscf_1461	barrnap:0.9	rRNA	1370	1478	2.4e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+Cherry_401B_metscf_1722	barrnap:0.9	rRNA	896	1004	2.2e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+Cherry_401B_metscf_2166	barrnap:0.9	rRNA	629	737	2.4e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+Cherry_401B_metscf_2528	barrnap:0.9	rRNA	18	665	7.8e-52	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 40 percent of the 16S ribosomal RNA
+Cherry_401B_metscf_29	barrnap:0.9	rRNA	5857	7325	6.6e-83	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+Cherry_401B_metscf_29	barrnap:0.9	rRNA	7462	8678	4.2e-158	-	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 37 percent of the 23S ribosomal RNA
+Cherry_401B_metscf_398	barrnap:0.9	rRNA	702	810	2.4e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+Cherry_401B_metscf_793	barrnap:0.9	rRNA	23	131	2.4e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+Cherry_401B_metscf_905	barrnap:0.9	rRNA	64	172	2.4e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+Cherry_401B_metscf_906	barrnap:0.9	rRNA	1726	1834	2.4e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA

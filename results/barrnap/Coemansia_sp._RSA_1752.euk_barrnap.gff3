@@ -1,0 +1,6 @@
+##gff-version 3
+RSA_1752_metscf_1079	barrnap:0.9	rRNA	111	221	4.6e-16	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+RSA_1752_metscf_3026	barrnap:0.9	rRNA	4	112	2.3e-15	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+RSA_1752_metscf_390	barrnap:0.9	rRNA	5724	9710	0	-	.	Name=28S_rRNA;product=28S ribosomal RNA
+RSA_1752_metscf_390	barrnap:0.9	rRNA	9560	9704	2.4e-24	-	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+RSA_1752_metscf_390	barrnap:0.9	rRNA	10158	11836	0	-	.	Name=18S_rRNA;product=18S ribosomal RNA

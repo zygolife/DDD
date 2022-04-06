@@ -1,0 +1,16 @@
+##gff-version 3
+NRRL_6044_Plus_metscf_231	barrnap:0.9	rRNA	748	843	3.1e-18	-	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA (partial);note=aligned only 61 percent of the 5.8S ribosomal RNA
+NRRL_6044_Plus_metscf_333	barrnap:0.9	rRNA	13408	14182	8.8e-45	+	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 41 percent of the 18S ribosomal RNA
+NRRL_6044_Plus_metscf_333	barrnap:0.9	rRNA	33048	34075	7.5e-60	+	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 35 percent of the 28S ribosomal RNA
+NRRL_6044_Plus_metscf_849	barrnap:0.9	rRNA	1322	3156	0	+	.	Name=18S_rRNA;product=18S ribosomal RNA
+NRRL_6044_Plus_metscf_849	barrnap:0.9	rRNA	3470	7420	0	+	.	Name=28S_rRNA;product=28S ribosomal RNA
+NRRL_6044_Plus_metscf_849	barrnap:0.9	rRNA	3474	3625	1.1e-28	+	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+NRRL_6044_Plus_metscf_979	barrnap:0.9	rRNA	2427	2539	1.9e-18	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_6044_Plus_plascf_1_covcut_0	barrnap:0.9	rRNA	13287	14061	8.8e-45	+	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 41 percent of the 18S ribosomal RNA
+NRRL_6044_Plus_plascf_1_covcut_0	barrnap:0.9	rRNA	32927	33954	7.5e-60	+	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 35 percent of the 28S ribosomal RNA
+NRRL_6044_Plus_plascf_1_covcut_198	barrnap:0.9	rRNA	2769	4603	0	+	.	Name=18S_rRNA;product=18S ribosomal RNA
+NRRL_6044_Plus_plascf_1_covcut_198	barrnap:0.9	rRNA	4917	8867	0	+	.	Name=28S_rRNA;product=28S ribosomal RNA
+NRRL_6044_Plus_plascf_1_covcut_198	barrnap:0.9	rRNA	4921	5072	1.1e-28	+	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+NRRL_6044_Plus_plascf_1_covcut_198	barrnap:0.9	rRNA	10825	10937	1.9e-18	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_6044_Plus_plascf_1_covcut_5	barrnap:0.9	rRNA	7086	7860	8.8e-45	-	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 41 percent of the 18S ribosomal RNA
+NRRL_6044_Plus_plascf_1_covcut_5	barrnap:0.9	rRNA	34821	35848	7.5e-60	-	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 35 percent of the 28S ribosomal RNA

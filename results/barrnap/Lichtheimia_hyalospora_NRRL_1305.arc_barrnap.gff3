@@ -1,0 +1,15 @@
+##gff-version 3
+NRRL_1305_metscf_226	barrnap:0.9	rRNA	17985	20556	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 79 percent of the 23S ribosomal RNA
+NRRL_1305_metscf_226	barrnap:0.9	rRNA	23236	24636	4.7e-185	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+NRRL_1305_metscf_372	barrnap:0.9	rRNA	467	580	6.3e-18	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_1305_metscf_372	barrnap:0.9	rRNA	3594	4216	3.6e-10	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 39 percent of the 16S ribosomal RNA
+NRRL_1305_metscf_372	barrnap:0.9	rRNA	4451	5424	2.1e-83	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 61 percent of the 16S ribosomal RNA
+NRRL_1305_metscf_372	barrnap:0.9	rRNA	6800	9372	1.3e-174	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 79 percent of the 23S ribosomal RNA
+NRRL_1305_plascf_1_covcut_0	barrnap:0.9	rRNA	1038	3609	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 79 percent of the 23S ribosomal RNA
+NRRL_1305_plascf_1_covcut_0	barrnap:0.9	rRNA	6289	7689	4.7e-185	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+NRRL_1305_plascf_1_covcut_15	barrnap:0.9	rRNA	36604	38004	4.7e-185	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NRRL_1305_plascf_1_covcut_15	barrnap:0.9	rRNA	40684	43255	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 79 percent of the 23S ribosomal RNA
+NRRL_1305_plascf_1_covcut_70	barrnap:0.9	rRNA	621	734	6.3e-18	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_1305_plascf_1_covcut_70	barrnap:0.9	rRNA	3748	4370	3.6e-10	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 39 percent of the 16S ribosomal RNA
+NRRL_1305_plascf_1_covcut_70	barrnap:0.9	rRNA	4605	5578	2.1e-83	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 61 percent of the 16S ribosomal RNA
+NRRL_1305_plascf_1_covcut_70	barrnap:0.9	rRNA	6954	9526	1.3e-174	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 79 percent of the 23S ribosomal RNA

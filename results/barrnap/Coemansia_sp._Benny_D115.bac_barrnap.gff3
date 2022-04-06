@@ -1,0 +1,18 @@
+##gff-version 3
+Benny_D115_metscf_275	barrnap:0.9	rRNA	317	2901	4.7e-170	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+Benny_D115_metscf_275	barrnap:0.9	rRNA	4352	5275	2.3e-85	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 58 percent of the 16S ribosomal RNA
+Benny_D115_metscf_275	barrnap:0.9	rRNA	5538	6170	4e-14	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 39 percent of the 16S ribosomal RNA
+Benny_D115_metscf_275	barrnap:0.9	rRNA	9998	10105	5.6e-11	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+Benny_D115_metscf_3	barrnap:0.9	rRNA	4596	4703	1.2e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+Benny_D115_metscf_317	barrnap:0.9	rRNA	4293	4400	1.2e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+Benny_D115_metscf_35	barrnap:0.9	rRNA	123371	123478	4.7e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+Benny_D115_metscf_367	barrnap:0.9	rRNA	1139	1246	1.2e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+Benny_D115_metscf_44	barrnap:0.9	rRNA	95268	95375	1.2e-12	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+Benny_D115_metscf_45	barrnap:0.9	rRNA	102031	103293	8.7e-155	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 39 percent of the 23S ribosomal RNA
+Benny_D115_metscf_45	barrnap:0.9	rRNA	103437	104498	5.6e-82	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 67 percent of the 16S ribosomal RNA
+Benny_D115_metscf_45	barrnap:0.9	rRNA	104614	105009	4.6e-29	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 24 percent of the 16S ribosomal RNA
+Benny_D115_metscf_556	barrnap:0.9	rRNA	4	111	1.2e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+Benny_D115_metscf_96	barrnap:0.9	rRNA	30584	30691	1.2e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+Benny_D115_plascf_1_covcut_0	barrnap:0.9	rRNA	97835	98230	4.6e-29	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 24 percent of the 16S ribosomal RNA
+Benny_D115_plascf_1_covcut_0	barrnap:0.9	rRNA	98346	99407	5.6e-82	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 67 percent of the 16S ribosomal RNA
+Benny_D115_plascf_1_covcut_0	barrnap:0.9	rRNA	99551	100813	8.7e-155	-	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 39 percent of the 23S ribosomal RNA

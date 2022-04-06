@@ -1,0 +1,21 @@
+##gff-version 3
+NRRL_5244_metscf_390	barrnap:0.9	rRNA	5778	5888	6.6e-21	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_5244_metscf_390	barrnap:0.9	rRNA	7060	7170	6.6e-21	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_5244_metscf_390	barrnap:0.9	rRNA	9716	10353	1.7e-17	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 40 percent of the 16S ribosomal RNA
+NRRL_5244_metscf_390	barrnap:0.9	rRNA	10596	11534	2.3e-89	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 59 percent of the 16S ribosomal RNA
+NRRL_5244_metscf_390	barrnap:0.9	rRNA	12981	15543	2.5e-170	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 79 percent of the 23S ribosomal RNA
+NRRL_5244_metscf_55	barrnap:0.9	rRNA	12281	13791	4.7e-125	-	.	Name=16S_rRNA;product=16S ribosomal RNA
+NRRL_5244_metscf_55	barrnap:0.9	rRNA	13931	15156	2.4e-176	-	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 37 percent of the 23S ribosomal RNA
+NRRL_5244_metscf_55	barrnap:0.9	rRNA	15258	16462	1.4e-100	-	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 37 percent of the 23S ribosomal RNA
+NRRL_5244_plascf_1_covcut_0	barrnap:0.9	rRNA	2007	3211	1.4e-100	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 37 percent of the 23S ribosomal RNA
+NRRL_5244_plascf_1_covcut_0	barrnap:0.9	rRNA	3313	4538	2.4e-176	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 37 percent of the 23S ribosomal RNA
+NRRL_5244_plascf_1_covcut_0	barrnap:0.9	rRNA	4678	6188	4.7e-125	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NRRL_5244_plascf_1_covcut_257	barrnap:0.9	rRNA	2270	2907	1.7e-17	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 40 percent of the 16S ribosomal RNA
+NRRL_5244_plascf_1_covcut_257	barrnap:0.9	rRNA	3150	4088	2.3e-89	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 59 percent of the 16S ribosomal RNA
+NRRL_5244_plascf_1_covcut_257	barrnap:0.9	rRNA	5535	8097	2.6e-170	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 79 percent of the 23S ribosomal RNA
+NRRL_5244_plascf_1_covcut_257	barrnap:0.9	rRNA	15780	15890	6.6e-21	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_5244_plascf_1_covcut_257	barrnap:0.9	rRNA	17061	17171	6.6e-21	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_5244_plascf_1_covcut_334	barrnap:0.9	rRNA	2270	2907	1.7e-17	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 40 percent of the 16S ribosomal RNA
+NRRL_5244_plascf_1_covcut_334	barrnap:0.9	rRNA	3150	4088	2.3e-89	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 59 percent of the 16S ribosomal RNA
+NRRL_5244_plascf_1_covcut_334	barrnap:0.9	rRNA	5535	8097	2.6e-170	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 79 percent of the 23S ribosomal RNA
+NRRL_5244_plascf_1_covcut_334	barrnap:0.9	rRNA	15780	15890	6.6e-21	-	.	Name=5S_rRNA;product=5S ribosomal RNA

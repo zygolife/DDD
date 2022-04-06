@@ -1,0 +1,16 @@
+##gff-version 3
+XY01921_metscf_101	barrnap:0.9	rRNA	37692	38716	1.6e-60	+	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 35 percent of the 28S ribosomal RNA
+XY01921_metscf_101	barrnap:0.9	rRNA	41547	42321	6.4e-45	-	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 41 percent of the 18S ribosomal RNA
+XY01921_metscf_1083	barrnap:0.9	rRNA	1	2321	0	-	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 79 percent of the 28S ribosomal RNA
+XY01921_metscf_1083	barrnap:0.9	rRNA	2167	2317	9e-29	-	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+XY01921_metscf_1083	barrnap:0.9	rRNA	2513	4335	0	-	.	Name=18S_rRNA;product=18S ribosomal RNA
+XY01921_metscf_1083	barrnap:0.9	rRNA	5921	6033	1.1e-18	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+XY01921_metscf_1083	barrnap:0.9	rRNA	6599	8113	0	-	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 52 percent of the 28S ribosomal RNA
+XY01921_metscf_1570	barrnap:0.9	rRNA	2	49	2.6e-07	-	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA (partial);note=aligned only 30 percent of the 5.8S ribosomal RNA
+XY01921_plascf_1_covcut_0	barrnap:0.9	rRNA	39713	40487	6.4e-45	+	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 41 percent of the 18S ribosomal RNA
+XY01921_plascf_1_covcut_0	barrnap:0.9	rRNA	43318	44342	1.6e-60	-	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 35 percent of the 28S ribosomal RNA
+XY01921_plascf_2_covcut_0	barrnap:0.9	rRNA	56	927	1.1e-111	-	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 29 percent of the 28S ribosomal RNA
+XY01921_plascf_2_covcut_0	barrnap:0.9	rRNA	774	924	9e-29	-	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+XY01921_plascf_2_covcut_0	barrnap:0.9	rRNA	1120	2942	0	-	.	Name=18S_rRNA;product=18S ribosomal RNA
+XY01921_plascf_2_covcut_0	barrnap:0.9	rRNA	4528	4640	1.1e-18	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+XY01921_plascf_2_covcut_0	barrnap:0.9	rRNA	5206	8138	0	-	.	Name=28S_rRNA;product=28S ribosomal RNA

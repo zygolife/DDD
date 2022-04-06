@@ -1,0 +1,17 @@
+##gff-version 3
+NRRL_1617_metscf_1099	barrnap:0.9	rRNA	844	995	2.1e-27	-	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+NRRL_1617_metscf_1172	barrnap:0.9	rRNA	426	539	1.1e-15	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_1617_metscf_1178	barrnap:0.9	rRNA	546	659	1.1e-15	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_1617_metscf_1234	barrnap:0.9	rRNA	5	549	2.3e-112	+	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 29 percent of the 18S ribosomal RNA
+NRRL_1617_metscf_152	barrnap:0.9	rRNA	7558	8383	2.5e-175	-	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 28 percent of the 28S ribosomal RNA
+NRRL_1617_metscf_18	barrnap:0.9	rRNA	219491	220796	1.4e-236	+	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 44 percent of the 28S ribosomal RNA
+NRRL_1617_metscf_186	barrnap:0.9	rRNA	344	1502	2.3e-43	-	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 39 percent of the 28S ribosomal RNA
+NRRL_1617_metscf_186	barrnap:0.9	rRNA	62986	63723	2.6e-30	+	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 39 percent of the 18S ribosomal RNA
+NRRL_1617_metscf_234	barrnap:0.9	rRNA	60804	60903	3.9e-09	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_1617_metscf_29	barrnap:0.9	rRNA	167576	168393	3.2e-188	+	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 28 percent of the 28S ribosomal RNA
+NRRL_1617_metscf_652	barrnap:0.9	rRNA	2991	6497	0	-	.	Name=28S_rRNA;product=28S ribosomal RNA
+NRRL_1617_metscf_652	barrnap:0.9	rRNA	6342	6492	3e-34	-	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+NRRL_1617_metscf_652	barrnap:0.9	rRNA	6665	8461	0	-	.	Name=18S_rRNA;product=18S ribosomal RNA
+NRRL_1617_metscf_695	barrnap:0.9	rRNA	765	877	1.3e-11	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_1617_metscf_977	barrnap:0.9	rRNA	1166	1277	4.7e-15	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_1617_plascf_1_covcut_91	barrnap:0.9	rRNA	17581	18318	2.6e-30	-	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 39 percent of the 18S ribosomal RNA

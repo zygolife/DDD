@@ -1,0 +1,9 @@
+##gff-version 3
+CBS_939.97_metscf_289	barrnap:0.9	rRNA	2915	6899	0	-	.	Name=28S_rRNA;product=28S ribosomal RNA
+CBS_939.97_metscf_289	barrnap:0.9	rRNA	6749	6893	2.3e-24	-	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+CBS_939.97_metscf_289	barrnap:0.9	rRNA	7073	8924	0	-	.	Name=18S_rRNA;product=18S ribosomal RNA
+CBS_939.97_metscf_289	barrnap:0.9	rRNA	16334	16444	4.6e-16	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+CBS_939.97_plascf_1_covcut_434	barrnap:0.9	rRNA	10102	14086	0	-	.	Name=28S_rRNA;product=28S ribosomal RNA
+CBS_939.97_plascf_1_covcut_434	barrnap:0.9	rRNA	13936	14080	2.3e-24	-	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+CBS_939.97_plascf_1_covcut_434	barrnap:0.9	rRNA	14260	16111	0	-	.	Name=18S_rRNA;product=18S ribosomal RNA
+CBS_939.97_plascf_1_covcut_434	barrnap:0.9	rRNA	23521	23631	4.6e-16	+	.	Name=5S_rRNA;product=5S ribosomal RNA

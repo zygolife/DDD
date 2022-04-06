@@ -1,0 +1,13 @@
+##gff-version 3
+NRRL_13128_metscf_172	barrnap:0.9	rRNA	60	711	5.3e-11	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 41 percent of the 16S ribosomal RNA
+NRRL_13128_metscf_172	barrnap:0.9	rRNA	1686	2422	3.9e-60	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 46 percent of the 16S ribosomal RNA
+NRRL_13128_metscf_172	barrnap:0.9	rRNA	28035	28749	2.7e-35	+	.	Name=12S_rRNA;product=12S ribosomal RNA (partial);note=aligned only 74 percent of the 12S ribosomal RNA
+NRRL_13128_metscf_172	barrnap:0.9	rRNA	36668	36990	2.4e-08	+	.	Name=12S_rRNA;product=12S ribosomal RNA (partial);note=aligned only 33 percent of the 12S ribosomal RNA
+NRRL_13128_metscf_172	barrnap:0.9	rRNA	37321	37567	1.2e-08	+	.	Name=12S_rRNA;product=12S ribosomal RNA (partial);note=aligned only 25 percent of the 12S ribosomal RNA
+NRRL_13128_metscf_172	barrnap:0.9	rRNA	40330	41188	1.7e-31	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 54 percent of the 16S ribosomal RNA
+NRRL_13128_plascf_1_covcut_0	barrnap:0.9	rRNA	19727	20463	3.9e-60	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 46 percent of the 16S ribosomal RNA
+NRRL_13128_plascf_1_covcut_0	barrnap:0.9	rRNA	21439	22178	8.4e-13	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 46 percent of the 16S ribosomal RNA
+NRRL_13128_plascf_1_covcut_0	barrnap:0.9	rRNA	27815	28529	2.7e-35	-	.	Name=12S_rRNA;product=12S ribosomal RNA (partial);note=aligned only 74 percent of the 12S ribosomal RNA
+NRRL_13128_plascf_1_covcut_153	barrnap:0.9	rRNA	1029	1887	5.9e-32	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 54 percent of the 16S ribosomal RNA
+NRRL_13128_plascf_1_covcut_153	barrnap:0.9	rRNA	4649	4895	1.2e-08	-	.	Name=12S_rRNA;product=12S ribosomal RNA (partial);note=aligned only 25 percent of the 12S ribosomal RNA
+NRRL_13128_plascf_1_covcut_153	barrnap:0.9	rRNA	5226	5548	2.4e-08	-	.	Name=12S_rRNA;product=12S ribosomal RNA (partial);note=aligned only 33 percent of the 12S ribosomal RNA

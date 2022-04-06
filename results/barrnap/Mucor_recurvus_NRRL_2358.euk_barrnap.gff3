@@ -1,0 +1,19 @@
+##gff-version 3
+NRRL_2358_metscf_1772	barrnap:0.9	rRNA	321	4175	0	-	.	Name=28S_rRNA;product=28S ribosomal RNA
+NRRL_2358_metscf_1772	barrnap:0.9	rRNA	4024	4171	1.4e-28	-	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+NRRL_2358_metscf_1772	barrnap:0.9	rRNA	4449	6278	0	-	.	Name=18S_rRNA;product=18S ribosomal RNA
+NRRL_2358_metscf_1806	barrnap:0.9	rRNA	571	683	3.3e-17	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_2358_metscf_2420	barrnap:0.9	rRNA	1748	1860	3.3e-17	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_2358_metscf_2664	barrnap:0.9	rRNA	590	702	3.3e-17	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_2358_metscf_3016	barrnap:0.9	rRNA	1322	1434	3.3e-17	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_2358_metscf_4224	barrnap:0.9	rRNA	496	608	3.3e-17	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_2358_metscf_634	barrnap:0.9	rRNA	13585	14359	1.2e-44	+	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 41 percent of the 18S ribosomal RNA
+NRRL_2358_metscf_634	barrnap:0.9	rRNA	27767	28794	9.5e-60	+	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 35 percent of the 28S ribosomal RNA
+NRRL_2358_plascf_1_covcut_0	barrnap:0.9	rRNA	12589	13363	1.2e-44	-	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 41 percent of the 18S ribosomal RNA
+NRRL_2358_plascf_1_covcut_0	barrnap:0.9	rRNA	30624	31651	9.7e-60	-	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 35 percent of the 28S ribosomal RNA
+NRRL_2358_plascf_2_covcut_0	barrnap:0.9	rRNA	909	4763	0	-	.	Name=28S_rRNA;product=28S ribosomal RNA
+NRRL_2358_plascf_2_covcut_0	barrnap:0.9	rRNA	4612	4759	1.4e-28	-	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+NRRL_2358_plascf_2_covcut_0	barrnap:0.9	rRNA	5037	6866	0	-	.	Name=18S_rRNA;product=18S ribosomal RNA
+NRRL_2358_plascf_2_covcut_0	barrnap:0.9	rRNA	9566	13420	0	-	.	Name=28S_rRNA;product=28S ribosomal RNA
+NRRL_2358_plascf_2_covcut_0	barrnap:0.9	rRNA	13269	13416	1.4e-28	-	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+NRRL_2358_plascf_2_covcut_0	barrnap:0.9	rRNA	13694	15523	0	-	.	Name=18S_rRNA;product=18S ribosomal RNA

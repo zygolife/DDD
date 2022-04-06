@@ -1,0 +1,8 @@
+##gff-version 3
+RSA_487_metscf_117	barrnap:0.9	rRNA	31879	32779	1.3e-11	-	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 48 percent of the 18S ribosomal RNA
+RSA_487_metscf_229	barrnap:0.9	rRNA	1510	5599	0	-	.	Name=28S_rRNA;product=28S ribosomal RNA
+RSA_487_metscf_229	barrnap:0.9	rRNA	5452	5589	1.2e-22	-	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+RSA_487_metscf_229	barrnap:0.9	rRNA	5846	7729	0	-	.	Name=18S_rRNA;product=18S ribosomal RNA
+RSA_487_metscf_284	barrnap:0.9	rRNA	538	648	1.1e-16	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+RSA_487_metscf_3	barrnap:0.9	rRNA	334306	334416	1.1e-16	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+RSA_487_plascf_1_covcut_0	barrnap:0.9	rRNA	31951	32851	1.3e-11	-	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 48 percent of the 18S ribosomal RNA

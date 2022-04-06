@@ -1,0 +1,10 @@
+##gff-version 3
+IMI_282443_metscf_1034	barrnap:0.9	rRNA	395	454	3.1e-08	+	.	Name=5S_rRNA;product=5S ribosomal RNA (partial);note=aligned only 50 percent of the 5S ribosomal RNA
+IMI_282443_metscf_113	barrnap:0.9	rRNA	2352	2982	1.4e-35	-	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 33 percent of the 18S ribosomal RNA
+IMI_282443_metscf_113	barrnap:0.9	rRNA	6219	7130	1.6e-43	+	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 31 percent of the 28S ribosomal RNA
+IMI_282443_metscf_158	barrnap:0.9	rRNA	1447	3272	0	+	.	Name=18S_rRNA;product=18S ribosomal RNA
+IMI_282443_metscf_158	barrnap:0.9	rRNA	3401	7197	0	+	.	Name=28S_rRNA;product=28S ribosomal RNA
+IMI_282443_metscf_158	barrnap:0.9	rRNA	3405	3554	6.6e-30	+	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+IMI_282443_metscf_158	barrnap:0.9	rRNA	7670	7781	1.6e-19	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+IMI_282443_plascf_1_covcut_0	barrnap:0.9	rRNA	1904	2534	1.4e-35	-	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 33 percent of the 18S ribosomal RNA
+IMI_282443_plascf_1_covcut_0	barrnap:0.9	rRNA	5771	6682	1.6e-43	+	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 31 percent of the 28S ribosomal RNA

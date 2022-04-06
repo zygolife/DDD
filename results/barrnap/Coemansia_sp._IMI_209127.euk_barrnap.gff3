@@ -1,0 +1,12 @@
+##gff-version 3
+IMI_209127_metscf_1001	barrnap:0.9	rRNA	633	2484	0	+	.	Name=18S_rRNA;product=18S ribosomal RNA
+IMI_209127_metscf_1185	barrnap:0.9	rRNA	1508	1618	5.3e-16	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+IMI_209127_metscf_1271	barrnap:0.9	rRNA	695	805	5.3e-16	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+IMI_209127_metscf_1516	barrnap:0.9	rRNA	178	288	5.3e-16	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+IMI_209127_metscf_1813	barrnap:0.9	rRNA	411	521	5.3e-16	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+IMI_209127_metscf_2134	barrnap:0.9	rRNA	75	185	5.3e-16	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+IMI_209127_metscf_253	barrnap:0.9	rRNA	3433	3543	5.3e-16	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+IMI_209127_metscf_3243	barrnap:0.9	rRNA	79	189	5.3e-16	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+IMI_209127_metscf_795	barrnap:0.9	rRNA	340	450	5.3e-16	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+IMI_209127_metscf_800	barrnap:0.9	rRNA	11	3951	0	+	.	Name=28S_rRNA;product=28S ribosomal RNA
+IMI_209127_metscf_800	barrnap:0.9	rRNA	15	152	2.4e-22	+	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA

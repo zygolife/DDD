@@ -1,0 +1,22 @@
+##gff-version 3
+IMI_209128_metscf_1051	barrnap:0.9	rRNA	1	1356	0	+	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 46 percent of the 28S ribosomal RNA
+IMI_209128_metscf_1067	barrnap:0.9	rRNA	80	189	1.1e-16	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+IMI_209128_metscf_1243	barrnap:0.9	rRNA	690	799	1.1e-16	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+IMI_209128_metscf_1271	barrnap:0.9	rRNA	581	690	1.1e-16	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+IMI_209128_metscf_131	barrnap:0.9	rRNA	64	162	3.2e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+IMI_209128_metscf_1557	barrnap:0.9	rRNA	9	99	3.7e-13	+	.	Name=5S_rRNA;product=5S ribosomal RNA (partial);note=aligned only 76 percent of the 5S ribosomal RNA
+IMI_209128_metscf_1937	barrnap:0.9	rRNA	2	88	3.5e-12	+	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA (partial);note=aligned only 55 percent of the 5.8S ribosomal RNA
+IMI_209128_metscf_2514	barrnap:0.9	rRNA	11	160	3.1e-31	-	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+IMI_209128_metscf_2538	barrnap:0.9	rRNA	72	182	7.3e-25	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+IMI_209128_metscf_3484	barrnap:0.9	rRNA	4	157	2.1e-29	+	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+IMI_209128_metscf_657	barrnap:0.9	rRNA	208	4817	0	-	.	Name=28S_rRNA;product=28S ribosomal RNA
+IMI_209128_metscf_657	barrnap:0.9	rRNA	4663	4810	1.1e-25	-	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+IMI_209128_metscf_723	barrnap:0.9	rRNA	2017	3840	0	+	.	Name=18S_rRNA;product=18S ribosomal RNA
+IMI_209128_metscf_724	barrnap:0.9	rRNA	595	707	4.2e-19	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+IMI_209128_metscf_724	barrnap:0.9	rRNA	2266	3493	3.9e-301	+	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 65 percent of the 18S ribosomal RNA
+IMI_209128_metscf_8	barrnap:0.9	rRNA	6046	6921	2.9e-11	+	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 46 percent of the 18S ribosomal RNA
+IMI_209128_metscf_879	barrnap:0.9	rRNA	2	84	4.1e-11	+	.	Name=5S_rRNA;product=5S ribosomal RNA (partial);note=aligned only 69 percent of the 5S ribosomal RNA
+IMI_209128_metscf_914	barrnap:0.9	rRNA	691	801	1.3e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+IMI_209128_metscf_975	barrnap:0.9	rRNA	838	947	1.1e-16	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+IMI_209128_metscf_994	barrnap:0.9	rRNA	658	1444	4.4e-107	-	.	Name=28S_rRNA;product=28S ribosomal RNA (partial);note=aligned only 27 percent of the 28S ribosomal RNA
+IMI_209128_plascf_1_covcut_0	barrnap:0.9	rRNA	59870	60745	2.9e-11	-	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 46 percent of the 18S ribosomal RNA

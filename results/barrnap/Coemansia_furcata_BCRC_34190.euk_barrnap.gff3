@@ -1,0 +1,19 @@
+##gff-version 3
+BCRC_34190_metscf_100	barrnap:0.9	rRNA	205	294	1.3e-11	+	.	Name=5S_rRNA;product=5S ribosomal RNA (partial);note=aligned only 75 percent of the 5S ribosomal RNA
+BCRC_34190_metscf_1137	barrnap:0.9	rRNA	401	510	4.4e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+BCRC_34190_metscf_1137	barrnap:0.9	rRNA	1408	1506	4.4e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+BCRC_34190_metscf_1182	barrnap:0.9	rRNA	7	3001	0	-	.	Name=28S_rRNA;product=28S ribosomal RNA
+BCRC_34190_metscf_1334	barrnap:0.9	rRNA	394	2216	0	+	.	Name=18S_rRNA;product=18S ribosomal RNA
+BCRC_34190_metscf_1334	barrnap:0.9	rRNA	2461	2608	2.2e-25	+	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+BCRC_34190_metscf_1515	barrnap:0.9	rRNA	2105	2204	4.4e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+BCRC_34190_metscf_1678	barrnap:0.9	rRNA	1006	1104	4.4e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+BCRC_34190_metscf_1913	barrnap:0.9	rRNA	1604	1693	4.5e-11	-	.	Name=5S_rRNA;product=5S ribosomal RNA (partial);note=aligned only 75 percent of the 5S ribosomal RNA
+BCRC_34190_metscf_2	barrnap:0.9	rRNA	56514	57391	5.4e-13	-	.	Name=18S_rRNA;product=18S ribosomal RNA (partial);note=aligned only 46 percent of the 18S ribosomal RNA
+BCRC_34190_metscf_3377	barrnap:0.9	rRNA	455	564	4.4e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+BCRC_34190_metscf_3832	barrnap:0.9	rRNA	102	249	2.2e-25	-	.	Name=5_8S_rRNA;product=5.8S ribosomal RNA
+BCRC_34190_metscf_417	barrnap:0.9	rRNA	11438	11547	4.4e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+BCRC_34190_metscf_6305	barrnap:0.9	rRNA	76	185	1.2e-15	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+BCRC_34190_metscf_724	barrnap:0.9	rRNA	1330	1411	2.5e-10	-	.	Name=5S_rRNA;product=5S ribosomal RNA (partial);note=aligned only 68 percent of the 5S ribosomal RNA
+BCRC_34190_metscf_881	barrnap:0.9	rRNA	1137	1246	2.1e-15	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+BCRC_34190_metscf_931	barrnap:0.9	rRNA	379	468	3.1e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA (partial);note=aligned only 75 percent of the 5S ribosomal RNA
+BCRC_34190_metscf_990	barrnap:0.9	rRNA	3797	3906	1.2e-15	-	.	Name=5S_rRNA;product=5S ribosomal RNA

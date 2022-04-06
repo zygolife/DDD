@@ -1,0 +1,16 @@
+##gff-version 3
+NRRL_A-13231_metscf_184	barrnap:0.9	rRNA	15300	16658	1.4e-177	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NRRL_A-13231_metscf_184	barrnap:0.9	rRNA	33868	35187	2.5e-157	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 40 percent of the 23S ribosomal RNA
+NRRL_A-13231_metscf_247	barrnap:0.9	rRNA	3645	6878	8e-206	-	.	Name=23S_rRNA;product=23S ribosomal RNA
+NRRL_A-13231_metscf_247	barrnap:0.9	rRNA	7452	8392	2.1e-88	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 59 percent of the 16S ribosomal RNA
+NRRL_A-13231_metscf_247	barrnap:0.9	rRNA	8636	9262	7.7e-13	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 39 percent of the 16S ribosomal RNA
+NRRL_A-13231_metscf_289	barrnap:0.9	rRNA	1674	1786	3.6e-19	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_A-13231_metscf_293	barrnap:0.9	rRNA	1	1087	5.4e-220	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 33 percent of the 23S ribosomal RNA
+NRRL_A-13231_metscf_298	barrnap:0.9	rRNA	1669	1781	3.6e-19	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_A-13231_plascf_1_covcut_0	barrnap:0.9	rRNA	18523	19881	1.4e-177	+	.	Name=16S_rRNA;product=16S ribosomal RNA
+NRRL_A-13231_plascf_1_covcut_0	barrnap:0.9	rRNA	37091	39255	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 66 percent of the 23S ribosomal RNA
+NRRL_A-13231_plascf_1_covcut_198	barrnap:0.9	rRNA	7	103	1.2e-16	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NRRL_A-13231_plascf_1_covcut_198	barrnap:0.9	rRNA	3508	4134	7.7e-13	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 39 percent of the 16S ribosomal RNA
+NRRL_A-13231_plascf_1_covcut_198	barrnap:0.9	rRNA	4378	5318	2.1e-88	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 59 percent of the 16S ribosomal RNA
+NRRL_A-13231_plascf_1_covcut_198	barrnap:0.9	rRNA	5892	9125	8e-206	+	.	Name=23S_rRNA;product=23S ribosomal RNA
+NRRL_A-13231_plascf_1_covcut_198	barrnap:0.9	rRNA	14539	14651	3.6e-19	+	.	Name=5S_rRNA;product=5S ribosomal RNA
