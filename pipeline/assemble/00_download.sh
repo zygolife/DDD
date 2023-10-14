@@ -3,3 +3,5 @@
 
 module load aspera
 module load sratoolkit
+
+# this was not implemeneted for the project because all data were available locally already
