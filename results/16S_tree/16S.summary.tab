@@ -1,0 +1,236 @@
+Species	Query Contig	Hit Accession	AlnLen	PercentIDMatch	QStart	QEnd	HStart	HEnd	Evalue	Hit Taxon
+Rhizopus_sp._NRRL_A-11791	NRRL_A-11791_metscf_728/289-1815	NR_102769	1524	99.738	4	1526	1	1511	0.0	Burkholderia rhizoxinica HKI 454
+Rhizopus_sp._NRRL_A-11791	NRRL_A-11791_metscf_728/289-1815	NR_042393	1525	99.607	5	1526	1	1505	0.0	Burkholderia rhizoxinica HKI 454
+Rhizopus_sp._NRRL_A-11791	NRRL_A-11791_metscf_728/289-1815	NR_042584	1525	99.016	5	1527	1	1479	0.0	Burkholderia endofungorum
+Rhizopus_sp._NRRL_A-11791	NRRL_A-11791_metscf_728/289-1815	NR_074312	1527	97.380	2	1527	1	1406	0.0	Burkholderia thailandensis E264
+Rhizopus_sp._NRRL_A-11791	NRRL_A-11791_metscf_728/289-1815	NR_074299	1526	97.117	2	1527	1	1394	0.0	Burkholderia mallei
+Syncephalastrum_verruculosum_RSA_2127	RSA_2127_metscf_2595/250-1783	NR_121716	1538	94.278	4	1529	1	1264	0.0	Advenella mimigardefordensis DPN7
+Syncephalastrum_verruculosum_RSA_2127	RSA_2127_metscf_2595/250-1783	NR_074872	1545	94.045	1	1534	4	1259	0.0	Advenella kashmirensis
+Syncephalastrum_verruculosum_RSA_2127	RSA_2127_metscf_2595/250-1783	NR_043250	1511	93.911	5	1503	1	1224	0.0	Advenella mimigardefordensis DPN7
+Syncephalastrum_verruculosum_RSA_2127	RSA_2127_metscf_2595/250-1783	NR_025280	1489	94.157	28	1511	1	1223	0.0	Castellaniella defragrans
+Syncephalastrum_verruculosum_RSA_2127	RSA_2127_metscf_2595/250-1783	NR_044802	1472	93.886	44	1506	2	1196	0.0	Castellaniella denitrificans
+Syncephalastrum_verruculosum_RSA_2127	RSA_2127_metscf_967/2165-3696	NR_024901	1516	99.538	7	1522	1516	1495	0.0	Pseudomonas libanensis
+Syncephalastrum_verruculosum_RSA_2127	RSA_2127_metscf_967/2165-3696	NR_037092	1527	99.345	1	1527	1522	1494	0.0	Pseudomonas azotoformans
+Syncephalastrum_verruculosum_RSA_2127	RSA_2127_metscf_967/2165-3696	NR_043425	1527	99.214	1	1527	1527	1493	0.0	Pseudomonas synxantha
+Syncephalastrum_verruculosum_RSA_2127	RSA_2127_metscf_967/2165-3696	NR_024928	1516	99.472	7	1522	1516	1493	0.0	Pseudomonas gessardii
+Syncephalastrum_verruculosum_RSA_2127	RSA_2127_metscf_967/2165-3696	NR_043422	1527	99.149	1	1527	1526	1489	0.0	Pseudomonas mucidolens
+Rhizopus_microsporus_NRRL_5546	NRRL_5546_metscf_664/290-1816	NR_102769	1524	99.278	4	1526	1	1490	0.0	Burkholderia rhizoxinica HKI 454
+Rhizopus_microsporus_NRRL_5546	NRRL_5546_metscf_664/290-1816	NR_042393	1525	99.148	5	1526	1	1484	0.0	Burkholderia rhizoxinica HKI 454
+Rhizopus_microsporus_NRRL_5546	NRRL_5546_metscf_664/290-1816	NR_042584	1525	99.082	5	1527	1	1482	0.0	Burkholderia endofungorum
+Rhizopus_microsporus_NRRL_5546	NRRL_5546_metscf_664/290-1816	NR_074312	1527	97.577	2	1527	1	1415	0.0	Burkholderia thailandensis E264
+Rhizopus_microsporus_NRRL_5546	NRRL_5546_metscf_664/290-1816	NR_116051	1506	97.610	22	1527	1	1398	0.0	Burkholderia thailandensis E264
+Rhizopus_arrhizus_IMI266680	IMI_266680_metscf_1272/576-2104	NR_042584	1525	99.738	5	1529	1	1513	0.0	Burkholderia endofungorum
+Rhizopus_arrhizus_IMI266680	IMI_266680_metscf_1272/576-2104	NR_102769	1526	99.148	4	1528	1	1485	0.0	Burkholderia rhizoxinica HKI 454
+Rhizopus_arrhizus_IMI266680	IMI_266680_metscf_1272/576-2104	NR_042393	1527	99.018	5	1528	1	1479	0.0	Burkholderia rhizoxinica HKI 454
+Rhizopus_arrhizus_IMI266680	IMI_266680_metscf_1272/576-2104	NR_074312	1529	97.384	2	1529	1	1407	0.0	Burkholderia thailandensis E264
+Rhizopus_arrhizus_IMI266680	IMI_266680_metscf_1272/576-2104	NR_116051	1508	97.414	22	1529	1	1390	0.0	Burkholderia thailandensis E264
+Pirella_circinans_var._volvogradensis_RSA_2566	RSA_2566_metscf_3508/5-1363	NR_118008	1359	99.853	1	1359	114	1354	0.0	Stenotrophomonas pavanii
+Pirella_circinans_var._volvogradensis_RSA_2566	RSA_2566_metscf_3508/5-1363	NR_041577	1359	99.779	1	1359	134	1350	0.0	Stenotrophomonas maltophilia
+Pirella_circinans_var._volvogradensis_RSA_2566	RSA_2566_metscf_3508/5-1363	NR_119220	1359	99.706	1	1359	114	1348	0.0	Stenotrophomonas maltophilia
+Pirella_circinans_var._volvogradensis_RSA_2566	RSA_2566_metscf_3508/5-1363	NR_116793	1359	99.706	1	1359	114	1347	0.0	Stenotrophomonas pavanii
+Pirella_circinans_var._volvogradensis_RSA_2566	RSA_2566_metscf_3508/5-1363	NR_113648	1357	99.705	1	1357	114	1346	0.0	Stenotrophomonas maltophilia
+Rhizopus_arrhizus_NRRL_66564	NRRL_66564_metscf_543/291-1819	NR_042584	1525	99.934	5	1529	1	1522	0.0	Burkholderia endofungorum
+Rhizopus_arrhizus_NRRL_66564	NRRL_66564_metscf_543/291-1819	NR_102769	1526	98.952	4	1528	1	1476	0.0	Burkholderia rhizoxinica HKI 454
+Rhizopus_arrhizus_NRRL_66564	NRRL_66564_metscf_543/291-1819	NR_042393	1527	98.887	5	1528	1	1473	0.0	Burkholderia rhizoxinica HKI 454
+Rhizopus_arrhizus_NRRL_66564	NRRL_66564_metscf_543/291-1819	NR_074312	1529	97.319	2	1529	1	1404	0.0	Burkholderia thailandensis E264
+Rhizopus_arrhizus_NRRL_66564	NRRL_66564_metscf_543/291-1819	NR_116051	1508	97.347	22	1529	1	1387	0.0	Burkholderia thailandensis E264
+Rhizopus_arrhizus_NRRL_A-11376	NRRL_A-11376_metscf_3695/292-1820	NR_042584	1525	99.738	5	1529	1	1513	0.0	Burkholderia endofungorum
+Rhizopus_arrhizus_NRRL_A-11376	NRRL_A-11376_metscf_3695/292-1820	NR_102769	1526	99.148	4	1528	1	1485	0.0	Burkholderia rhizoxinica HKI 454
+Rhizopus_arrhizus_NRRL_A-11376	NRRL_A-11376_metscf_3695/292-1820	NR_042393	1527	99.018	5	1528	1	1479	0.0	Burkholderia rhizoxinica HKI 454
+Rhizopus_arrhizus_NRRL_A-11376	NRRL_A-11376_metscf_3695/292-1820	NR_074312	1529	97.384	2	1529	1	1407	0.0	Burkholderia thailandensis E264
+Rhizopus_arrhizus_NRRL_A-11376	NRRL_A-11376_metscf_3695/292-1820	NR_116051	1508	97.414	22	1529	1	1390	0.0	Burkholderia thailandensis E264
+Mortierella_gamsii_NVP60	NVP60_metscf_2618/306-1831	NR_149240	1485	98.788	23	1507	1	1431	0.0	Burkholderiaceae bacterium B1-BF
+Mortierella_gamsii_NVP60	NVP60_metscf_2618/306-1831	NR_074299	1529	94.506	1	1526	1	1274	0.0	Burkholderia mallei
+Mortierella_gamsii_NVP60	NVP60_metscf_2618/306-1831	NR_042584	1526	94.299	4	1526	1	1263	0.0	Burkholderia endofungorum
+Mortierella_gamsii_NVP60	NVP60_metscf_2618/306-1831	NR_152631	1506	94.555	21	1526	1	1260	0.0	Burkholderia sp. MSMB43
+Mortierella_gamsii_NVP60	NVP60_metscf_2618/306-1831	NR_152629	1506	94.555	21	1526	1	1260	0.0	Burkholderia sp. MSMB43
+Apophysomyces_sp._BC1015	BC1015_metscf_1189/3685-5211	NR_102769	1525	98.033	2	1524	1524	1433	0.0	Burkholderia rhizoxinica HKI 454
+Apophysomyces_sp._BC1015	BC1015_metscf_1189/3685-5211	NR_042584	1526	97.903	1	1523	1525	1428	0.0	Burkholderia endofungorum
+Apophysomyces_sp._BC1015	BC1015_metscf_1189/3685-5211	NR_042393	1526	97.903	2	1523	1525	1427	0.0	Burkholderia rhizoxinica HKI 454
+Apophysomyces_sp._BC1015	BC1015_metscf_1189/3685-5211	NR_074312	1528	97.120	1	1526	1527	1394	0.0	Burkholderia thailandensis E264
+Apophysomyces_sp._BC1015	BC1015_metscf_1189/3685-5211	NR_074299	1527	96.791	1	1526	1526	1379	0.0	Burkholderia mallei
+Rhizopus_microsporus_NRRL_5547	NRRL_5547_metscf_662/3878-5404	NR_102769	1524	99.869	2	1524	1524	1517	0.0	Burkholderia rhizoxinica HKI 454
+Rhizopus_microsporus_NRRL_5547	NRRL_5547_metscf_662/3878-5404	NR_042393	1525	99.738	2	1523	1525	1511	0.0	Burkholderia rhizoxinica HKI 454
+Rhizopus_microsporus_NRRL_5547	NRRL_5547_metscf_662/3878-5404	NR_042584	1525	99.016	1	1523	1525	1479	0.0	Burkholderia endofungorum
+Rhizopus_microsporus_NRRL_5547	NRRL_5547_metscf_662/3878-5404	NR_074312	1527	97.511	1	1526	1527	1412	0.0	Burkholderia thailandensis E264
+Rhizopus_microsporus_NRRL_5547	NRRL_5547_metscf_662/3878-5404	NR_074299	1526	97.248	1	1526	1526	1400	0.0	Burkholderia mallei
+Benjaminiella_youngii_IMI_325629	IMI_325629_metscf_2726/712-2243	NR_024901	1516	99.538	11	1526	1	1495	0.0	Pseudomonas libanensis
+Benjaminiella_youngii_IMI_325629	IMI_325629_metscf_2726/712-2243	NR_037092	1527	99.345	6	1532	1	1494	0.0	Pseudomonas azotoformans
+Benjaminiella_youngii_IMI_325629	IMI_325629_metscf_2726/712-2243	NR_043425	1527	99.214	6	1532	1	1493	0.0	Pseudomonas synxantha
+Benjaminiella_youngii_IMI_325629	IMI_325629_metscf_2726/712-2243	NR_024928	1516	99.472	11	1526	1	1493	0.0	Pseudomonas gessardii
+Benjaminiella_youngii_IMI_325629	IMI_325629_metscf_2726/712-2243	NR_043422	1527	99.149	6	1532	1	1489	0.0	Pseudomonas mucidolens
+Benjaminiella_youngii_IMI_325629	IMI_325629_metscf_3132/237-1770	NR_121716	1538	94.278	4	1529	1	1264	0.0	Advenella mimigardefordensis DPN7
+Benjaminiella_youngii_IMI_325629	IMI_325629_metscf_3132/237-1770	NR_074872	1545	94.045	1	1534	4	1259	0.0	Advenella kashmirensis
+Benjaminiella_youngii_IMI_325629	IMI_325629_metscf_3132/237-1770	NR_043250	1511	93.911	5	1503	1	1224	0.0	Advenella mimigardefordensis DPN7
+Benjaminiella_youngii_IMI_325629	IMI_325629_metscf_3132/237-1770	NR_025280	1489	94.157	28	1511	1	1223	0.0	Castellaniella defragrans
+Benjaminiella_youngii_IMI_325629	IMI_325629_metscf_3132/237-1770	NR_044802	1472	93.886	44	1506	2	1196	0.0	Castellaniella denitrificans
+Rhizopus_arrhizus_NRRL_A-21579	NRRL_A-21579_metscf_1258/3784-5312	NR_042584	1525	99.738	1	1525	1525	1513	0.0	Burkholderia endofungorum
+Rhizopus_arrhizus_NRRL_A-21579	NRRL_A-21579_metscf_1258/3784-5312	NR_102769	1526	99.148	2	1526	1524	1485	0.0	Burkholderia rhizoxinica HKI 454
+Rhizopus_arrhizus_NRRL_A-21579	NRRL_A-21579_metscf_1258/3784-5312	NR_042393	1527	99.018	2	1525	1525	1479	0.0	Burkholderia rhizoxinica HKI 454
+Rhizopus_arrhizus_NRRL_A-21579	NRRL_A-21579_metscf_1258/3784-5312	NR_074312	1529	97.384	1	1528	1527	1407	0.0	Burkholderia thailandensis E264
+Rhizopus_arrhizus_NRRL_A-21579	NRRL_A-21579_metscf_1258/3784-5312	NR_116051	1508	97.414	1	1508	1506	1390	0.0	Burkholderia thailandensis E264
+Rhizopus_microsporus_NRRL_5554	NRRL_5554_metscf_1383/3714-5242	NR_042584	1525	99.738	1	1525	1525	1513	0.0	Burkholderia endofungorum
+Rhizopus_microsporus_NRRL_5554	NRRL_5554_metscf_1383/3714-5242	NR_102769	1526	99.148	2	1526	1524	1485	0.0	Burkholderia rhizoxinica HKI 454
+Rhizopus_microsporus_NRRL_5554	NRRL_5554_metscf_1383/3714-5242	NR_042393	1527	99.018	2	1525	1525	1479	0.0	Burkholderia rhizoxinica HKI 454
+Rhizopus_microsporus_NRRL_5554	NRRL_5554_metscf_1383/3714-5242	NR_074312	1529	97.384	1	1528	1527	1407	0.0	Burkholderia thailandensis E264
+Rhizopus_microsporus_NRRL_5554	NRRL_5554_metscf_1383/3714-5242	NR_116051	1508	97.414	1	1508	1506	1390	0.0	Burkholderia thailandensis E264
+Rhizopus_americanus_NRRL_66675	NRRL_66675_metscf_1478/283-1811	NR_042584	1525	99.738	5	1529	1	1513	0.0	Burkholderia endofungorum
+Rhizopus_americanus_NRRL_66675	NRRL_66675_metscf_1478/283-1811	NR_102769	1526	99.148	4	1528	1	1485	0.0	Burkholderia rhizoxinica HKI 454
+Rhizopus_americanus_NRRL_66675	NRRL_66675_metscf_1478/283-1811	NR_042393	1527	99.018	5	1528	1	1479	0.0	Burkholderia rhizoxinica HKI 454
+Rhizopus_americanus_NRRL_66675	NRRL_66675_metscf_1478/283-1811	NR_074312	1529	97.384	2	1529	1	1407	0.0	Burkholderia thailandensis E264
+Rhizopus_americanus_NRRL_66675	NRRL_66675_metscf_1478/283-1811	NR_116051	1508	97.414	22	1529	1	1390	0.0	Burkholderia thailandensis E264
+Rhizopus_sp._NRRL_2934	NRRL_2934_metscf_855/250-1776	NR_102769	1524	99.869	4	1526	1	1517	0.0	Burkholderia rhizoxinica HKI 454
+Rhizopus_sp._NRRL_2934	NRRL_2934_metscf_855/250-1776	NR_042393	1525	99.738	5	1526	1	1511	0.0	Burkholderia rhizoxinica HKI 454
+Rhizopus_sp._NRRL_2934	NRRL_2934_metscf_855/250-1776	NR_042584	1525	99.016	5	1527	1	1479	0.0	Burkholderia endofungorum
+Rhizopus_sp._NRRL_2934	NRRL_2934_metscf_855/250-1776	NR_074312	1527	97.511	2	1527	1	1412	0.0	Burkholderia thailandensis E264
+Rhizopus_sp._NRRL_2934	NRRL_2934_metscf_855/250-1776	NR_074299	1526	97.248	2	1527	1	1400	0.0	Burkholderia mallei
+Rhizopus_liquefaciens_NRRL_1514	NRRL_1514_metscf_106/65641-67167	NR_102769	1524	99.869	4	1526	1	1517	0.0	Burkholderia rhizoxinica HKI 454
+Rhizopus_liquefaciens_NRRL_1514	NRRL_1514_metscf_106/65641-67167	NR_042393	1525	99.607	5	1526	1	1505	0.0	Burkholderia rhizoxinica HKI 454
+Rhizopus_liquefaciens_NRRL_1514	NRRL_1514_metscf_106/65641-67167	NR_042584	1525	98.885	5	1527	1	1473	0.0	Burkholderia endofungorum
+Rhizopus_liquefaciens_NRRL_1514	NRRL_1514_metscf_106/65641-67167	NR_074312	1527	97.380	2	1527	1	1406	0.0	Burkholderia thailandensis E264
+Rhizopus_liquefaciens_NRRL_1514	NRRL_1514_metscf_106/65641-67167	NR_074299	1526	97.117	2	1527	1	1394	0.0	Burkholderia mallei
+Pilaira_caucasica_CBS_523.68	CBS_523.68_metscf_5564/108-1639	NR_024901	1516	99.538	11	1526	1	1495	0.0	Pseudomonas libanensis
+Pilaira_caucasica_CBS_523.68	CBS_523.68_metscf_5564/108-1639	NR_037092	1527	99.345	6	1532	1	1494	0.0	Pseudomonas azotoformans
+Pilaira_caucasica_CBS_523.68	CBS_523.68_metscf_5564/108-1639	NR_043425	1527	99.214	6	1532	1	1493	0.0	Pseudomonas synxantha
+Pilaira_caucasica_CBS_523.68	CBS_523.68_metscf_5564/108-1639	NR_024928	1516	99.472	11	1526	1	1493	0.0	Pseudomonas gessardii
+Pilaira_caucasica_CBS_523.68	CBS_523.68_metscf_5564/108-1639	NR_043422	1527	99.149	6	1532	1	1489	0.0	Pseudomonas mucidolens
+Mortierella_sp._GBA39	GBA39_metscf_2686/14-1564	NR_029071	1545	99.806	2	1546	1546	1536	0.0	Paenibacillus favisporus
+Mortierella_sp._GBA39	GBA39_metscf_2686/14-1564	NR_043166	1545	99.676	2	1546	1546	1530	0.0	Paenibacillus rhizosphaerae
+Mortierella_sp._GBA39	GBA39_metscf_2686/14-1564	NR_042189	1505	99.801	22	1526	1505	1499	0.0	Paenibacillus cineris
+Mortierella_sp._GBA39	GBA39_metscf_2686/14-1564	NR_116564	1456	99.382	77	1530	1454	1427	0.0	Paenibacillus cellulositrophicus
+Mortierella_sp._GBA39	GBA39_metscf_2686/14-1564	NR_025391	1502	97.803	35	1533	1500	1400	0.0	Paenibacillus azoreducens
+Thamnostylum_repens_Tieghem_Upadhyay_NRRL_6240	NRRL_6240_metscf_1244/242-1768	NR_102845	1524	99.081	4	1527	1	1482	0.0	Burkholderia phytofirmans PsJN
+Thamnostylum_repens_Tieghem_Upadhyay_NRRL_6240	NRRL_6240_metscf_1244/242-1768	NR_025058	1472	100.000	35	1506	1	1472	0.0	Burkholderia fungorum
+Thamnostylum_repens_Tieghem_Upadhyay_NRRL_6240	NRRL_6240_metscf_1244/242-1768	NR_074325	1529	98.430	1	1527	3	1455	0.0	Burkholderia xenovorans LB400
+Thamnostylum_repens_Tieghem_Upadhyay_NRRL_6240	NRRL_6240_metscf_1244/242-1768	NR_114118	1456	99.863	24	1479	1	1452	0.0	Burkholderia fungorum
+Thamnostylum_repens_Tieghem_Upadhyay_NRRL_6240	NRRL_6240_metscf_1244/242-1768	NR_042931	1488	98.858	4	1490	1	1436	0.0	Burkholderia phytofirmans PsJN
+Rhizopus_microsporus_NRRL_13129	NRRL_13129_metscf_520/291-1819	NR_042584	1525	99.934	5	1529	1	1522	0.0	Burkholderia endofungorum
+Rhizopus_microsporus_NRRL_13129	NRRL_13129_metscf_520/291-1819	NR_102769	1526	98.952	4	1528	1	1476	0.0	Burkholderia rhizoxinica HKI 454
+Rhizopus_microsporus_NRRL_13129	NRRL_13129_metscf_520/291-1819	NR_042393	1527	98.887	5	1528	1	1473	0.0	Burkholderia rhizoxinica HKI 454
+Rhizopus_microsporus_NRRL_13129	NRRL_13129_metscf_520/291-1819	NR_074312	1529	97.319	2	1529	1	1404	0.0	Burkholderia thailandensis E264
+Rhizopus_microsporus_NRRL_13129	NRRL_13129_metscf_520/291-1819	NR_116051	1508	97.347	22	1529	1	1387	0.0	Burkholderia thailandensis E264
+Densosporaceae_sp._MVC-580	MVC-580_metscf_3067/175-1677	NR_025683	1320	79.091	197	1502	181	476	0.0	Mesoplasma corruscae
+Densosporaceae_sp._MVC-580	MVC-580_metscf_3067/175-1677	NR_028860	1299	78.830	218	1502	227	458	0.0	Entomoplasma lucivorax
+Densosporaceae_sp._MVC-580	MVC-580_metscf_3067/175-1677	NR_025676	1299	78.676	218	1502	210	452	0.0	Entomoplasma luminosum
+Densosporaceae_sp._MVC-580	MVC-580_metscf_3067/175-1677	NR_036849	1319	78.393	199	1502	211	446	0.0	Spiroplasma citri
+Densosporaceae_sp._MVC-580	MVC-580_metscf_3067/175-1677	NR_159146	1301	76.864	221	1502	250	370	0.0	Garciella sp. YIM G1-1
+Densosporaceae_sp._MVC-580	MVC-580_metscf_4/58410-59912	NR_044772	1529	78.352	3	1501	1511	510	0.0	Mycoplasma mycoides subsp. capri
+Densosporaceae_sp._MVC-580	MVC-580_metscf_4/58410-59912	NR_026036	1484	78.706	15	1465	1466	507	0.0	Mycoplasma cottewii
+Densosporaceae_sp._MVC-580	MVC-580_metscf_4/58410-59912	NR_025677	1513	78.387	5	1483	1489	506	0.0	Entomoplasma somnilux
+Densosporaceae_sp._MVC-580	MVC-580_metscf_4/58410-59912	NR_025683	1505	78.472	3	1474	1482	505	0.0	Mesoplasma corruscae
+Densosporaceae_sp._MVC-580	MVC-580_metscf_4/58410-59912	NR_025971	1483	78.624	15	1465	1465	504	0.0	Mycoplasma putrefaciens KS1
+Densosporaceae_sp._MVC-580	MVC-580_metscf_59/32747-34259	NR_025683	1499	78.052	41	1512	12	484	0.0	Mesoplasma corruscae
+Densosporaceae_sp._MVC-580	MVC-580_metscf_59/32747-34259	NR_028860	1298	79.122	229	1512	227	469	0.0	Entomoplasma lucivorax
+Densosporaceae_sp._MVC-580	MVC-580_metscf_59/32747-34259	NR_025676	1298	78.968	229	1512	210	463	0.0	Entomoplasma luminosum
+Densosporaceae_sp._MVC-580	MVC-580_metscf_59/32747-34259	NR_036849	1532	77.219	5	1512	8	458	0.0	Spiroplasma citri
+Densosporaceae_sp._MVC-580	MVC-580_metscf_59/32747-34259	NR_159146	1300	77.154	232	1512	250	382	0.0	Garciella sp. YIM G1-1
+Densosporaceae_sp._MVC-580	MVC-580_metscf_754/7252-8754	NR_044772	1529	78.352	3	1501	5	510	0.0	Mycoplasma mycoides subsp. capri
+Densosporaceae_sp._MVC-580	MVC-580_metscf_754/7252-8754	NR_026036	1484	78.706	39	1489	7	507	0.0	Mycoplasma cottewii
+Densosporaceae_sp._MVC-580	MVC-580_metscf_754/7252-8754	NR_025677	1513	78.387	21	1499	1	506	0.0	Entomoplasma somnilux
+Densosporaceae_sp._MVC-580	MVC-580_metscf_754/7252-8754	NR_025683	1505	78.472	30	1501	1	505	0.0	Mesoplasma corruscae
+Densosporaceae_sp._MVC-580	MVC-580_metscf_754/7252-8754	NR_025971	1483	78.624	39	1489	7	504	0.0	Mycoplasma putrefaciens KS1
+Mortierella_verticillata_TTC192	TTC192_metscf_1746/306-1831	NR_149240	1485	98.721	23	1507	1	1428	0.0	Burkholderiaceae bacterium B1-BF
+Mortierella_verticillata_TTC192	TTC192_metscf_1746/306-1831	NR_074299	1529	94.572	1	1526	1	1277	0.0	Burkholderia mallei
+Mortierella_verticillata_TTC192	TTC192_metscf_1746/306-1831	NR_042584	1526	94.364	4	1526	1	1266	0.0	Burkholderia endofungorum
+Mortierella_verticillata_TTC192	TTC192_metscf_1746/306-1831	NR_152631	1506	94.622	21	1526	1	1263	0.0	Burkholderia sp. MSMB43
+Mortierella_verticillata_TTC192	TTC192_metscf_1746/306-1831	NR_152629	1506	94.622	21	1526	1	1263	0.0	Burkholderia sp. MSMB43
+Rhizopus_arrhizus_NRRL_2582	NRRL_2582_metscf_1429/3692-5218	NR_102769	1524	99.672	2	1524	1524	1508	0.0	Burkholderia rhizoxinica HKI 454
+Rhizopus_arrhizus_NRRL_2582	NRRL_2582_metscf_1429/3692-5218	NR_042393	1525	99.541	2	1523	1525	1502	0.0	Burkholderia rhizoxinica HKI 454
+Rhizopus_arrhizus_NRRL_2582	NRRL_2582_metscf_1429/3692-5218	NR_042584	1525	98.820	1	1523	1525	1470	0.0	Burkholderia endofungorum
+Rhizopus_arrhizus_NRRL_2582	NRRL_2582_metscf_1429/3692-5218	NR_074312	1527	97.446	1	1526	1527	1409	0.0	Burkholderia thailandensis E264
+Rhizopus_arrhizus_NRRL_2582	NRRL_2582_metscf_1429/3692-5218	NR_074299	1526	97.182	1	1526	1526	1397	0.0	Burkholderia mallei
+Rhizopus_microsporus_NRRL_5552	NRRL_5552_metscf_565/288-1814	NR_102769	1524	99.869	4	1526	1	1517	0.0	Burkholderia rhizoxinica HKI 454
+Rhizopus_microsporus_NRRL_5552	NRRL_5552_metscf_565/288-1814	NR_042393	1525	99.738	5	1526	1	1511	0.0	Burkholderia rhizoxinica HKI 454
+Rhizopus_microsporus_NRRL_5552	NRRL_5552_metscf_565/288-1814	NR_042584	1525	99.016	5	1527	1	1479	0.0	Burkholderia endofungorum
+Rhizopus_microsporus_NRRL_5552	NRRL_5552_metscf_565/288-1814	NR_074312	1527	97.511	2	1527	1	1412	0.0	Burkholderia thailandensis E264
+Rhizopus_microsporus_NRRL_5552	NRRL_5552_metscf_565/288-1814	NR_074299	1526	97.248	2	1527	1	1400	0.0	Burkholderia mallei
+Circinella_simplex_CBS_142.35	CBS_142.35_metscf_2307/48-1587	NR_041577	1543	94.426	1	1535	1537	1277	0.0	Stenotrophomonas maltophilia
+Circinella_simplex_CBS_142.35	CBS_142.35_metscf_2307/48-1587	NR_118008	1495	94.916	29	1514	1489	1259	0.0	Stenotrophomonas pavanii
+Circinella_simplex_CBS_142.35	CBS_142.35_metscf_2307/48-1587	NR_024708	1505	94.419	29	1524	1497	1256	0.0	[Pseudomonas] geniculata ATCC 19374 = JCM 13324
+Circinella_simplex_CBS_142.35	CBS_142.35_metscf_2307/48-1587	NR_024709	1526	94.102	7	1524	1519	1255	0.0	Pseudomonas hibiscicola
+Circinella_simplex_CBS_142.35	CBS_142.35_metscf_2307/48-1587	NR_119220	1494	94.712	29	1514	1489	1250	0.0	Stenotrophomonas maltophilia
+Circinella_simplex_CBS_142.35	CBS_142.35_metscf_2464/101-1511	NR_024708	1404	96.652	16	1411	1	1266	0.0	[Pseudomonas] geniculata ATCC 19374 = JCM 13324
+Circinella_simplex_CBS_142.35	CBS_142.35_metscf_2464/101-1511	NR_041577	1415	96.466	5	1411	2	1261	0.0	Stenotrophomonas maltophilia
+Circinella_simplex_CBS_142.35	CBS_142.35_metscf_2464/101-1511	NR_118008	1396	96.705	24	1411	1	1255	0.0	Stenotrophomonas pavanii
+Circinella_simplex_CBS_142.35	CBS_142.35_metscf_2464/101-1511	NR_024709	1404	96.439	16	1411	1	1253	0.0	Pseudomonas hibiscicola
+Circinella_simplex_CBS_142.35	CBS_142.35_metscf_2464/101-1511	NR_119220	1396	96.418	24	1411	1	1243	0.0	Stenotrophomonas maltophilia
+Rhizopus_microsporus_NRRL_5550	NRRL_5550_metscf_542/289-1815	NR_102769	1524	99.803	4	1526	1	1514	0.0	Burkholderia rhizoxinica HKI 454
+Rhizopus_microsporus_NRRL_5550	NRRL_5550_metscf_542/289-1815	NR_042393	1525	99.672	5	1526	1	1508	0.0	Burkholderia rhizoxinica HKI 454
+Rhizopus_microsporus_NRRL_5550	NRRL_5550_metscf_542/289-1815	NR_042584	1525	99.082	5	1527	1	1482	0.0	Burkholderia endofungorum
+Rhizopus_microsporus_NRRL_5550	NRRL_5550_metscf_542/289-1815	NR_074312	1527	97.577	2	1527	1	1415	0.0	Burkholderia thailandensis E264
+Rhizopus_microsporus_NRRL_5550	NRRL_5550_metscf_542/289-1815	NR_074299	1526	97.313	2	1527	1	1403	0.0	Burkholderia mallei
+Rhizopus_microsporus_NRRL_5548	NRRL_5548_metscf_551/250-1776	NR_102769	1524	99.803	4	1526	1	1514	0.0	Burkholderia rhizoxinica HKI 454
+Rhizopus_microsporus_NRRL_5548	NRRL_5548_metscf_551/250-1776	NR_042393	1525	99.672	5	1526	1	1508	0.0	Burkholderia rhizoxinica HKI 454
+Rhizopus_microsporus_NRRL_5548	NRRL_5548_metscf_551/250-1776	NR_042584	1525	99.082	5	1527	1	1482	0.0	Burkholderia endofungorum
+Rhizopus_microsporus_NRRL_5548	NRRL_5548_metscf_551/250-1776	NR_074312	1527	97.577	2	1527	1	1415	0.0	Burkholderia thailandensis E264
+Rhizopus_microsporus_NRRL_5548	NRRL_5548_metscf_551/250-1776	NR_074299	1526	97.313	2	1527	1	1403	0.0	Burkholderia mallei
+Mortierella_clonocystis_AM1000	AM1000_metscf_1491/403-1933	NR_118637	1529	93.198	5	1530	1	1213	0.0	Burkholderia rinojensis
+Mortierella_clonocystis_AM1000	AM1000_metscf_1491/403-1933	NR_102890	1531	92.750	4	1531	1	1194	0.0	Burkholderia lata
+Mortierella_clonocystis_AM1000	AM1000_metscf_1491/403-1933	NR_074299	1533	92.498	3	1531	2	1182	0.0	Burkholderia mallei
+Mortierella_clonocystis_AM1000	AM1000_metscf_1491/403-1933	NR_029211	1486	93.069	47	1529	1	1173	0.0	Burkholderia glumae
+Mortierella_clonocystis_AM1000	AM1000_metscf_1491/403-1933	NR_074312	1533	92.303	3	1531	2	1173	0.0	Burkholderia thailandensis E264
+Mortierella_epicladia_AD058	AD058_metscf_1717/3958-5488	NR_118637	1529	93.198	2	1527	1524	1213	0.0	Burkholderia rinojensis
+Mortierella_epicladia_AD058	AD058_metscf_1717/3958-5488	NR_102890	1531	92.750	1	1528	1526	1194	0.0	Burkholderia lata
+Mortierella_epicladia_AD058	AD058_metscf_1717/3958-5488	NR_074299	1533	92.498	1	1529	1526	1182	0.0	Burkholderia mallei
+Mortierella_epicladia_AD058	AD058_metscf_1717/3958-5488	NR_029211	1486	93.069	3	1485	1480	1173	0.0	Burkholderia glumae
+Mortierella_epicladia_AD058	AD058_metscf_1717/3958-5488	NR_074312	1533	92.303	1	1529	1527	1173	0.0	Burkholderia thailandensis E264
+Mortierella_gamsii_AD045	AD045_metscf_1773/296-1821	NR_149240	1485	98.721	23	1507	1	1428	0.0	Burkholderiaceae bacterium B1-BF
+Mortierella_gamsii_AD045	AD045_metscf_1773/296-1821	NR_074299	1529	94.441	1	1526	1	1271	0.0	Burkholderia mallei
+Mortierella_gamsii_AD045	AD045_metscf_1773/296-1821	NR_042584	1526	94.233	4	1526	1	1260	0.0	Burkholderia endofungorum
+Mortierella_gamsii_AD045	AD045_metscf_1773/296-1821	NR_152631	1506	94.489	21	1526	1	1257	0.0	Burkholderia sp. MSMB43
+Mortierella_gamsii_AD045	AD045_metscf_1773/296-1821	NR_152629	1506	94.489	21	1526	1	1257	0.0	Burkholderia sp. MSMB43
+Radiomyces_mexicana_RSA_1186	RSA_1186_metscf_29/3850-5376	NR_042021	1523	99.212	2	1524	1523	1489	0.0	Achromobacter denitrificans
+Radiomyces_mexicana_RSA_1186	RSA_1186_metscf_29/3850-5376	NR_044925	1496	99.666	8	1503	1495	1481	0.0	Achromobacter xylosoxidans
+Radiomyces_mexicana_RSA_1186	RSA_1186_metscf_29/3850-5376	NR_117615	1508	99.403	4	1511	1507	1480	0.0	Achromobacter animicus
+Radiomyces_mexicana_RSA_1186	RSA_1186_metscf_29/3850-5376	NR_117706	1483	99.865	22	1504	1483	1477	0.0	Achromobacter insuavis
+Radiomyces_mexicana_RSA_1186	RSA_1186_metscf_29/3850-5376	NR_117613	1507	99.336	5	1511	1507	1477	0.0	Achromobacter mucicolens
+Rhizopus_microsporus_NRRL_5553	NRRL_5553_metscf_651/292-1820	NR_042584	1525	99.738	5	1529	1	1513	0.0	Burkholderia endofungorum
+Rhizopus_microsporus_NRRL_5553	NRRL_5553_metscf_651/292-1820	NR_102769	1526	99.148	4	1528	1	1485	0.0	Burkholderia rhizoxinica HKI 454
+Rhizopus_microsporus_NRRL_5553	NRRL_5553_metscf_651/292-1820	NR_042393	1527	99.018	5	1528	1	1479	0.0	Burkholderia rhizoxinica HKI 454
+Rhizopus_microsporus_NRRL_5553	NRRL_5553_metscf_651/292-1820	NR_074312	1529	97.384	2	1529	1	1407	0.0	Burkholderia thailandensis E264
+Rhizopus_microsporus_NRRL_5553	NRRL_5553_metscf_651/292-1820	NR_116051	1508	97.414	22	1529	1	1390	0.0	Burkholderia thailandensis E264
+Circinella_angarensis_RSA_618-	RSA_618-_metscf_1063/19-1556	NR_036886	1531	99.804	4	1534	1532	1522	0.0	Serratia marcescens
+Circinella_angarensis_RSA_618-	RSA_618-_metscf_1063/19-1556	NR_044385	1499	99.867	36	1534	1500	1493	0.0	Serratia nematodiphila DZ0503SBS1
+Circinella_angarensis_RSA_618-	RSA_618-_metscf_1063/19-1556	NR_041980	1505	99.668	16	1520	1505	1490	0.0	Serratia marcescens subsp. marcescens ATCC 13880
+Circinella_angarensis_RSA_618-	RSA_618-_metscf_1063/19-1556	NR_169468	1495	99.666	21	1515	1495	1480	0.0	N/A
+Circinella_angarensis_RSA_618-	RSA_618-_metscf_1063/19-1556	NR_114043	1467	99.796	48	1514	1467	1458	0.0	Serratia marcescens
+Rhizopus_microsporus_NRRL_5551	NRRL_5551_metscf_695/292-1820	NR_042584	1525	99.475	5	1529	1	1501	0.0	Burkholderia endofungorum
+Rhizopus_microsporus_NRRL_5551	NRRL_5551_metscf_695/292-1820	NR_102769	1526	99.214	4	1528	1	1488	0.0	Burkholderia rhizoxinica HKI 454
+Rhizopus_microsporus_NRRL_5551	NRRL_5551_metscf_695/292-1820	NR_042393	1527	98.952	5	1528	1	1476	0.0	Burkholderia rhizoxinica HKI 454
+Rhizopus_microsporus_NRRL_5551	NRRL_5551_metscf_695/292-1820	NR_074312	1529	97.384	2	1529	1	1407	0.0	Burkholderia thailandensis E264
+Rhizopus_microsporus_NRRL_5551	NRRL_5551_metscf_695/292-1820	NR_116051	1508	97.414	22	1529	1	1390	0.0	Burkholderia thailandensis E264
+Coemansia_javaensis_NBRC_105414	NBRC_105414_metscf_312/3270-4782	NR_074427	1504	99.934	5	1508	1	1501	0.0	Mycobacterium abscessus
+Coemansia_javaensis_NBRC_105414	NBRC_105414_metscf_312/3270-4782	NR_104876	1507	99.403	8	1513	1	1479	0.0	Mycobacterium immunogenum
+Coemansia_javaensis_NBRC_105414	NBRC_105414_metscf_312/3270-4782	NR_043236	1480	99.932	5	1484	2	1477	0.0	Mycobacterium abscessus subsp. bolletii
+Coemansia_javaensis_NBRC_105414	NBRC_105414_metscf_312/3270-4782	NR_043002	1480	99.932	5	1484	2	1477	0.0	Mycobacterium abscessus subsp. massiliense
+Coemansia_javaensis_NBRC_105414	NBRC_105414_metscf_312/3270-4782	NR_042917	1480	99.932	5	1484	2	1477	0.0	Mycobacterium abscessus
+Rhizopus_oryzae_NRRL_62023	NRRL_62023_metscf_3691/281-1807	NR_102769	1524	99.475	4	1526	1	1499	0.0	Burkholderia rhizoxinica HKI 454
+Rhizopus_oryzae_NRRL_62023	NRRL_62023_metscf_3691/281-1807	NR_042393	1525	99.344	5	1526	1	1493	0.0	Burkholderia rhizoxinica HKI 454
+Rhizopus_oryzae_NRRL_62023	NRRL_62023_metscf_3691/281-1807	NR_042584	1525	98.885	5	1527	1	1473	0.0	Burkholderia endofungorum
+Rhizopus_oryzae_NRRL_62023	NRRL_62023_metscf_3691/281-1807	NR_074312	1527	97.446	2	1527	1	1409	0.0	Burkholderia thailandensis E264
+Rhizopus_oryzae_NRRL_62023	NRRL_62023_metscf_3691/281-1807	NR_074299	1526	97.182	2	1527	1	1397	0.0	Burkholderia mallei
+Rhizopus_microsporus_NRRL_5558	NRRL_5558_metscf_546/246-1772	NR_102769	1524	99.803	4	1526	1	1514	0.0	Burkholderia rhizoxinica HKI 454
+Rhizopus_microsporus_NRRL_5558	NRRL_5558_metscf_546/246-1772	NR_042393	1525	99.672	5	1526	1	1508	0.0	Burkholderia rhizoxinica HKI 454
+Rhizopus_microsporus_NRRL_5558	NRRL_5558_metscf_546/246-1772	NR_042584	1525	99.082	5	1527	1	1482	0.0	Burkholderia endofungorum
+Rhizopus_microsporus_NRRL_5558	NRRL_5558_metscf_546/246-1772	NR_074312	1527	97.577	2	1527	1	1415	0.0	Burkholderia thailandensis E264
+Rhizopus_microsporus_NRRL_5558	NRRL_5558_metscf_546/246-1772	NR_074299	1526	97.313	2	1527	1	1403	0.0	Burkholderia mallei
+Chaetocladium_brefeldii_NRRL_1350	NRRL_1350_metscf_1991/3557-5097	NR_041577	1536	99.349	2	1537	1537	1506	0.0	Stenotrophomonas maltophilia
+Chaetocladium_brefeldii_NRRL_1350	NRRL_1350_metscf_1991/3557-5097	NR_024709	1519	99.078	8	1526	1519	1484	0.0	Pseudomonas hibiscicola
+Chaetocladium_brefeldii_NRRL_1350	NRRL_1350_metscf_1991/3557-5097	NR_118008	1497	99.599	22	1518	1497	1480	0.0	Stenotrophomonas pavanii
+Chaetocladium_brefeldii_NRRL_1350	NRRL_1350_metscf_1991/3557-5097	NR_024708	1497	99.198	30	1526	1497	1473	0.0	[Pseudomonas] geniculata ATCC 19374 = JCM 13324
+Chaetocladium_brefeldii_NRRL_1350	NRRL_1350_metscf_1991/3557-5097	NR_119220	1500	99.333	19	1518	1500	1471	0.0	Stenotrophomonas maltophilia
+Apophysomyces_sp._BC1034	BC1034_metscf_1069/271-1797	NR_102769	1525	98.033	4	1526	1	1433	0.0	Burkholderia rhizoxinica HKI 454
+Apophysomyces_sp._BC1034	BC1034_metscf_1069/271-1797	NR_042584	1526	97.903	5	1527	1	1428	0.0	Burkholderia endofungorum
+Apophysomyces_sp._BC1034	BC1034_metscf_1069/271-1797	NR_042393	1526	97.903	5	1526	1	1427	0.0	Burkholderia rhizoxinica HKI 454
+Apophysomyces_sp._BC1034	BC1034_metscf_1069/271-1797	NR_074312	1528	97.120	2	1527	1	1394	0.0	Burkholderia thailandensis E264
+Apophysomyces_sp._BC1034	BC1034_metscf_1069/271-1797	NR_074299	1527	96.791	2	1527	1	1379	0.0	Burkholderia mallei
+Actinomucor_elegans_NRRL_1706	NRRL_1706_metscf_779/3557-5097	NR_041577	1536	99.349	2	1537	1537	1506	0.0	Stenotrophomonas maltophilia
+Actinomucor_elegans_NRRL_1706	NRRL_1706_metscf_779/3557-5097	NR_024709	1519	99.078	8	1526	1519	1484	0.0	Pseudomonas hibiscicola
+Actinomucor_elegans_NRRL_1706	NRRL_1706_metscf_779/3557-5097	NR_118008	1497	99.599	22	1518	1497	1480	0.0	Stenotrophomonas pavanii
+Actinomucor_elegans_NRRL_1706	NRRL_1706_metscf_779/3557-5097	NR_024708	1497	99.198	30	1526	1497	1473	0.0	[Pseudomonas] geniculata ATCC 19374 = JCM 13324
+Actinomucor_elegans_NRRL_1706	NRRL_1706_metscf_779/3557-5097	NR_119220	1500	99.333	19	1518	1500	1471	0.0	Stenotrophomonas maltophilia
+Actinomucor_elegans_NRRL_1706	NRRL_1706_plascf_1_covcut_54/4081-5621	NR_041577	1536	99.349	2	1537	1537	1506	0.0	Stenotrophomonas maltophilia
+Actinomucor_elegans_NRRL_1706	NRRL_1706_plascf_1_covcut_54/4081-5621	NR_024709	1519	99.078	8	1526	1519	1484	0.0	Pseudomonas hibiscicola
+Actinomucor_elegans_NRRL_1706	NRRL_1706_plascf_1_covcut_54/4081-5621	NR_118008	1497	99.599	22	1518	1497	1480	0.0	Stenotrophomonas pavanii
+Actinomucor_elegans_NRRL_1706	NRRL_1706_plascf_1_covcut_54/4081-5621	NR_024708	1497	99.198	30	1526	1497	1473	0.0	[Pseudomonas] geniculata ATCC 19374 = JCM 13324
+Actinomucor_elegans_NRRL_1706	NRRL_1706_plascf_1_covcut_54/4081-5621	NR_119220	1500	99.333	19	1518	1500	1471	0.0	Stenotrophomonas maltophilia
