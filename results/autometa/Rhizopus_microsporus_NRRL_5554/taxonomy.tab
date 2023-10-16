@@ -1,0 +1,1091 @@
+contig	length	gc	cov	kingdom	phylum	class	order	family	genus	species	taxid
+NRRL_5554_plascf_1_covcut_5	58379	25.4509326984	581.810000171	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_plascf_2_covcut_5	22217	60.8497997029	7.42507989378	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	unclassified	unclassified	119060
+NRRL_5554_plascf_1_covcut_0	58379	25.4509326984	582.551002929	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_1	179060	62.3522841506	12.2733552999	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Mycetohabitans	Mycetohabitans endofungorum	417203
+NRRL_5554_metscf_2	167722	63.6976663765	13.6026102718	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Mycetohabitans	Mycetohabitans endofungorum	417203
+NRRL_5554_metscf_3	161292	35.8684869677	41.5972459886	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_4	149925	61.0498582625	13.4531799233	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Mycetohabitans	Mycetohabitans endofungorum	417203
+NRRL_5554_metscf_5	147395	37.0277146443	41.5994572407	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_6	137237	62.6667735377	12.7127232452	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia sp. b14	1761775
+NRRL_5554_metscf_7	130519	37.2735004099	41.2676698412	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_8	125595	63.3926509813	13.4380588399	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Mycetohabitans	Mycetohabitans endofungorum	417203
+NRRL_5554_metscf_9	121755	61.4299207425	12.9521908751	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Mycetohabitans	Mycetohabitans rhizoxinica	412963
+NRRL_5554_metscf_10	117282	61.1176480619	12.750856909	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Mycetohabitans	Mycetohabitans endofungorum	417203
+NRRL_5554_metscf_11	115456	61.1869456763	13.446802245	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Trinickia	Trinickia fusca	2419777
+NRRL_5554_metscf_12	113488	62.6022134499	13.3746034823	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Mycetohabitans	Mycetohabitans endofungorum	417203
+NRRL_5554_metscf_13	112744	35.0191584475	43.3170989144	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_14	107532	36.5109920768	41.8491425808	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_15	107322	34.3340601181	41.0073982967	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_16	104139	35.4247688186	42.576671564	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_17	102602	35.6640221438	41.9693378297	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_18	99283	34.8891552431	42.0724393904	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_19	97922	62.8765752333	13.2717877494	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Mycetohabitans	Mycetohabitans endofungorum	417203
+NRRL_5554_metscf_20	97822	36.1503547259	43.4403201734	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_21	96590	35.7894191945	40.1566104152	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_22	96296	34.5673755919	41.0315277893	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_23	93064	35.6593312129	42.0335682971	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_24	92641	37.3711423668	40.8656318477	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_25	91898	59.6160961066	12.7032361967	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia sp. 8Y	2653133
+NRRL_5554_metscf_26	90885	35.5031083237	42.4432524619	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_27	89936	61.082325209	13.2844244796	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Mycetohabitans	Mycetohabitans endofungorum	417203
+NRRL_5554_metscf_28	89699	37.0405467174	41.6301073591	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_29	88444	34.5280629551	41.7559811858	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_30	88437	36.440630053	40.7222768751	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_31	87318	36.8984630889	39.4980301885	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_32	83851	34.5183718739	41.784093213	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_33	83819	34.8691824049	42.1009556306	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_34	82974	62.3749608311	12.9239641333	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Mycetohabitans	Mycetohabitans endofungorum	417203
+NRRL_5554_metscf_35	80992	33.6070229158	42.5141371987	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_36	80319	36.2093651564	41.6782205954	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_37	80317	36.0621039132	41.7162120099	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_38	80126	34.9574420288	42.4916132092	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_39	79341	35.2390315222	41.7093684224	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_40	77897	37.7434304274	40.0265607148	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_41	77599	35.2465882292	41.6840680937	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_42	76820	38.1124707108	40.682530591	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_43	75582	35.4079013522	41.2425180599	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_44	75520	34.3048199153	43.4574152542	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_45	75376	61.9945340692	14.7804473572	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia sp. b13	1761774
+NRRL_5554_metscf_46	74974	36.6380345186	40.8790780804	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_47	74870	38.7164418325	41.5924268732	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_48	74405	59.557825415	12.7096566091	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Mycetohabitans	Mycetohabitans endofungorum	417203
+NRRL_5554_metscf_49	73400	36.8446866485	41.7271389646	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_50	73327	33.5019842623	40.4628036058	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_51	73325	36.3150357995	42.1079304466	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_52	72976	37.1382372287	41.6525295988	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_53	72973	35.3226535842	40.7357515794	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_54	72643	36.5995347108	40.3540189695	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_55	72574	37.6236668779	40.6424477085	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_56	72268	34.7733436652	41.7310427852	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_57	72268	34.3789782476	42.4694885703	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_58	72261	36.4110654433	40.544872061	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_59	72004	35.3758124549	41.386478529	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_60	71984	34.6952100467	41.4709935541	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_61	70894	35.0650266595	41.562346602	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_62	70012	34.4469519511	40.1726418328	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_63	69737	34.843770165	40.9093594505	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_64	69681	34.4369340279	41.9684706017	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_65	68371	33.7921048398	41.7702242179	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_66	68098	57.8886310905	10.676422215	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	unclassified	unclassified	119060
+NRRL_5554_metscf_67	67846	35.2798985939	41.46382985	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_68	67791	35.237715921	44.5228127628	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_69	67655	35.8421402705	40.2892025719	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_70	67244	34.8298732972	43.0133097377	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_71	66900	35.4065769806	42.7391330344	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_72	65903	34.7829385612	41.2083364945	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_73	65775	33.8380843786	41.0496389206	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_74	65286	34.4560855314	41.2783904666	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_75	64982	35.3882613647	41.4448462651	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_76	64811	34.2843035904	40.8958973014	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_77	64305	36.0531840448	41.1930954047	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_78	63926	35.1531458249	42.0503707412	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_79	63047	35.2102399797	41.2590924231	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_80	62476	36.055445291	42.3572731929	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_81	62450	60.9607686149	12.9266293034	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Mycetohabitans	Mycetohabitans endofungorum	417203
+NRRL_5554_metscf_82	61973	34.5585980992	41.2299711165	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_83	61898	37.132055963	42.2281333807	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_84	61858	61.8481037214	12.4444857577	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Mycetohabitans	Mycetohabitans rhizoxinica	412963
+NRRL_5554_metscf_85	61788	59.464620962	12.1434906454	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Mycetohabitans	Mycetohabitans endofungorum	417203
+NRRL_5554_metscf_86	61563	35.7308773127	43.6024397771	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_87	61443	33.4130820435	41.3326823235	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_88	61403	35.0601762129	40.389932088	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_89	61298	41.8643348886	40.8727690952	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_90	61064	36.3274597144	41.9394405869	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_91	61008	34.1233936533	41.1769440073	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_92	60689	35.5105538071	41.3321854043	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_93	60000	34.8633333333	39.8201833333	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_94	59968	34.6217982924	41.9360659018	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_95	59968	35.0203441836	40.3982457311	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_96	59818	35.0212310676	43.2582834598	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_97	59750	35.6518828452	42.1790962343	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_98	59532	35.594302224	41.1413021568	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_99	59386	34.7304078402	40.8211531337	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_100	59085	59.8172124905	11.5731234662	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Mycetohabitans	Mycetohabitans endofungorum	417203
+NRRL_5554_metscf_101	59040	61.5650406504	12.4670562331	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Mycetohabitans	Mycetohabitans endofungorum	417203
+NRRL_5554_metscf_102	58753	40.7740881317	41.1725188501	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_103	58747	34.4987829166	45.1572165387	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_104	58658	35.2893041017	40.1164887995	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_105	58174	61.665004985	13.4405920171	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Mycetohabitans	Mycetohabitans endofungorum	417203
+NRRL_5554_metscf_106	57988	35.4193971166	40.7581913499	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_107	57855	34.57782387	42.3897848068	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_108	57656	34.2705009019	42.1248439018	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_109	57227	36.376186066	40.9926433327	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus azygosporus	86630
+NRRL_5554_metscf_110	56861	36.6085717803	40.0968150402	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_111	56846	35.0613939415	42.3683812405	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_112	56479	34.5792241364	40.3536358647	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_113	56452	35.568270389	41.2862963225	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_114	56445	34.6886349544	41.4666489503	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_115	56408	34.4454687278	42.3697525174	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_116	56343	34.8490495714	41.7494098646	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_117	55687	34.4443047749	42.6296801767	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_118	55656	35.7481673135	42.123149346	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_119	55644	34.8770756955	40.8824131982	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_120	55548	36.3307409808	43.653830921	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_121	55535	37.6645358783	40.6566129468	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_122	55471	34.996664924	41.3449189667	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_123	55121	35.6615446019	41.4034941311	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_124	55081	34.5073618852	41.1675532398	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_125	55033	33.2673123399	41.9679828467	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_126	54960	34.9690684134	42.8808770015	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_127	54831	34.5789790447	42.0795717751	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_128	54563	37.6170665103	40.7132489049	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_129	54529	35.9588475857	41.5795448294	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_130	54145	38.9749746052	40.3596084588	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_131	54120	35.2420546933	43.0390428677	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_132	54066	63.021122332	13.1703843451	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia sp. b13	1761774
+NRRL_5554_metscf_133	53956	35.3417599526	50.0723367188	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_134	53888	35.6869804038	40.4873441211	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_135	53741	35.1370462031	42.2626300218	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_136	53702	35.7081672936	40.2922609959	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_137	53340	34.6137982752	41.4780089989	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_138	53326	34.1053144807	42.0663653752	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_139	53133	36.3502907797	40.5128451245	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_140	52598	35.4386098331	39.1932012624	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_141	52545	59.8420401561	12.2250451994	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Mycetohabitans	Mycetohabitans rhizoxinica	412963
+NRRL_5554_metscf_142	52399	39.1362430581	39.8254355999	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_143	52398	36.1177907554	40.8966754456	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_144	52027	34.6339400696	42.9442020489	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_145	51890	34.7311620736	43.3507034111	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_146	51884	37.7264667335	42.1868398736	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_147	51844	36.4555204074	41.7669547103	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_148	51756	38.8051626865	41.0967424067	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_149	51423	35.8263811913	41.2242381814	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_150	51349	36.6589417515	40.5944809052	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_151	50852	39.3042554865	39.2240816487	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_152	50829	33.9845363867	41.9013358516	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_153	50799	35.8018858639	41.7743065808	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_154	50762	36.7341712304	45.6588786888	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_155	50503	36.4314991189	41.8231986219	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_156	50482	35.8048413296	42.0853175389	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_157	50469	34.2130812974	40.3117557312	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_158	50362	34.946983837	41.2823358882	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_159	50236	36.5733736762	41.4108408313	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_160	50125	60.7002493766	11.8898154613	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Mycetohabitans	Mycetohabitans endofungorum	417203
+NRRL_5554_metscf_161	49962	37.2503102358	41.1094832072	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_162	49894	35.7397683088	43.2813364332	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_163	49893	36.6865091295	40.8649509951	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_164	49626	37.7725385886	41.3394390037	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_165	49448	36.6223103058	47.4935487785	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_166	49447	34.64719801	42.2291948955	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_167	49374	36.5030177826	40.1832543444	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_168	49278	36.2981452169	42.6842201388	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_169	49115	36.6832943093	40.722956327	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_170	49107	37.0130531289	40.9605147942	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_171	48945	37.6177341914	41.2373276126	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_172	48911	34.7754083948	40.0475353193	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_173	48900	35.9059304703	41.6270756646	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_174	48834	35.6984887578	40.9732768153	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_175	48740	34.4091095609	39.9677267132	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_176	48683	61.9641353244	13.5920752624	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia sp. b13	1761774
+NRRL_5554_metscf_177	48675	38.2413970211	40.9250744735	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_178	48537	36.7286812123	41.8729422914	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_179	48223	35.5038052382	41.2293096655	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_180	48176	34.6126702092	42.8232107273	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_181	48108	36.0917103185	40.9152531803	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_182	47733	35.6420086732	40.6218549012	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_183	47677	61.457306458	12.0693206368	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Mycetohabitans	Mycetohabitans endofungorum	417203
+NRRL_5554_metscf_184	47616	33.8604670699	39.7707073253	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_185	47602	39.6748035797	40.1799294147	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_186	47539	34.8471781064	42.0447842824	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_187	47417	34.43701626	40.6334015227	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus stolonifer	4846
+NRRL_5554_metscf_188	47202	36.0090674124	43.218338206	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_189	46994	35.0470272801	40.9849768055	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_190	46759	34.8424902158	40.5681259223	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_191	46706	36.5242153042	41.445638676	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_192	46643	34.2709516969	41.3454537658	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_193	46429	36.0830515411	40.8655366258	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_194	46052	35.1081386259	39.9108182055	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_195	45978	34.6187306973	41.7307190395	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_196	45843	34.5636193094	46.9946774862	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus stolonifer	4846
+NRRL_5554_metscf_197	45752	35.3995453751	41.1710963455	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_198	45509	34.2042233404	41.7306247116	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_199	45210	36.0783012608	40.3249944702	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_200	45050	36.6947835738	42.2999778024	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_201	45040	36.243339254	40.6316829485	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_202	45000	34.8533333333	44.2476222222	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_203	44964	34.5832221333	39.3148296415	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_204	44707	54.9802044423	11.5158252623	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Mycetohabitans	Mycetohabitans endofungorum	417203
+NRRL_5554_metscf_205	44673	35.34573456	40.7121303696	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_206	44662	37.3830101652	40.6257444808	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_207	44504	36.0866438972	40.822532806	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_208	44412	35.9722597496	50.7374583446	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_209	44265	35.6195639896	41.8397379419	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_210	44150	34.5798414496	41.2854813137	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_211	43951	33.8308570909	42.0696229892	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_212	43813	36.361353936	40.8216739324	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_213	43773	37.9754643273	41.0621616065	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_214	43716	35.3806386678	41.762581206	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_215	43658	34.151816391	42.0409775986	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_216	43083	36.1743611169	50.2061602024	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_217	42983	60.3424609729	12.0805202057	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Ralstonia	unclassified	48736
+NRRL_5554_metscf_218	42981	35.0782904074	40.925757893	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_219	42805	35.5799556127	41.6937974536	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_220	42611	36.7463800427	40.8640022529	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_221	42437	35.4737611047	40.5977331103	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_222	42405	35.5005305978	41.9375073694	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_223	42305	35.2582437064	41.5277863137	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_224	42169	33.7902250468	40.9404538879	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_225	42165	35.5413257441	38.6800901221	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_226	42122	37.5551968093	40.9615402877	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_227	42093	35.5498538949	42.7358705723	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_228	42053	35.7120776163	46.1051054622	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_229	41860	33.7959866221	42.6820592451	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_230	41809	34.9805065895	41.7552680045	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_231	41788	38.7312147028	40.8377763951	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_232	41641	35.5034701376	42.2623616148	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_233	41639	33.5190566536	43.1621076395	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_234	41527	36.3209478171	42.7248055482	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_235	41485	35.7912498493	41.1957816078	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_236	41480	34.0260366442	19.925192864	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_237	41476	36.2040698235	40.9093451635	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_238	41303	35.6850591967	42.4188557732	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_239	41265	33.9973343027	42.0975887556	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_240	41030	33.9410187668	40.4139897636	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_241	40808	34.6843756126	42.1648696334	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_242	40670	36.9977870666	41.3021637571	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_243	40628	32.9895638476	41.6249630796	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_244	40622	33.9397370883	40.8656146915	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_245	40510	33.8237472229	40.2079733399	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_246	40506	61.7340640893	12.3406408927	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Mycetohabitans	Mycetohabitans endofungorum	417203
+NRRL_5554_metscf_247	40193	36.9541960043	40.4998880402	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_248	40164	38.195896823	40.4494572254	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_249	40070	62.4157723983	12.6974544547	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Mycetohabitans	Mycetohabitans endofungorum	417203
+NRRL_5554_metscf_250	40012	60.3768869339	13.7917624713	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia sp. b13	1761774
+NRRL_5554_metscf_251	39988	37.9563869161	42.0399369811	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_252	39978	34.9767372055	40.6154134774	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_253	39914	34.8023249987	40.3409580598	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_254	39908	35.9627142428	40.9911797133	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_255	39678	34.0012097384	40.6167145521	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_256	39640	37.0913218971	41.0120837538	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_257	39603	34.4393101533	41.5771279954	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_258	39584	32.9628132579	42.721958367	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_259	39545	33.9815400177	41.4879251486	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_260	39520	35.4908906883	42.1362095142	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_261	39484	34.6216188836	41.5432327019	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_262	39287	35.5512001425	42.6197469901	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_263	39211	34.344954222	41.795950116	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_264	39037	34.0599943643	40.2779670569	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_265	39015	34.8250672818	41.051262335	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_266	38950	55.6970474968	12.0859820282	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia sp. b14	1761775
+NRRL_5554_metscf_267	38944	35.4021158587	40.5412900575	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_268	38887	37.45467637	39.8128937691	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_269	38368	35.242910759	42.0735508757	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_270	38341	37.080410005	41.9577997444	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_271	38340	35.5112154408	41.9802295253	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_272	38194	35.7045609258	40.2861444206	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_273	38112	33.1365449202	40.6593461377	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_274	38092	33.7288669537	41.1912737583	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_275	37918	36.0330186191	41.7202647819	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_276	37873	34.8797296227	42.5589998152	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_277	37836	34.3403108151	42.5502960144	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_278	37673	35.9249329759	39.8693228572	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_279	37606	38.5417220656	41.6911131202	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_280	37593	35.3416859522	40.460458064	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_281	37416	34.9155441522	42.6504169339	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_282	37413	35.9661080373	44.0173201828	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_283	37386	36.2488632108	42.127694859	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_284	37089	34.2824017903	39.5058373103	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_285	37080	35.668824164	41.8590614887	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus azygosporus	86630
+NRRL_5554_metscf_286	37051	33.9451026963	41.5336698065	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_287	36918	40.0455062571	41.0363237445	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_288	36910	34.405310214	41.4318612842	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_289	36840	35.3175895765	41.2184310532	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_290	36826	34.375169717	41.3695486884	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_291	36716	34.6960453208	41.4641300795	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_292	36460	35.057597367	38.7557048821	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_293	36270	35.6713537359	42.3910118555	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_294	36241	37.3527220551	41.4979443172	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_295	36065	34.5126854291	49.3234715098	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_296	35998	34.9297183177	44.2603200178	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_297	35985	35.5175767681	40.8973183271	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus stolonifer	4846
+NRRL_5554_metscf_298	35706	35.6270654792	42.1274015572	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_299	35667	34.8333193148	42.45198643	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_300	35617	37.5354465564	41.1209534773	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_301	35498	38.6303453716	40.8937968336	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_302	35451	37.9566161744	46.6204338383	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_303	35440	59.0039503386	11.8426918736	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Mycetohabitans	Mycetohabitans endofungorum	417203
+NRRL_5554_metscf_304	35439	36.1663703829	41.7322441378	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_305	35407	35.0636879713	40.2196175897	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_306	35191	36.4581853315	41.5197919923	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_307	35183	35.1675525112	39.7779325242	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_308	35171	34.3237326206	41.1648801569	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_309	35142	32.87234648	42.1189459906	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_310	34842	36.6798691235	40.8242351185	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_311	34769	36.1126290661	40.2879289022	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_312	34750	33.7208633094	41.848028777	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_313	34642	34.4697188384	41.8955314358	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_314	34639	35.6419065216	47.7169664251	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_315	34625	32.9703971119	41.8436101083	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_316	34583	34.8928664373	41.5115230026	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_317	34423	35.0637655056	40.0648694187	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_318	34377	33.6765860895	42.7380225151	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_319	34365	34.2004946894	39.1321984577	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_320	34298	33.4800863024	41.8906058662	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_321	34250	36.0291970803	40.7539854015	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_322	34211	35.8276577709	41.8645172605	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_323	34187	35.2941176471	40.8627840992	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_324	34005	34.8419350096	38.4844875754	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_325	33926	35.6157519307	41.6906207628	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_326	33791	35.4265928798	40.8184723743	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_327	33666	33.615517139	40.7505198123	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_328	33657	35.1962444662	41.6489883234	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_329	33623	33.7596288255	40.8755018886	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_330	33587	33.1467532081	42.6819900557	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_331	33581	35.4426610286	41.1846579911	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_332	33568	62.8127979028	12.51832102	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	unclassified	32008
+NRRL_5554_metscf_333	33480	36.8518518519	40.3825268817	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_334	33424	33.5746768789	41.6242819531	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_335	33404	36.2471560292	41.4874266555	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_336	33350	40.6176911544	40.2514542729	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_337	33337	34.4812070672	40.142154363	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_338	33258	36.4483733237	41.7891334416	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_339	33258	35.1524445246	41.8097901257	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_340	33173	36.6020558888	39.5683537817	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_341	33154	35.8116667672	41.3036737649	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_342	33103	35.0149533275	42.8441228892	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_343	32597	35.3345399883	41.5375648066	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_344	32245	35.6272290278	40.7227477128	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_345	32243	35.7721055733	42.0977266383	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_346	32121	34.8027769995	41.9990971638	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_347	31933	34.7258322112	40.2397519807	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_348	31838	34.6598404422	40.612507067	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_349	31657	37.1102757684	41.2828126481	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_350	31632	33.2479767324	42.2938796156	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_351	31580	33.9582013933	41.1515516149	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_352	31476	39.0170288474	41.4058330156	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_353	31424	35.9565936864	39.9523294297	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_354	31423	34.6975145594	41.1426025523	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_355	31420	27.5588796945	560.051273074	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_356	31295	34.2706502636	41.9865793258	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_357	31261	42.7497520873	40.0253350821	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_358	31188	37.4406823137	41.2409259972	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_359	31124	34.2404575247	41.702480401	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_360	31118	35.6321100328	39.4395848062	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_361	31113	35.3549963038	41.0661138431	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_362	31112	34.4915145282	42.2228722037	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_363	31095	34.0794339926	42.2919440425	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_364	31039	35.236315603	41.2971100873	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_365	31036	34.0958886454	43.7379816987	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_366	31007	32.7958202986	41.7843067694	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_367	30987	33.1493852261	40.9586278117	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_368	30941	35.0473481788	42.6424485311	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_369	30713	34.1353824114	41.7147461987	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_370	30619	35.9417355237	39.5906463307	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_371	30617	34.9054446876	41.6810595421	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_372	30599	33.7854178241	40.9616327331	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_373	30575	35.3687653312	42.0690433361	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_374	30540	33.7655533726	41.8486247544	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_375	30524	35.4016511597	39.703348185	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_376	30482	35.9228397087	41.5123351486	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_377	30447	36.4666469603	39.8263868361	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_378	30346	33.3553021815	45.7626705332	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_379	30201	32.5949471872	42.3508493096	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_380	30132	33.6253816541	42.064615691	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_381	30074	35.435924719	42.0405998537	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_382	29925	35.2548036759	41.3310609858	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_383	29877	37.9121063025	40.765973826	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_384	29814	35.1311464413	39.8613738512	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_385	29782	36.233295279	41.9398294272	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_386	29779	36.9052016522	40.807884751	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_387	29777	35.9908654331	40.106961749	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_388	29723	36.0394307439	42.9124247216	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_389	29651	36.7238878959	44.3846076018	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_390	29629	35.2019980425	40.3902932937	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_391	29620	63.0148548278	14.1056718433	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Mycetohabitans	Mycetohabitans endofungorum	417203
+NRRL_5554_metscf_392	29602	35.6293493683	41.2543071414	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_393	29582	34.845514164	39.5344466229	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_394	29451	37.2007741673	41.5943431462	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_395	29416	34.0019037259	40.3135028556	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_396	29385	36.9406159605	41.4156882763	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_397	29320	35.2353342428	42.3901773533	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_398	29299	33.5062630124	43.7294446909	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_399	29257	36.0221485456	40.4993676727	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_400	29218	35.5055103019	42.615339859	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_401	29164	35.187217117	42.3427513373	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_402	29122	37.1334386375	48.4427923906	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_403	28929	35.1066403955	40.6604445366	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_404	28902	33.0496159435	43.0124558854	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_405	28856	36.4915442196	40.2650055448	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_406	28727	34.8034949699	41.9506387719	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_407	28633	33.0492788042	41.3328676702	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_408	28452	34.6654013778	40.8515394348	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_409	28389	36.9967240833	40.0066575082	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_410	28387	33.346250044	40.7026808046	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_411	28374	33.5624162966	42.5448650173	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_412	28310	36.0438007771	41.3035323207	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_413	28268	33.2779114193	41.2553417292	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus stolonifer	4846
+NRRL_5554_metscf_414	28211	37.0210201694	41.4790330013	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_415	28195	36.8363184962	40.2498315304	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_416	28091	34.7157452565	43.2448115055	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_417	28046	34.8320616131	40.9060828639	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_418	28046	34.4327176781	41.3749910861	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_419	28041	33.7363146821	41.6497628473	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_420	27994	33.9894263056	42.4020147174	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_421	27972	36.036036036	41.0831545832	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_422	27917	33.0587097467	41.2326539385	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_423	27859	34.3982196059	41.9432140421	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_424	27843	37.1188449521	41.3949646231	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_425	27783	37.26739373	40.3715221538	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_426	27743	37.3787982554	40.575316296	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_427	27728	35.5669359492	42.1938834391	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_428	27714	40.4524788915	46.8766688316	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_429	27701	36.157539439	40.6213494098	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_430	27671	36.4316432366	40.0825412887	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_431	27646	36.5405483614	41.0507849237	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_432	27566	35.1737647827	41.6727853152	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_433	27552	35.231562137	43.4173199768	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_434	27534	33.7509987652	41.4189002688	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_435	27532	33.4192939125	40.2895902949	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_436	27516	33.2097688618	41.3879197558	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_437	27487	35.3476188744	40.3506384836	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_438	27472	34.5260629004	40.709012813	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_439	27466	33.5542124809	41.9043908833	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_440	27428	36.3788828934	42.3337100773	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_441	27416	35.0561715786	42.4137000292	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_442	27367	34.5489092703	41.0318631929	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_443	27367	57.627799905	11.159571747	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Mycetohabitans	Mycetohabitans rhizoxinica	412963
+NRRL_5554_metscf_444	27338	34.4648474651	44.4998171044	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_445	27316	37.4066481183	48.8750183043	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_446	27245	34.483391448	42.4558634612	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_447	27226	33.7655182546	40.6754940131	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_448	27172	36.1953481525	39.4202119829	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_449	27113	35.4848227787	42.0743554752	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_450	27049	34.8108987393	44.2099153388	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_451	26991	34.811603868	41.7084213256	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_452	26978	34.0610868115	41.2137297057	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_453	26935	36.4321514758	41.9575273807	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_454	26870	40.5061406773	42.434052847	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_455	26812	35.7004326421	41.37408623	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_456	26800	34.921641791	41.7282835821	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_457	26788	32.4884276542	41.0118336569	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_458	26783	33.6519433969	43.1122353732	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_459	26754	33.8491440532	41.8116917097	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_460	26716	38.4900434197	40.0673004941	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_461	26701	35.46309127	39.8940863638	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_462	26670	36.3554555681	43.5304086989	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_463	26648	22.9698288802	561.45504353	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor circinatus	2054153
+NRRL_5554_metscf_464	26641	35.5542209377	37.9329604745	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_465	26618	38.8421368998	41.693440529	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_466	26567	35.0999360108	41.0598110438	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_467	26562	36.4806866953	41.230404337	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_468	26533	52.0333170015	11.4998680888	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia sp. b13	1761774
+NRRL_5554_metscf_469	26505	39.3925674401	44.5487266553	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_470	26439	36.1776164	40.9697416695	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_471	26426	33.5767804435	41.332021494	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_472	26389	35.4238508469	39.7390958354	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_473	26359	33.9921848325	47.0653287302	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_474	26354	35.8769067314	40.4027092661	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_475	26221	35.4258037451	43.1822203577	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_476	26092	33.9184424345	41.0015713629	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_477	26047	33.3051790993	42.7961761431	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_478	25955	34.4673473319	39.4766711616	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_479	25954	34.2374971103	41.4103413732	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_480	25944	38.0203515264	44.3127505396	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_481	25943	36.7189607987	41.3548548741	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_482	25896	37.515446401	40.3083101637	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_483	25836	37.2387366465	40.4825824431	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_484	25803	35.2168352517	41.3289539976	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_485	25793	36.0679254061	44.4505098282	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_486	25639	34.5645305979	40.4652287531	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_487	25637	33.8651168233	41.5274408082	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_488	25607	34.6233451791	41.036161987	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_489	25602	33.7317397078	40.8359893758	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_490	25504	35.6336260979	42.1660915935	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_491	25499	34.7935213146	40.9328208949	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_492	25444	35.4504008804	41.3496305612	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_493	25384	35.8217774976	43.5248187835	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_494	25325	39.3642645607	40.1960908193	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_495	25320	35.7977883096	42.4916271722	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_496	25306	34.0314549909	41.3810163598	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_497	25295	35.3903933584	42.3585293536	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_498	25232	33.7071972099	42.9118579581	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_499	25228	34.2278420802	41.0824877121	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_500	25184	36.3881829733	41.3810355781	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_501	25161	35.1774571758	41.0047295418	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_502	25158	38.286032276	40.1090706733	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_503	25046	35.3629322047	42.7816817057	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_504	24984	34.025776497	41.6011847582	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_505	24965	33.8674143801	40.2974964951	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_506	24892	36.3892013498	41.7254137876	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_507	24879	33.1805940753	42.4680654367	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_508	24872	33.3587970408	40.7209713734	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_509	24817	34.3071281783	48.2585727525	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_510	24810	56.4893188231	12.6972591697	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia sp. b14	1761775
+NRRL_5554_metscf_511	24801	33.3172049514	41.9435103423	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_512	24768	34.0439276486	40.667999031	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_513	24765	35.4451847365	40.6838683626	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_514	24748	33.2511718119	43.8897284629	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_515	24727	37.5904881304	40.6725441825	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_516	24717	34.8383703524	40.0098312902	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_517	24706	35.392212418	40.4838500769	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_518	24693	33.7626047868	40.8773741546	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_519	24675	38.7234042553	40.3147315096	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_520	24663	35.0079065807	51.7013339821	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_521	24640	34.2775974026	40.8483766234	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_522	24637	34.9109063604	40.5522993871	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_523	24595	35.4787558447	41.9991868266	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_524	24470	35.561912546	42.3461381283	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_525	24466	36.0909016594	40.0046186545	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_526	24431	34.128770824	42.2849658221	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_527	24388	33.1023454158	40.5640888962	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_528	24382	34.0086949389	44.1119678451	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_529	24294	37.2067177081	63.3480283197	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_530	24269	33.7385141539	40.7288722238	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_531	24137	39.3752330447	40.6060405187	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_532	24096	35.1801128818	42.1624750996	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_533	24001	33.3361109954	40.9265030624	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_534	23980	34.4912427023	41.3853211009	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_535	23877	35.0379025841	39.2681660175	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_536	23846	35.9892644469	40.0063742347	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_537	23793	40.8439456983	41.796410709	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_538	23714	33.8534199207	42.2653284979	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_539	23532	57.9593744688	12.911099779	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Mycetohabitans	Mycetohabitans endofungorum	417203
+NRRL_5554_metscf_540	23514	34.1498681636	43.6006209067	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_541	23514	36.1231606702	41.25941992	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_542	23491	35.7541185986	41.1175769444	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_543	23487	38.7831566398	41.3794439477	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_544	23486	35.1911777229	42.1197734821	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_545	23427	38.0543816963	42.8236650019	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_546	23418	37.5096079939	40.08502007	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_547	23378	36.7910000856	41.6351270425	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_548	23366	35.2863134469	41.677608491	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_549	23342	34.367235027	41.7985176934	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_550	23312	40.9102608099	40.8339052848	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_551	23307	34.2600935341	40.9502724503	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_552	23287	33.5895564049	40.2306437068	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_553	23264	37.0486588721	41.4998280605	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_554	23245	33.4222413422	40.6027963003	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_555	23213	37.8537888252	39.4473355447	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_556	23106	39.258201333	41.1909027958	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_557	23032	36.992011115	43.1835272664	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_558	22964	37.9724786623	39.6654328514	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_559	22938	35.5785159997	41.1688464557	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_560	22915	35.4963997382	41.1232816932	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_561	22907	35.4389487929	40.9005980705	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_562	22873	41.5817776418	39.9768722948	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_563	22844	35.3747154614	40.4171336018	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_564	22779	33.9786645595	42.3515079679	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_565	22757	34.2268313047	41.6952586017	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_566	22755	33.1399692375	41.6840254889	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_567	22750	40.3912087912	40.3570549451	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_568	22730	56.876374835	10.7641443027	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia sp. b14	1761775
+NRRL_5554_metscf_569	22729	33.5298517313	41.2144397026	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_570	22726	37.7409134912	44.6080700519	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_571	22710	36.5874064289	41.3328489652	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_572	22628	34.9743680396	40.5406133993	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_573	22615	62.0252045103	13.493256688	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	unclassified	32008
+NRRL_5554_metscf_574	22564	34.7810671867	40.4474383974	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_575	22550	34.3414634146	39.1455432373	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_576	22537	37.0989927674	40.6328703909	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_577	22527	36.3341767657	47.5185777068	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_578	22488	33.8936321594	48.7212291	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_579	22486	32.5046695722	40.6094903496	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_580	22460	35.4630454141	42.0195903829	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_581	22454	35.9802262403	43.9628128619	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_582	22453	39.8833118069	39.8108493297	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_583	22447	36.6596872633	40.5954916024	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_584	22415	38.161945126	40.0967209458	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_585	22382	34.9521937271	39.7816102225	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_586	22335	36.440564137	41.8626818894	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_587	22273	36.9730166569	40.7677008037	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_588	22183	39.9675427129	42.7124825317	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_589	22120	34.122965642	41.2125678119	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_590	22008	34.6601235914	39.9167121047	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_591	21966	33.0328689793	40.5387872166	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_592	21942	33.620453924	40.0545984869	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_593	21902	34.946580221	41.2924390467	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_594	21898	34.4552013883	41.2461412001	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_595	21872	35.1408193124	40.9055413314	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_596	21786	38.2355641237	41.7955108785	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_597	21752	34.6450901067	41.6651342405	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_598	21704	34.7723921858	40.6924530041	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_599	21701	36.2794341275	41.9755771623	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_600	21631	35.9068004253	53.6347834127	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_601	21630	58.603791031	13.3903374942	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Mycetohabitans	Mycetohabitans endofungorum	417203
+NRRL_5554_metscf_602	21603	34.5090959589	41.3299078832	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_603	21598	36.3320677841	39.7209926845	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_604	21516	37.9763896635	40.3388176241	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_605	21494	35.4191867498	41.3744300735	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_606	21468	34.7540525433	40.1968511273	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_607	21453	34.3448468746	40.6889013192	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_608	21452	37.4743613649	39.8257971285	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_609	21310	35.049272642	40.2587048334	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_610	21302	61.1585766595	12.0113134917	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Mycetohabitans	Mycetohabitans endofungorum	417203
+NRRL_5554_metscf_611	21237	33.5405189057	42.5246503743	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_612	21195	33.6117008728	40.9926869545	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_613	21181	35.7159718616	40.6470893726	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_614	21164	36.9873369873	42.2509450009	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_615	21050	34.4418052257	42.334584323	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_616	21024	60.7591324201	7.07743531202	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	unclassified	unclassified	119060
+NRRL_5554_metscf_617	21015	35.2177016417	40.8388769926	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_618	21010	33.9790575916	40.6848643503	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_619	20985	35.2203955206	41.4842506552	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_620	20961	36.4772673059	40.0576785459	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_621	20938	37.3149297927	42.4475594613	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_622	20798	36.046735263	39.2418982594	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_623	20786	41.0468584624	41.6479842201	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_624	20698	36.1484201372	42.4338583438	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_625	20690	35.7564040599	40.8213146448	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_626	20621	36.9720188158	41.964793172	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_627	20594	37.423521414	43.3171312033	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_628	20565	35.0158035497	40.0487721858	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_629	20526	39.7934327195	41.5412647374	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_630	20495	36.882166382	40.8399609661	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_631	20483	35.8443587365	40.2187667822	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_632	20434	33.0919056475	41.5736028188	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_633	20416	35.5015673981	41.4400960031	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_634	20416	42.2805642633	39.2358934169	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_635	20315	35.6829928624	42.3708589712	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_636	20256	36.3003554502	39.8073657188	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_637	20256	59.0146129542	13.741607425	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	unclassified	32008
+NRRL_5554_metscf_638	20214	35.0103888394	39.7621945187	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_639	20209	34.4747389777	41.5912712158	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_640	20200	35.0693069307	40.4276237624	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_641	20177	60.5392278337	13.3770629925	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia gladioli	28095
+NRRL_5554_metscf_642	20080	34.1583665339	40.6871513944	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_643	19996	35.3420684137	41.2485497099	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_644	19992	32.1778711485	39.8605942377	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_645	19973	58.9545886947	12.496820708	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Mycetohabitans	Mycetohabitans rhizoxinica	412963
+NRRL_5554_metscf_646	19968	37.6201923077	42.2188000801	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_647	19967	36.5452997446	40.0119697501	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_648	19960	38.7074148297	42.8203406814	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_649	19935	35.3900175571	42.1701529972	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_650	19912	35.4911611089	42.6375552431	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_651	19902	38.4835694905	39.6709375942	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_652	19889	36.8193473779	41.5130474131	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_653	19798	35.4581270835	41.2136579452	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_654	19766	33.5829201659	42.4086309825	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_655	19742	35.8423665282	47.3949447878	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_656	19729	34.7660803893	40.1673171473	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_657	19706	35.9129199229	40.8175175074	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_658	19641	35.9401252482	42.136092867	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus azygosporus	86630
+NRRL_5554_metscf_659	19624	33.9635140644	40.6579698329	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_660	19619	38.3454814211	41.1439420969	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_661	19618	34.3663982057	41.6183097156	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_662	19599	35.578345834	43.560538803	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_663	19599	34.3180774529	40.1092912904	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_664	19589	34.0854561233	41.7122875083	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_665	19580	39.4433094995	42.0216036772	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_666	19569	34.9379120037	39.1018958557	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_667	19566	36.1749974445	42.0010221813	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_668	19502	33.9554917444	40.7650497385	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_669	19489	35.7329775771	41.0276566268	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_670	19462	36.2501284555	40.900729627	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_671	19449	35.07635354	41.3281916808	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_672	19440	36.9187242798	44.962191358	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_673	19426	36.2555338207	41.6991145887	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_674	19417	40.0113302776	40.5550805995	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_675	19400	35.4072164948	48.6794329897	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_676	19358	34.2907325137	41.3774150222	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_677	19346	34.5342706503	42.5194355422	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_678	19302	35.0533623459	41.7352087867	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_679	19226	35.0098824508	42.3264849683	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_680	19198	54.6515262006	10.9823939994	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. TAD18	1729583
+NRRL_5554_metscf_681	19194	34.3649056997	40.2986870897	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_682	19170	34.1366718832	42.6619196661	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_683	19165	33.6551004435	39.352256718	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_684	19156	34.8193777407	39.9747337649	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_685	19076	35.2694485217	40.5760641644	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_686	19014	33.280740507	41.3560008415	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_687	18985	31.9304714248	42.3274163814	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_688	18961	35.108907758	39.7299720479	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_689	18934	36.1413330517	40.079697898	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_690	18922	31.7778247543	40.6200190255	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_691	18854	33.7222870478	41.8449665853	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_692	18847	33.2625882103	50.4833129941	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_693	18828	41.5126407478	41.0119502868	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_694	18810	37.7830940989	40.5777777778	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_695	18799	38.0020213841	41.7136017873	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_696	18797	34.0320263872	41.3404266638	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_697	18777	36.0227938435	41.9166000959	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_698	18758	33.6016632903	42.1390873227	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_699	18677	35.24655994	42.3086684157	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_700	18643	33.8786675964	41.267017111	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_701	18553	37.9722955856	40.8338274134	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_702	18524	33.9667458432	40.5141977975	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_703	18466	37.0085562656	40.4508827033	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_704	18435	34.0602115541	43.7842690534	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_705	18400	36.0380434783	37.1994021739	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_706	18393	35.5135105747	43.6613929212	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_707	18389	34.7979770515	46.2697264669	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_708	18344	34.9923680768	43.2164195377	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_709	18308	58.8649770592	11.2520755954	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	unclassified	32008
+NRRL_5554_metscf_710	18295	35.2118065045	40.4425799399	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_711	18265	32.4828907747	40.8574322475	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_712	18245	37.922718553	41.0089339545	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_713	18221	32.7369518687	46.6313045387	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_714	18144	33.9010141093	41.9238315697	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_715	18131	33.5392421819	44.1341900612	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_716	18110	32.0651573716	42.1616786306	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_717	18076	37.4529763222	41.7331821199	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_718	17942	34.5446438524	39.3477873147	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_719	17932	38.2444791434	40.3987842962	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_720	17928	38.3701472557	40.5496987952	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_721	17926	35.6186544684	42.6435903157	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_722	17920	36.0044642857	40.5934709821	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_723	17847	34.5268112288	44.0718888329	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_724	17832	35.3802153432	42.1663862719	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_725	17761	38.5563875908	38.6128033331	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_726	17761	61.2127695513	13.8396486684	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia sp. JS23	1770053
+NRRL_5554_metscf_727	17714	37.4788303037	39.307271085	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_728	17647	33.8357794526	40.2799909333	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_729	17558	34.9584235107	40.6885180544	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_730	17546	36.4242562407	42.8967855922	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_731	17516	35.3277003882	47.6090431605	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_732	17464	37.9466330738	39.8724232707	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_733	17462	36.8629023021	42.6584583667	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_734	17443	35.2404976208	39.6904775555	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_735	17434	35.5282780773	38.8597567971	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_736	17427	34.4350720147	42.5290067137	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_737	17410	33.2337736933	39.6473865594	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_738	17357	35.8126404333	40.8381632771	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_739	17323	39.0059458523	42.1119898401	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_740	17317	61.8178668361	11.1683894439	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Mycetohabitans	Mycetohabitans endofungorum	417203
+NRRL_5554_metscf_741	17296	35.7597132285	41.1771507863	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_742	17291	32.6123416806	41.0831068186	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_743	17288	33.3121240167	39.6548472929	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_744	17282	34.3825946071	41.4399375072	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_745	17214	33.6354130359	40.6285000581	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_746	17206	36.3477856562	40.6569801232	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_747	17193	32.5248647705	41.8366195545	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_748	17190	35.136707388	41.4887143688	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_749	17176	36.9177922683	41.4944108058	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_750	17162	32.6477100571	39.7510779629	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_751	17153	38.1507607999	38.6865271381	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_752	17142	34.785905962	40.3476257146	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_753	17102	34.9023506023	40.2863992515	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_754	17089	35.4497044883	38.7015038914	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_755	17062	36.226702614	40.9882780448	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_756	17051	34.297108674	41.5312298399	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_757	17041	36.4649961857	41.2853118948	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_758	17009	37.2155917455	40.1084719854	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_759	16972	33.7909497997	41.3305444261	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_760	16969	37.1972420296	41.1934115151	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_761	16960	35.5955188679	40.4556603774	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_762	16954	61.2362864221	12.7232511502	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	unclassified	unclassified	119060
+NRRL_5554_metscf_763	16940	40.6965761511	40.1633412043	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_764	16884	33.8782279081	40.0895522388	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_765	16877	34.3959234461	45.4834389998	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_766	16854	39.4090423638	40.1943752225	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_767	16847	58.6988781385	12.4286816644	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	unclassified	unclassified	119060
+NRRL_5554_metscf_768	16809	34.3446962937	41.3885418526	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus stolonifer	4846
+NRRL_5554_metscf_769	16807	33.664544535	39.2811328613	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_770	16767	35.2000954255	38.8587105624	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_771	16759	37.9915269407	41.634942419	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_772	16732	35.3275161367	40.335524743	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_773	16706	36.7652340476	39.5147252484	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_774	16701	34.5009280881	49.1417280402	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_775	16698	35.2078093185	41.4404120254	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_776	16692	40.8818595734	40.2233405224	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_777	16681	31.7486961213	41.4481146214	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_778	16648	34.2023065834	38.5426477655	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_779	16583	34.9996984864	40.0118193331	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_780	16569	35.3913935663	41.6880922204	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_781	16556	38.3667552549	41.681021986	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_782	16531	56.6692880044	10.8305607646	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	unclassified	unclassified	119060
+NRRL_5554_metscf_783	16516	37.6483410027	41.0045410511	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_784	16502	36.2016725245	42.9363107502	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_785	16436	33.2806035532	41.0381479679	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_786	16428	35.7012417823	41.4329802776	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_787	16401	39.3512590696	37.8826900799	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_788	16376	34.9047386419	39.8878847093	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_789	16362	32.4654687691	41.7590147904	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_790	16357	35.232622119	40.943938375	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_791	16270	37.1112476951	42.0639827904	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_792	16237	35.1850711338	40.9762887233	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_793	16210	35.9654534238	40.3803207896	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_794	16201	34.2880069132	41.9467934078	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_795	16199	36.810914254	39.2101981604	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_796	16193	38.8501204224	41.7519298462	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_797	16154	34.028723536	41.9236102513	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_798	16141	36.3732110774	41.5386283378	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_799	16121	34.3278952919	40.0841759196	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_800	16111	35.6899013097	44.0670970145	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_801	16091	38.3009135542	40.4096078553	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_802	16036	35.8568221502	42.2232476927	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_803	16024	36.8010484274	40.1886545182	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_804	15985	35.3706599937	40.6543009071	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_805	15980	33.7984981227	41.5700250313	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_806	15899	35.499087993	38.9086735015	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_807	15883	32.8401435497	41.5794875024	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_808	15874	34.660451052	42.3840241905	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_809	15867	60.6793974916	14.1043675553	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia sp. b14	1761775
+NRRL_5554_metscf_810	15863	34.3377671311	41.4692681082	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_811	15767	36.6715291431	42.7673622122	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_812	15742	37.1553805107	41.4448608817	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_813	15742	35.9865328421	40.2665480879	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_814	15701	33.3481943825	41.3537991211	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_815	15670	32.5654116146	42.810657307	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_816	15670	35.4881940013	42.1941289087	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_817	15647	39.0362369783	40.8671949895	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_818	15631	34.4571684473	40.0909730663	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_819	15615	35.2353506244	42.5624079411	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_820	15609	40.5086808892	39.9885963226	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_821	15593	33.6368883473	41.5492849355	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_822	15589	36.1793572391	40.6918981333	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_823	15581	33.7719016751	38.2944612027	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_824	15552	33.9763374486	43.7938528807	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_825	15540	33.9575289575	39.3880952381	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_826	15509	35.2247082339	40.5685086079	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_827	15472	35.5222337125	40.7108324716	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_828	15468	36.8502715283	43.3110292216	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_829	15465	35.706433883	40.3998706757	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_830	15442	34.1277036653	42.800543971	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_831	15428	34.1262639357	39.5615763547	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_832	15428	37.7689914441	40.2693155302	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_833	15358	34.535746842	45.6243000391	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_834	15353	35.3286002736	42.8800234482	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_835	15298	35.3444894757	42.1227611452	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_836	15294	32.594481496	42.2361056624	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_837	15234	34.5477222003	40.8434423001	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_838	15224	33.5785601682	42.9614424593	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_839	15204	36.9442252039	40.0724809261	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_840	15178	33.7989194887	42.5837396231	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_841	15164	33.0453706146	42.7298206278	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_842	15148	34.3741748086	42.9716134143	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_843	15128	36.9777895293	40.01811211	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_844	15026	33.9278583788	42.6201916678	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_845	15017	40.3875607645	42.2950655923	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_846	14960	33.3221925134	41.3568181818	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_847	14947	34.9969893624	40.876630762	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_848	14944	33.9801927195	40.3764721627	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_849	14942	38.1876589479	41.9880203453	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_850	14933	34.5409495748	46.4235585616	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_851	14837	34.589202669	41.7517692256	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_852	14834	35.1354995281	42.16974518	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_853	14803	35.2225900155	46.6017023576	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_854	14774	35.9821307703	43.2445512387	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_855	14772	32.8053073382	40.3660303276	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_856	14748	37.5847572552	47.7537293192	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_857	14747	40.7879568726	40.1250423815	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_858	14733	36.8628249508	41.5914613453	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_859	14730	36.6666666667	41.0171758316	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_860	14672	36.5730643402	42.4221646674	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_861	14671	41.6672346807	39.6696203394	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_862	14627	34.7781499966	39.4149176181	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_863	14608	36.1719605696	40.0505887185	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_864	14605	34.8990071893	41.8402601849	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_865	14598	33.1963282641	42.6787231128	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_866	14578	35.690766909	38.7214295514	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_867	14575	34.8885077187	39.330703259	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_868	14557	38.7373772068	42.4760596277	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_869	14517	35.5445339946	42.2940690225	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_870	14492	38.9939276842	41.4205078664	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_871	14453	34.7678682626	39.2919809036	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_872	14442	37.7302312699	41.2018418502	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_873	14441	40.3226923343	40.66879025	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_874	14404	36.3163010275	40.9055817828	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_875	14380	34.8748261474	40.3050764951	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_876	14348	38.0959018679	39.0961109562	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_877	14303	38.8519890932	41.2995874991	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_878	14301	35.4800363611	38.8910565695	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_879	14298	32.9696461044	39.8266890474	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_880	14295	34.2847149353	41.0612102134	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_881	14278	34.3605546995	41.3611150021	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_882	14267	38.5294736104	42.7935795893	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_883	14252	32.9216952007	41.8741930957	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_884	14239	34.2439778074	43.2286677435	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_885	14203	34.4434274449	40.9656410617	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_886	14197	36.0216947242	37.7927026837	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_887	14184	35.0888324873	40.2683305133	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_888	14152	37.2526851328	40.6920576597	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_889	14119	34.4004532899	29.5229123876	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_890	14095	33.2813054275	39.7836821568	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_891	14082	34.938219003	44.5092316432	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_892	14039	33.328584657	41.5148514851	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_893	14037	35.1000926124	41.7970364038	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_894	14032	35.2123717218	40.242018244	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_895	14026	34.3291030943	43.3912733495	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_896	14025	38.8021390374	38.7353297683	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_897	14020	36.0984308131	41.1201854494	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_898	13996	34.2812232066	42.4154044013	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_899	13963	32.643414739	40.9916923297	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_900	13960	32.9512893983	39.9574498567	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_901	13946	62.5340599455	12.2148286247	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia sp. b14	1761775
+NRRL_5554_metscf_902	13918	36.8515591321	39.5002155482	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_903	13870	34.6359048306	42.5577505407	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_904	13869	35.0061287764	39.085874973	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_905	13851	37.2030900296	41.9825283373	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_906	13846	33.1648129424	40.4230102557	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_907	13845	35.232936078	42.3393282774	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_908	13826	35.6212932157	40.4539273832	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_909	13782	34.2475692933	42.0386736323	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_910	13778	36.3986064741	49.4050660473	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_911	13768	33.0040674027	41.478282975	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_912	13765	34.0573919361	42.2058118416	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_913	13757	33.2339899687	40.8534564222	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_914	13724	37.9699795978	41.906732731	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_915	13719	35.7606239522	44.7652161236	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_916	13688	36.2799532437	40.1998100526	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_917	13658	34.5804656612	49.051471665	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_918	13618	38.4564546923	40.6028785431	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_919	13598	35.549345492	42.5170613325	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_920	13579	35.1719566978	40.7891597319	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_921	13573	35.2390775805	39.0898843292	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_922	13536	37.1453900709	42.1474586288	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_923	13424	35.7121573302	40.928113826	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_924	13418	33.9767476524	42.4462662096	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_925	13393	56.8729933547	12.3310684686	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia sp. b13	1761774
+NRRL_5554_metscf_926	13391	37.2862370249	37.7139870062	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_927	13377	35.0601779173	42.8196905136	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_928	13377	34.3275771847	41.1194587725	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_929	13358	32.9989519389	42.3748315616	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_930	13324	33.2933053137	43.424497148	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_931	13321	36.1459349899	42.5260115607	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus stolonifer	4846
+NRRL_5554_metscf_932	13304	40.1909200241	42.4779765484	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_933	13304	57.9374624173	15.7889356584	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	unclassified	32008
+NRRL_5554_metscf_934	13286	34.3594761403	40.1901249435	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_935	13274	39.3023956607	42.9864396565	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus azygosporus	86630
+NRRL_5554_metscf_936	13253	33.2453029503	41.2388893081	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_937	13228	41.9262171152	39.9048986997	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_938	13198	35.5432641309	40.6514623428	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_939	13159	41.6976973934	39.0405045976	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_940	13149	34.5577610465	41.5751007681	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_941	13099	37.4914115581	38.7218108253	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_942	13083	33.6237865933	42.1972024765	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_943	13072	37.2246022032	41.2924571603	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_944	13049	33.9489616063	38.9209901142	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_945	13047	36.9816816126	58.383996321	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_946	12988	35.1555281799	38.7159685864	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_947	12984	35.713185459	41.5715495995	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_948	12966	33.9040567638	49.5400277649	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_949	12928	35.6590346535	43.5460241337	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_950	12928	35.5894183168	40.6230662129	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_951	12918	34.4093512928	39.7823966558	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_952	12911	39.7490511967	38.3046239641	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_953	12905	36.7222006974	39.4264238667	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_954	12899	34.6383440577	41.7748662687	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_955	12897	34.6282081104	40.3783050322	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_956	12879	34.7387219505	41.718068173	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_957	12861	32.8046030635	45.1621180313	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_958	12821	39.4976990874	39.6426175805	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_959	12784	35.450563204	41.0222152691	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_960	12776	37.8287413901	42.7557921102	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_961	12727	34.6900290721	41.5130038501	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_962	12722	41.0627259865	42.3775349788	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_963	12711	33.946975061	42.3423019432	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_964	12680	35.6151419558	41.655126183	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_965	12638	39.7214749169	40.1737616712	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_966	12626	55.6787581182	15.2726120703	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia sp. b13	1761774
+NRRL_5554_metscf_967	12624	32.5966413181	41.7762198986	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_968	12593	36.1391249107	43.1701739061	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_969	12592	34.8634053367	38.7526207116	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_970	12580	40.9618441971	41.1453100159	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_971	12557	36.2427331369	40.1179421836	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_972	12526	36.1807440524	42.8456011496	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_973	12513	36.5859506114	41.1536801726	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_974	12499	34.3467477398	42.4815585247	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_975	12492	33.3173230868	29.2742555235	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_976	12464	32.8145057766	42.2999839538	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_977	12457	37.4568515694	43.7878301357	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_978	12433	33.8051958498	39.7810665165	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_979	12432	61.1566924067	13.3662323037	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia sp. b14	1761775
+NRRL_5554_metscf_980	12420	35.1207729469	39.8642512077	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_981	12386	35.4593896335	39.1731793961	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_982	12322	33.4848238922	40.8878428826	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_983	12311	36.6095361871	38.9640971489	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_984	12304	32.339076723	54.1138654096	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_985	12287	37.4623585904	40.8249369252	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_986	12205	36.0180253994	40.7845964769	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_987	12121	35.0136127382	41.0011550202	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_988	12104	33.7904824851	39.1408625248	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_989	12092	33.6420774065	38.8792590142	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_990	12066	33.9714901376	43.5394496934	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_991	12027	37.4573875447	55.7400848092	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_992	12008	33.4776815456	40.451449034	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_993	11944	33.3556597455	40.5490622907	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_994	11926	34.4205936609	44.5976018782	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_995	11900	33.8739495798	39.6709243697	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_996	11891	35.3460600454	42.2181481793	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_997	11889	58.6929094121	11.7168811506	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Mycetohabitans	Mycetohabitans rhizoxinica	412963
+NRRL_5554_metscf_998	11861	40.2411263806	42.9451142399	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_999	11852	37.057036787	40.1619136011	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_1000	11828	34.4267839026	40.3018261752	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_1001	11819	33.0061764955	41.2482443523	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_1002	11751	33.1290953961	38.6288826483	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_1003	11718	36.968766001	52.4931728964	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_1004	11717	34.1128275156	42.7008619954	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_1005	11714	37.0411473451	38.3326788458	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_1006	11708	34.335497096	41.2695592757	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_5554_metscf_1007	11699	34.5927002308	43.0050431661	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_1008	11694	37.0531896699	42.7396100564	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_1009	11662	33.8192419825	44.7207168582	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_1010	11608	34.260854583	40.8544968987	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_1011	11571	39.4607207674	38.4759312073	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_1012	11543	32.2533136966	48.303040804	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_1013	11542	36.3541847167	39.5038988044	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_1014	11523	34.9648529029	41.1721773844	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_1015	11520	37.6302083333	40.9530381944	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_1016	11481	35.0840519119	41.9211741138	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus stolonifer	4846
+NRRL_5554_metscf_1017	11468	33.9204743634	42.1723055459	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_1018	11460	35.8638743455	44.4958115183	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_1019	11453	34.8467650397	41.1478215315	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_1020	11451	36.1191162344	39.6607283207	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_1021	11439	34.181309555	40.6887839846	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_1022	11432	35.7242827152	39.5628936319	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_1023	11429	36.2148919416	42.4539329775	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_1024	11320	59.6996466431	11.3020318021	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	unclassified	32008
+NRRL_5554_metscf_1025	11318	32.3908817812	40.5007068387	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_1026	11314	41.046491073	40.2719639385	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_1027	11291	35.5947214596	111.183686122	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_1028	11274	34.0340606706	40.3230441724	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_1029	11261	36.8528549862	41.6514519137	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_1030	11232	33.3155270655	41.952724359	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_1031	11198	38.7569208787	42.7359349884	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_1032	11198	32.68440793	41.4482943383	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_1033	11189	42.0591652516	41.4524086156	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_1034	11186	37.6542106204	40.9696048632	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_1035	11170	35.7475380483	43.9021486124	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_1036	11158	40.5897114178	39.6675031368	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Parasitella	Parasitella parasitica	35722
+NRRL_5554_metscf_1037	11146	33.6353848914	42.3914408757	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_1038	11138	35.0691326989	45.5416591848	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_1039	11133	35.6956795114	40.0304500135	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_1040	11077	56.9558544732	13.4094068791	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	unclassified	32008
+NRRL_5554_metscf_1041	11071	35.2362026917	40.3291482251	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_1042	11068	34.6042645464	41.2879472353	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_1043	11050	33.7104072398	66.1564705882	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_1044	11042	38.0999818873	38.983608042	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_1045	11031	38.8541383374	39.2142144864	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_1046	11005	38.6824170831	41.2916855975	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_1047	10937	34.7993051111	41.8520618085	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_1048	10864	35.4197349043	38.084775405	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_1049	10861	36.5067673327	37.4422244729	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_1050	10847	35.5766571402	39.5923296764	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_1051	10786	33.450769516	43.1123678843	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_1052	10751	35.9501441726	39.6895172542	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_1053	10746	35.1107388796	45.2029592406	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_1054	10742	30.9811953081	40.394526159	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_1055	10737	34.2088106547	39.1628946633	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_1056	10729	33.3209059558	42.951626433	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_1057	10712	32.6549663928	38.2200336072	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_1058	10703	35.4666915818	53.5861907876	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_1059	10696	41.351907255	38.5444091249	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_1060	10654	36.6529003191	46.3475689882	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_1061	10653	39.5099971839	40.4349948371	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_1062	10645	34.9178017849	41.929544387	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_1063	10618	32.4260689395	38.0540591448	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_1064	10597	34.321034255	43.1816551854	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_1065	10573	41.0195781708	40.8063936442	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_1066	10532	33.3934675275	41.4712305355	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_1067	10502	33.7078651685	39.3874500095	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_1068	10477	33.9791925169	39.816932328	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_1069	10470	32.1680993314	40.9473734479	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_1070	10419	36.1071120069	39.8410596026	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_1071	10397	39.684524382	39.3824180052	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_1072	10378	33.7059163615	41.433224128	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_5554_metscf_1073	10378	40.0655232222	41.9574099056	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_1074	10352	34.6792890263	41.7299072643	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_1075	10316	39.1818534316	37.9998061264	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_1076	10285	43.3252309188	41.3922216821	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_1077	10279	33.6608619516	41.1700554529	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_1078	10264	34.4797349961	39.8632112237	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_1079	10260	35.0389863548	41.2083820663	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_1080	10228	36.0383261635	41.6306218224	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_1081	10153	37.4076627598	42.1411405496	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_1082	10148	34.597950335	40.2841939298	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_1083	10135	35.6882091761	39.4789343858	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_5554_metscf_1084	10134	34.5174659562	40.7306098283	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_1085	10117	34.2888207967	42.0219432638	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_5554_metscf_1086	10095	38.8509162952	40.5052996533	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_5554_metscf_1087	10016	53.6142172524	11.3709065495	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia sp. b13	1761774

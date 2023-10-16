@@ -1,0 +1,1304 @@
+contig	length	gc	cov	kingdom	phylum	class	order	family	genus	species	taxid
+NRRL_1589_plascf_1_covcut_5	10565	32.9200189304	15.9828679602	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_plascf_2_covcut_5	10159	34.3537749779	14.4581159563	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_plascf_1_covcut_0	31367	32.4321739408	589.781713266	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Parasitella	Parasitella parasitica	35722
+NRRL_1589_plascf_1_covcut_10	11015	35.6786200635	14.8376758965	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1	296274	33.0305730506	31.0591209489	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor lusitanicus	29924
+NRRL_1589_metscf_2	290528	32.7421109153	32.2763416951	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_3	288854	33.1845845998	31.7481218886	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_4	249203	32.3667853116	32.0269017628	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_5	240860	32.4271360957	32.5060408536	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_6	227284	32.4497104944	31.1722250576	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_7	224478	32.4633148905	31.8627660617	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_8	218767	32.8600748742	31.720999968	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Choanephoraceae	Choanephora	Choanephora cucurbitarum	101091
+NRRL_1589_metscf_9	218506	33.2750588085	30.5785241595	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_10	211130	33.6129398949	30.2111163738	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_11	209698	33.4795753894	32.0000572252	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_1589_metscf_12	202630	32.8406455115	32.0555791344	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Choanephoraceae	Choanephora	Choanephora cucurbitarum	101091
+NRRL_1589_metscf_13	187471	33.3475577556	31.0925743182	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_1589_metscf_14	185091	33.6261622661	30.1586408848	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Parasitella	Parasitella parasitica	35722
+NRRL_1589_metscf_15	182398	33.3633044222	30.8584907729	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_16	179797	32.6473745391	31.5015879019	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor lusitanicus	29924
+NRRL_1589_metscf_17	175432	32.4878015413	32.4867641023	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor lusitanicus	29924
+NRRL_1589_metscf_18	174972	31.8862446563	31.9273940973	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Choanephoraceae	Choanephora	Choanephora cucurbitarum	101091
+NRRL_1589_metscf_19	174794	32.3088893211	31.9961497534	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_20	174213	33.5405509348	31.2886236963	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor plumbeus	97098
+NRRL_1589_metscf_21	169532	32.7820116556	30.6831276691	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_1589_metscf_22	169217	31.529929026	30.7973548757	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_23	168952	32.1606136654	32.5507895734	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor plumbeus	97098
+NRRL_1589_metscf_24	164276	32.8106357593	31.4325586209	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_25	160763	32.9429035288	31.7548129856	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_1589_metscf_26	160001	32.5966712708	33.0510184311	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_1589_metscf_27	159264	32.2075296363	31.8686457705	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_28	158593	33.2208861677	31.0185443242	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_29	157088	33.503513954	32.1722219393	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Lichtheimiaceae	Lichtheimia	Lichtheimia corymbifera	42458
+NRRL_1589_metscf_30	155924	32.6338472589	31.6246440574	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Parasitella	Parasitella parasitica	35722
+NRRL_1589_metscf_31	154529	32.0295866795	32.7725151913	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Lichtheimiaceae	Lichtheimia	Lichtheimia corymbifera	42458
+NRRL_1589_metscf_32	150035	32.6337187989	31.6073382877	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_33	149104	33.8387970812	30.7514151196	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_34	147667	33.0513926605	31.2205435202	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_35	146186	32.747321905	31.9240624957	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_36	145618	33.2919007266	31.549787801	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_37	143293	32.2318605933	32.1324628558	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_38	142332	33.1007784616	32.2187491218	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus stolonifer	4846
+NRRL_1589_metscf_39	140579	33.4886433962	30.5888077167	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_1589_metscf_40	138632	33.0183507415	31.4771264932	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_41	136382	33.1356044053	30.171400918	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_42	134221	32.4435073498	31.3523293672	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor circinelloides	36080
+NRRL_1589_metscf_43	133236	33.4811912696	30.747853433	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_1589_metscf_44	132722	32.8566477298	30.6434426847	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_45	132065	32.9769431719	32.1338128952	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor circinelloides	36080
+NRRL_1589_metscf_46	131673	33.9689989595	30.8239730241	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_47	127795	32.4597988967	32.3249422904	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_48	125530	32.6854138453	32.086083008	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_1589_metscf_49	124822	33.5485731682	15.3954591338	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor circinelloides	36080
+NRRL_1589_metscf_50	124579	31.7228425337	31.1095048122	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_51	124316	32.9708163068	32.3715531388	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_1589_metscf_52	124289	33.6940517664	30.6830532066	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_53	123291	33.6772351591	30.9979884988	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_54	122537	33.155699911	31.5944082196	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_55	122278	32.3435123244	32.700837436	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_1589_metscf_56	121896	32.744306622	31.3080905034	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_57	121676	32.9152832112	32.830681482	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_58	121462	33.4771368823	30.8381304441	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor plumbeus	97098
+NRRL_1589_metscf_59	121029	32.3385304349	32.4136033513	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_60	120733	33.0473027258	32.2963647056	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor plumbeus	97098
+NRRL_1589_metscf_61	120126	33.4465477915	30.1248189401	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor plumbeus	97098
+NRRL_1589_metscf_62	119644	32.9895356223	30.9195446491	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_63	119067	32.8688889449	31.8475144247	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_64	118530	33.4522905594	31.0268708344	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_65	115979	31.7867889877	32.6459876357	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Apophysomyces	Apophysomyces ossiformis	679940
+NRRL_1589_metscf_66	115357	32.0067269433	30.985419177	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor circinelloides	36080
+NRRL_1589_metscf_67	114878	33.4572328905	30.7402026498	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_68	114808	32.8835969619	30.652062574	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_1589_metscf_69	114781	33.2555039597	31.386710344	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor ambiguus	91626
+NRRL_1589_metscf_70	114776	32.9781487419	31.995356172	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor plumbeus	97098
+NRRL_1589_metscf_71	114573	32.8367067285	33.8456617179	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_1589_metscf_72	113831	33.7271920654	30.923158015	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor lusitanicus	29924
+NRRL_1589_metscf_73	113616	32.5147866498	31.2017145472	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Parasitella	Parasitella parasitica	35722
+NRRL_1589_metscf_74	113452	33.1964178683	32.1168159222	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_75	112324	32.7009365763	32.1758128272	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus stolonifer	4846
+NRRL_1589_metscf_76	112240	32.3280470421	31.9482002851	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Parasitella	Parasitella parasitica	35722
+NRRL_1589_metscf_77	111840	31.9313304721	31.7700375536	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Choanephoraceae	Choanephora	Choanephora cucurbitarum	101091
+NRRL_1589_metscf_78	111180	33.5411045152	31.3327397014	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor circinelloides	36080
+NRRL_1589_metscf_79	111005	31.8670330165	32.0351335525	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Choanephoraceae	Choanephora	Choanephora cucurbitarum	101091
+NRRL_1589_metscf_80	110985	33.0639275578	31.9151687165	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_81	110723	32.3979660956	30.7374980808	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_82	110392	32.5250018117	31.4132274078	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_83	108200	33.0628465804	31.3599907579	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_84	107737	33.0109433157	31.8880050493	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_1589_metscf_85	107717	33.6019384127	32.0699703854	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_86	107283	32.544764781	30.9623425892	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_87	107022	32.2905570817	31.0718170096	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_88	107001	32.1408211138	31.3112213905	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_89	105731	32.7472548259	31.4541998089	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_90	104842	31.8641384178	31.2009023101	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_91	104791	32.8320180168	32.3568722505	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_92	104442	33.1360946746	32.0938224086	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_93	104306	33.0978083715	32.452879029	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_1589_metscf_94	104244	33.1414757684	32.5556962511	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_95	103943	33.3076782467	31.4572313672	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_96	103402	33.4800100578	30.1880427845	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_97	103326	32.8465245921	32.2025917968	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_98	103254	33.0456931451	31.2909717783	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_99	102839	33.2947617149	32.2862240979	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_1589_metscf_100	101559	32.1113835308	31.7153378824	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_101	100980	33.2362844128	31.6733115468	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_102	100870	32.6321007237	31.4518390007	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_103	100073	32.9069779061	31.7317758037	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_104	99814	32.841084417	30.4893501914	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_105	99231	31.878142919	32.1757414518	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_1589_metscf_106	98777	33.1018354475	29.9388319143	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_107	98005	32.9921942758	30.8861996837	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Lichtheimiaceae	Lichtheimia	Lichtheimia corymbifera	42458
+NRRL_1589_metscf_108	97657	32.928515109	32.7577132208	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_109	97596	32.8056477724	32.7245788762	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1589_metscf_110	97524	32.7652680366	31.9994667979	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_1589_metscf_111	96993	33.2312641118	31.767282175	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_112	96880	33.4062758051	30.880377787	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_113	95389	31.800312405	32.728773758	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Phycomycetaceae	Phycomyces	Phycomyces blakesleeanus	4837
+NRRL_1589_metscf_114	94886	32.0257993803	31.086113863	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_115	94748	33.6577025373	30.9114493182	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor ambiguus	91626
+NRRL_1589_metscf_116	94664	32.753739542	31.2977900786	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_1589_metscf_117	94548	32.8922875153	31.6302830308	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_1589_metscf_118	94239	33.1370239497	31.8981950148	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_1589_metscf_119	94120	32.5286867828	30.898640034	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor plumbeus	97098
+NRRL_1589_metscf_120	94104	32.339751764	31.2915072686	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_121	94094	32.7757349034	32.1751546326	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Choanephoraceae	Choanephora	Choanephora cucurbitarum	101091
+NRRL_1589_metscf_122	93064	32.8891945328	31.4783052523	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_123	92744	32.5735357543	30.1712887087	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_1589_metscf_124	91612	33.2281797144	31.6111208139	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_125	91467	32.8052740333	30.6191850613	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor plumbeus	97098
+NRRL_1589_metscf_126	91266	32.3745973309	34.7597024083	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_127	91234	33.5828748054	32.4919876362	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_128	90699	33.2098479586	31.7370643557	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_1589_metscf_129	90583	33.6255147213	29.4341322323	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_130	90379	32.1800418239	31.8231115635	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_131	89884	31.9189177162	32.3514641093	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_132	89805	32.6752407995	32.8148321363	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_133	89655	31.8922536389	32.8835870838	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_134	89465	32.881014922	31.2419717208	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor plumbeus	97098
+NRRL_1589_metscf_135	89291	32.742381651	30.7355164574	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_1589_metscf_136	88834	32.5134520566	31.7029740865	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_137	88754	33.2052639881	31.7592221196	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_138	88692	33.1822486808	32.4391940649	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_139	88479	32.3839555149	31.5210840991	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor circinatus	2054153
+NRRL_1589_metscf_140	88188	32.5395745453	30.5247199165	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Parasitella	Parasitella parasitica	35722
+NRRL_1589_metscf_141	87697	31.204032065	32.5458111452	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor plumbeus	97098
+NRRL_1589_metscf_142	87474	32.4850812813	34.8230559938	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_143	87378	33.749914166	33.0622467898	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus stolonifer	4846
+NRRL_1589_metscf_144	87249	34.4152941581	30.9602631549	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_145	87131	32.8987386808	32.1650158956	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_146	87109	32.9977384656	32.0648612658	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor circinatus	2054153
+NRRL_1589_metscf_147	87004	33.1134200726	30.8371454186	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_148	86128	33.9552758685	33.2679616385	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_149	85990	32.7468310269	31.3887661356	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor circinatus	2054153
+NRRL_1589_metscf_150	85554	32.3398087757	30.9665941978	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_151	85424	31.6140663046	31.482744896	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_1589_metscf_152	85013	34.8676084834	28.9021090892	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_153	84747	32.0388922322	32.0621024933	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_154	84635	33.0336149347	30.4339457671	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor circinelloides	36080
+NRRL_1589_metscf_155	84403	33.2310462898	30.9457009822	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_156	84283	33.6034550265	31.8353285953	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_157	84203	33.508307305	30.4011020985	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Parasitella	Parasitella parasitica	35722
+NRRL_1589_metscf_158	83910	34.6871648194	32.7076153021	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_159	83683	32.6494031046	30.8574740389	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_160	83496	33.01595286	32.1630617036	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_161	83325	34.00420042	31.2613141314	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_162	82857	33.1631606261	31.5991044812	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_163	82554	32.4224144197	33.9693170531	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor plumbeus	97098
+NRRL_1589_metscf_164	82550	32.2023016354	31.3955057541	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Syncephalastraceae	Syncephalastrum	Syncephalastrum racemosum	13706
+NRRL_1589_metscf_165	82434	33.3672999005	31.211259917	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_166	82220	32.9214303089	31.8705302846	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_167	82060	33.5181574458	32.3969047039	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_168	82043	33.8639493924	31.2696147142	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_169	81846	33.4286342644	31.296129316	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_170	81746	33.2933721528	29.6762899714	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Syncephalastraceae	Syncephalastrum	Syncephalastrum racemosum	13706
+NRRL_1589_metscf_171	81623	32.5925290666	30.0031976281	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_172	81551	32.2669249917	30.885200672	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_173	81500	32.6061349693	32.7406380368	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_174	81452	33.3177822521	31.5622698031	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Parasitella	Parasitella parasitica	35722
+NRRL_1589_metscf_175	81225	32.7694675285	30.2876084949	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_176	81163	32.5887411752	31.8208173675	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Choanephoraceae	Choanephora	Choanephora cucurbitarum	101091
+NRRL_1589_metscf_177	81043	33.2662907345	31.3425835667	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_178	80379	33.063362321	31.5461003496	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Parasitella	Parasitella parasitica	35722
+NRRL_1589_metscf_179	80329	32.5112972899	30.89567902	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_180	80106	33.8950890071	30.0418944898	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Apophysomyces	Apophysomyces sp. BC1015	2184030
+NRRL_1589_metscf_181	79748	32.5512865526	31.9045242514	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Phycomycetaceae	Phycomyces	Phycomyces blakesleeanus	4837
+NRRL_1589_metscf_182	79669	32.2321103566	31.4266025681	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_183	79659	32.2951581115	31.5054293928	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Parasitella	Parasitella parasitica	35722
+NRRL_1589_metscf_184	79560	32.0274007039	32.6042357969	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus stolonifer	4846
+NRRL_1589_metscf_185	79537	33.5554521795	31.3237486956	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor circinatus	2054153
+NRRL_1589_metscf_186	79071	33.0121030466	32.2052079776	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_187	79038	33.438346112	31.8010071105	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_188	78984	32.9357844627	32.400144333	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_189	78785	32.4516088088	32.0494891159	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_190	78356	32.34851192	33.2775664914	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_191	78267	33.463656458	31.8746725951	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Choanephoraceae	Choanephora	Choanephora cucurbitarum	101091
+NRRL_1589_metscf_192	78128	34.1260495597	29.9680012288	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_193	78077	32.1887367599	31.8598050642	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_1589_metscf_194	77770	32.4662466247	31.2745017359	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_195	77636	32.6072955845	32.3451620382	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_196	77616	32.5950834879	30.8339002268	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_197	77470	33.4051891055	31.4686330192	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_198	77153	33.9701631822	33.0082303993	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Choanephoraceae	Choanephora	Choanephora cucurbitarum	101091
+NRRL_1589_metscf_199	77124	33.3398163996	31.5390150926	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_1589_metscf_200	77062	32.3583608004	32.6905089409	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_201	76873	32.7410144004	32.0275129109	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor lusitanicus	29924
+NRRL_1589_metscf_202	76003	34.1525992395	31.5864242201	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_203	75972	32.4856526089	32.8562496709	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_204	75740	33.4222339583	29.4539081067	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_1589_metscf_205	75126	32.9752682161	32.1339749221	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_1589_metscf_206	74889	32.3906047617	33.0106824767	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Choanephoraceae	Choanephora	Choanephora cucurbitarum	101091
+NRRL_1589_metscf_207	74729	32.643284401	31.6439267219	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Parasitella	Parasitella parasitica	35722
+NRRL_1589_metscf_208	74668	33.1253013339	31.0853913323	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_209	74519	32.3662421664	31.6750493163	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Parasitella	Parasitella parasitica	35722
+NRRL_1589_metscf_210	74369	32.1007409001	32.3093762186	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_1589_metscf_211	73727	33.5535149945	30.2871132692	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus stolonifer	4846
+NRRL_1589_metscf_212	73726	32.7984700106	31.0669506009	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_213	73619	31.4198780206	32.1882394491	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_1589_metscf_214	73610	32.4589050401	31.7546121451	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Parasitella	Parasitella parasitica	35722
+NRRL_1589_metscf_215	73577	33.1163271131	30.6227625481	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_1589_metscf_216	73327	32.7028243348	32.4023892973	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_217	73205	32.2956082235	30.5316440134	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_218	73111	32.1593193911	32.5204825539	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_219	73011	32.5731739053	32.0323101998	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus stolonifer	4846
+NRRL_1589_metscf_220	72141	33.1281795373	32.8122149679	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_221	71903	33.1349178755	31.2176265246	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Lichtheimiaceae	Lichtheimia	Lichtheimia corymbifera	42458
+NRRL_1589_metscf_222	71894	31.684146104	32.0144657412	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_223	71475	33.389296957	30.2891920252	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Syncephalastraceae	Syncephalastrum	Syncephalastrum racemosum	13706
+NRRL_1589_metscf_224	71398	33.9323230343	30.090100563	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_225	71394	33.2296831667	30.9065747822	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor lusitanicus	29924
+NRRL_1589_metscf_226	71355	32.9997897835	31.9260318128	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_227	71341	31.947968209	32.631978806	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Apophysomyces	unclassified	90268
+NRRL_1589_metscf_228	71159	34.3371885496	30.1635773409	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Phycomycetaceae	Phycomyces	Phycomyces blakesleeanus	4837
+NRRL_1589_metscf_229	71143	33.0531464796	30.7947935848	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Choanephoraceae	Choanephora	Choanephora cucurbitarum	101091
+NRRL_1589_metscf_230	70991	32.4590441042	31.2128438816	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_1589_metscf_231	70814	32.8536730025	31.2042110317	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Apophysomyces	Apophysomyces ossiformis	679940
+NRRL_1589_metscf_232	70792	33.1647643802	31.8576675331	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_233	70717	32.3331023658	32.4363165858	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor circinelloides	36080
+NRRL_1589_metscf_234	70399	33.0374010994	31.5817270132	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_235	70356	33.0703848997	31.310421286	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_236	70134	31.4326860011	31.385348048	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor ambiguus	91626
+NRRL_1589_metscf_237	70063	32.4493669983	29.1738292679	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_238	69755	32.5625403197	31.1200630779	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Parasitella	Parasitella parasitica	35722
+NRRL_1589_metscf_239	69341	34.1428592031	30.2749311374	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_240	69133	32.666020569	32.7322262885	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_241	69119	33.6593411363	30.8601976302	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_1589_metscf_242	68939	33.3381685258	29.6094373287	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Choanephoraceae	Choanephora	Choanephora cucurbitarum	101091
+NRRL_1589_metscf_243	68849	35.126145623	30.478961205	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_244	68819	33.4151905724	31.645853616	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_245	68622	33.4178543324	30.1051412084	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_246	68558	33.2915195893	30.4709151375	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_247	68478	32.4819650107	31.7938315955	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_248	68355	32.5228586058	32.3129983176	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_249	68205	32.7703247562	32.0860200865	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_250	68176	32.0464679653	31.1290923492	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Parasitella	Parasitella parasitica	35722
+NRRL_1589_metscf_251	67878	32.4597071216	31.2068416866	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_252	67786	32.570147228	32.1579529696	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_253	67404	33.3926769925	31.4026615631	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_254	67335	33.9051013589	31.1884458305	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_255	67306	32.0773779455	31.6231985261	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_256	67220	33.9199642963	30.6890508777	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_257	67056	33.1051658315	31.6612532808	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_258	66860	33.2904576727	39.023422076	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_259	66770	33.7561779242	31.2590684439	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_260	66768	32.8151210161	31.5792745028	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Phycomycetaceae	Phycomyces	Phycomyces blakesleeanus	4837
+NRRL_1589_metscf_261	66514	34.0650088703	30.514267673	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Parasitella	Parasitella parasitica	35722
+NRRL_1589_metscf_262	66433	32.5169719868	32.1660018364	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_263	66267	34.3881570012	32.1662214979	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_264	66119	31.9771926375	30.9904717252	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_265	66105	32.6026775584	31.7011572498	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Syncephalastraceae	Syncephalastrum	Syncephalastrum racemosum	13706
+NRRL_1589_metscf_266	66070	33.2783411533	32.4771454518	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor plumbeus	97098
+NRRL_1589_metscf_267	66000	32.5681818182	31.6300757576	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_268	65710	32.4608126617	31.6323086288	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_269	65270	32.8910678719	32.6950666462	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_270	65065	32.3799277645	29.5201721356	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_271	65046	32.8798081358	31.6500937798	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Hesseltinella	Hesseltinella vesiculosa	101127
+NRRL_1589_metscf_272	65038	32.5717272979	31.656001107	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_273	64996	32.9543356514	31.6489630131	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_1589_metscf_274	64888	33.0862409074	29.9109080261	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor ambiguus	91626
+NRRL_1589_metscf_275	64639	33.3188941661	30.6533052801	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Choanephoraceae	Choanephora	Choanephora cucurbitarum	101091
+NRRL_1589_metscf_276	64502	33.6175622461	31.7602399926	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_277	64419	32.4919666558	31.0561790776	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Choanephoraceae	Choanephora	Choanephora cucurbitarum	101091
+NRRL_1589_metscf_278	64397	33.6180256844	31.2392658043	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_279	64300	32.9191290824	30.7073561431	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor ambiguus	91626
+NRRL_1589_metscf_280	64037	32.0939456876	31.7454440402	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_281	63397	32.8012366516	31.9127403505	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_282	62947	33.8538770712	31.8932276359	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Apophysomyces	Apophysomyces sp. BC1021	2184031
+NRRL_1589_metscf_283	62911	33.2056397132	30.5569614217	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_284	62909	31.4088604174	32.3827751196	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_285	62808	33.3301490256	30.5152050694	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_286	62716	32.9166400918	32.8661904458	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_287	62696	32.289141253	31.4439198673	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_288	62658	32.9183823295	28.3995499378	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor circinatus	2054153
+NRRL_1589_metscf_289	62426	31.9241982507	32.2174895076	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_290	62399	33.3547011971	31.6141444574	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_291	62389	33.207777012	30.36113738	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_292	62336	32.6889758727	30.7996984086	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_1589_metscf_293	61900	32.6025848142	31.3248465267	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Choanephoraceae	Choanephora	Choanephora cucurbitarum	101091
+NRRL_1589_metscf_294	61894	32.4942643875	30.520696675	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_295	61881	32.6336032062	30.6966435578	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus stolonifer	4846
+NRRL_1589_metscf_296	61790	32.6929923936	32.328208448	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor plumbeus	97098
+NRRL_1589_metscf_297	61739	32.1660538719	34.0097831193	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_298	60954	32.3243757588	31.5216064573	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor plumbeus	97098
+NRRL_1589_metscf_299	60520	32.82881692	31.2950925314	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_300	60518	33.6098350904	30.4376549126	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_1589_metscf_301	60408	32.7671831545	30.7210799894	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_302	59954	33.3739200053	33.5219001234	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_303	59861	33.4240991631	33.1194099664	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_1589_metscf_304	59671	33.2824990364	32.9993464162	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_305	59662	34.1926184171	34.0010224263	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_306	59532	34.7258617214	31.0433716321	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Apophysomyces	Apophysomyces ossiformis	679940
+NRRL_1589_metscf_307	59051	32.8631183215	32.2325278149	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Lichtheimiaceae	Lichtheimia	Lichtheimia corymbifera	42458
+NRRL_1589_metscf_308	58714	32.8848315564	31.1614265763	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_309	58500	31.9914529915	31.7090940171	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_310	58259	32.6129868347	31.2826001133	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_1589_metscf_311	58184	32.6223704111	32.0966416884	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor lusitanicus	29924
+NRRL_1589_metscf_312	58124	33.0569128071	32.217122015	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus stolonifer	4846
+NRRL_1589_metscf_313	58094	34.1153991806	30.457930251	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_314	58067	32.4160022044	31.0179275664	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Parasitella	Parasitella parasitica	35722
+NRRL_1589_metscf_315	57919	33.4242649217	32.6891175607	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor ambiguus	91626
+NRRL_1589_metscf_316	57804	31.8974465435	31.8694035015	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_1589_metscf_317	57788	32.2471793452	31.0819720357	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_318	57712	32.9359578597	30.3301912947	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_319	57574	30.6666203495	32.4071803245	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_320	57453	33.5334969453	30.4928550293	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_1589_metscf_321	57438	32.8876353633	31.9668338034	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_322	57426	31.7800299516	31.6117786369	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_323	57209	33.0297680435	30.7140834484	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_324	57190	34.9221891939	32.2363874803	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_1589_metscf_325	57179	34.829220518	31.5506392207	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_326	56748	32.795869458	31.9323147952	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_327	56280	32.8606965174	31.9765280739	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_328	56194	32.5159269673	31.7340107485	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_329	55960	32.6429592566	33.186722659	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_330	55925	32.6544479213	31.8364774251	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_331	55811	33.6636146996	29.7806704771	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_1589_metscf_332	55732	31.5133137156	31.4603997703	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_333	55671	33.1375401915	32.13013957	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_334	55629	33.1985115677	31.5428104046	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_335	55587	34.0079514995	30.4744634537	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus stolonifer	4846
+NRRL_1589_metscf_336	55576	33.1096156614	30.750143947	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_337	55504	33.5381233785	32.0155304122	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor circinelloides	36080
+NRRL_1589_metscf_338	55437	32.9815826975	30.4727528546	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_339	55409	32.7798733058	30.5277301521	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor circinatus	2054153
+NRRL_1589_metscf_340	55371	32.5206335446	32.1867403514	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_341	55293	31.8792613893	31.5417683974	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_1589_metscf_342	54971	32.1132961016	31.2353968456	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_343	54881	32.2443104171	32.5135839362	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_344	54871	34.2311968071	30.8746879044	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_345	54864	33.4135316419	31.636920385	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor plumbeus	97098
+NRRL_1589_metscf_346	54663	32.5960887621	30.7237253718	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_347	54605	33.01529164	31.4863290907	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_1589_metscf_348	54605	32.6270488051	30.7402618808	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_349	54467	33.1595277875	33.1065599354	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_1589_metscf_350	54403	31.9228719004	30.7022039226	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_1589_metscf_351	54397	34.1011452837	31.6921705241	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_352	54043	33.1846862683	31.318968229	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Choanephoraceae	Choanephora	Choanephora cucurbitarum	101091
+NRRL_1589_metscf_353	53929	32.3462330101	32.4030484526	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_354	53927	33.007584327	32.3299831253	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_355	53906	32.5473973213	32.7681705191	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_356	53880	31.8912397921	28.915237565	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_357	53757	31.9437468609	31.996335361	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_1589_metscf_358	53624	32.8416380725	28.4798038192	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_359	53511	33.5146044738	30.9017958924	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_360	53508	33.2847424684	30.1453240637	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_1589_metscf_361	53388	33.8540495992	31.4296283809	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_362	53069	32.9307128455	32.2229361774	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_363	52988	33.2452630784	30.5245338567	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_364	52967	32.8884022127	31.7806181207	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor circinelloides	36080
+NRRL_1589_metscf_365	52913	33.1393041408	29.9323795665	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_366	52712	32.9052208226	28.4247040522	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_367	52601	32.7579323587	30.6976103116	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_1589_metscf_368	52590	32.983456931	31.6786651455	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor plumbeus	97098
+NRRL_1589_metscf_369	52508	32.954978289	32.0182829283	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_370	52360	33.2830404889	31.8328495034	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_371	52205	31.182836893	31.879321904	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_372	51803	32.8803351157	31.7137617512	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Apophysomyces	Apophysomyces ossiformis	679940
+NRRL_1589_metscf_373	51793	32.47350028	30.9858475084	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_374	51587	32.8958846221	31.3933355303	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_375	51579	31.6466003606	31.7665910545	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_376	51566	31.9745568786	31.8729395338	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_377	51527	32.2161197042	33.772546432	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_378	51495	34.6324885911	29.9374696572	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_1589_metscf_379	51485	32.760998349	32.0511022628	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Apophysomyces	Apophysomyces sp. BC1015	2184030
+NRRL_1589_metscf_380	51476	31.9546973347	30.389987567	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Apophysomyces	Apophysomyces ossiformis	679940
+NRRL_1589_metscf_381	51380	33.038147139	30.5862203192	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_382	51367	32.9141277474	30.5803726128	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_383	51206	33.4921688865	31.2155411475	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_384	51045	32.4772259771	30.591987462	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_385	51034	33.1053807266	31.9431947329	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_386	50713	31.3312168478	30.7552895707	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor plumbeus	97098
+NRRL_1589_metscf_387	50515	32.1251113531	31.6517272097	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_388	50453	33.7323845956	30.222702317	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_389	50285	32.1646614298	30.3726359749	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor circinelloides	36080
+NRRL_1589_metscf_390	50275	32.8672302337	29.6394828444	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Apophysomyces	unclassified	90268
+NRRL_1589_metscf_391	50220	33.1541218638	32.0719036241	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor ambiguus	91626
+NRRL_1589_metscf_392	50016	33.4412987844	32.431721849	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_393	49987	32.4804449157	31.281073079	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor circinelloides	36080
+NRRL_1589_metscf_394	49942	32.9822594209	29.5880621521	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor lusitanicus	29924
+NRRL_1589_metscf_395	49844	32.7822807158	30.440313779	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_1589_metscf_396	49825	33.3246362268	28.9625689915	Eukaryota	Mucoromycota	unclassified	unclassified	unclassified	unclassified	unclassified	1913637
+NRRL_1589_metscf_397	49824	31.9283879255	31.8493095697	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_398	49677	32.4898846549	33.2669645913	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Phycomycetaceae	Phycomyces	Phycomyces blakesleeanus	4837
+NRRL_1589_metscf_399	49613	34.3276963699	31.3390240461	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor plumbeus	97098
+NRRL_1589_metscf_400	49498	33.1609357954	31.1936643905	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor ambiguus	91626
+NRRL_1589_metscf_401	49452	33.1088732508	30.7776834102	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Lichtheimiaceae	Lichtheimia	unclassified	688353
+NRRL_1589_metscf_402	49149	32.5947628639	30.957842479	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_403	49138	33.5341283732	29.6869632464	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor ambiguus	91626
+NRRL_1589_metscf_404	49101	32.5838577626	29.11223804	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_405	48864	33.2473804846	30.6986738703	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_406	48780	33.4542845428	30.5220377204	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor plumbeus	97098
+NRRL_1589_metscf_407	48571	33.8700047353	30.5197339977	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_408	48406	32.8141139528	29.0395612114	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor circinelloides	36080
+NRRL_1589_metscf_409	48375	31.8366925065	28.370749354	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_410	48292	32.6741489274	30.7878323532	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_411	48288	32.3248011928	32.9686671637	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_412	48184	33.7726216171	30.3778640213	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_413	48016	32.2517494169	31.7667027657	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_414	47907	32.8949840316	31.9744087503	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_415	47635	32.2976802771	30.6416500472	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_416	47472	33.02157061	32.1270433097	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor plumbeus	97098
+NRRL_1589_metscf_417	47297	33.0295790431	30.747425841	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Lichtheimiaceae	Lichtheimia	Lichtheimia corymbifera	42458
+NRRL_1589_metscf_418	47252	33.85888428	28.7602217896	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_419	47195	33.7133170887	30.2451954656	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_1589_metscf_420	47073	30.3825972426	33.0484566524	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_421	47062	31.8558497301	29.9558242319	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_422	47033	32.7217060362	32.3535815279	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_423	46962	33.0565137771	32.6441591074	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_424	46542	32.6715654677	29.4052039019	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor lusitanicus	29924
+NRRL_1589_metscf_425	46481	34.2333426561	31.6517716917	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_1589_metscf_426	46295	33.5025380711	30.92035857	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_1589_metscf_427	46234	31.5611887356	31.4908292599	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_428	46139	31.8732525629	31.5013979497	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Apophysomyces	Apophysomyces sp. BC1015	2184030
+NRRL_1589_metscf_429	46094	32.6571788085	31.7459973098	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_430	46090	33.3629854632	33.27372532	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_1589_metscf_431	46080	31.0177951389	29.5605251736	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_432	46041	32.9575812862	31.6342390478	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_1589_metscf_433	45900	33.4509803922	28.9992156863	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Choanephoraceae	Choanephora	Choanephora cucurbitarum	101091
+NRRL_1589_metscf_434	45879	34.8307504523	30.923625188	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_435	45866	33.2141455544	30.9132690882	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_436	45754	33.6407745771	30.7578353805	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_437	45738	32.4981415891	31.1674974857	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_438	45644	32.2758741565	31.994654281	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_439	45536	32.2118763176	30.575610506	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_440	45486	34.2918700259	31.6808248692	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_441	45368	32.9262916593	31.5713939341	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Phycomycetaceae	Phycomyces	Phycomyces blakesleeanus	4837
+NRRL_1589_metscf_442	45178	31.7455398645	31.5563327283	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_443	45157	33.2351573399	32.4006466329	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_444	44904	34.778638874	30.8682522715	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_445	44899	34.5553353081	31.257288581	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_1589_metscf_446	44792	31.1439542775	27.6274557957	Bacteria	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	2
+NRRL_1589_metscf_447	44768	32.5768406004	30.8881790565	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor circinatus	2054153
+NRRL_1589_metscf_448	44741	33.2804362889	32.4322880579	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_449	44666	33.5490081942	30.2714592755	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_450	44621	32.6102059568	32.1081777638	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor circinatus	2054153
+NRRL_1589_metscf_451	44403	34.1440893633	30.1698759093	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_452	44400	30.9009009009	31.0850900901	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Phycomycetaceae	Phycomyces	Phycomyces blakesleeanus	4837
+NRRL_1589_metscf_453	44110	32.5323055996	30.33992292	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_454	44101	33.5117117526	30.9618149248	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_455	44082	31.9767705639	31.3633228982	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_456	44006	31.986547289	32.0371313003	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_457	43841	33.9727652198	31.3231450013	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_458	43673	32.6700707531	32.9847960983	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_459	43555	31.909080473	29.4227758007	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor plumbeus	97098
+NRRL_1589_metscf_460	43493	31.6740624928	32.0498011174	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_461	43420	32.7775218793	30.5432289268	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor plumbeus	97098
+NRRL_1589_metscf_462	43296	33.7259793052	30.1096637103	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_463	43292	32.8397856417	30.2980458283	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Parasitella	Parasitella parasitica	35722
+NRRL_1589_metscf_464	43199	31.3803560268	34.2750758119	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Choanephoraceae	Choanephora	Choanephora cucurbitarum	101091
+NRRL_1589_metscf_465	43189	34.2425154553	30.6524114937	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_466	43184	32.4032048907	30.220475176	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_467	43179	32.6339192663	31.5778735033	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_468	43130	32.4715974959	31.4721771389	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Choanephoraceae	Choanephora	Choanephora cucurbitarum	101091
+NRRL_1589_metscf_469	43005	33.3937914196	31.9939541914	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_470	42984	32.4632421366	31.9920668156	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_471	42570	32.480620155	32.0983791402	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Lichtheimiaceae	Lichtheimia	unclassified	688353
+NRRL_1589_metscf_472	42533	32.6381868196	32.1310746949	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Apophysomyces	Apophysomyces ossiformis	679940
+NRRL_1589_metscf_473	42510	32.4088449777	32.3382262997	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_474	42282	31.5311480062	30.9570739322	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Syncephalastraceae	Syncephalastrum	Syncephalastrum racemosum	13706
+NRRL_1589_metscf_475	42275	33.5115316381	29.8628030751	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor lusitanicus	29924
+NRRL_1589_metscf_476	42208	32.1147649735	32.1703231615	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_477	42204	32.6130224623	31.4636764288	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_478	42158	33.5903031453	32.8398168794	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_479	42020	32.5916230366	30.9763207996	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Choanephoraceae	Choanephora	Choanephora cucurbitarum	101091
+NRRL_1589_metscf_480	42003	33.6856891174	31.131871533	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_481	41814	34.3880040178	31.7790213804	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Parasitella	Parasitella parasitica	35722
+NRRL_1589_metscf_482	41766	33.1393956807	31.1929799358	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus stolonifer	4846
+NRRL_1589_metscf_483	41677	33.6708496293	30.2952707728	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_484	41629	34.4014989551	30.7354968892	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Parasitella	Parasitella parasitica	35722
+NRRL_1589_metscf_485	41504	32.0643793369	32.971809946	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_486	41357	31.7842203255	30.7468143241	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_487	41270	33.4649866731	30.2926096438	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_488	41236	32.5662042875	31.04888932	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_1589_metscf_489	41094	32.6081666423	31.4442010999	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor ambiguus	91626
+NRRL_1589_metscf_490	41083	33.9288756907	30.4091229949	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_491	41067	32.8584995252	30.9909903329	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Parasitella	Parasitella parasitica	35722
+NRRL_1589_metscf_492	40912	32.8265545561	30.2662543997	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_493	40820	31.2836844684	31.3326310632	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_494	40752	33.7823910483	29.3099970554	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Phycomycetaceae	Phycomyces	Phycomyces blakesleeanus	4837
+NRRL_1589_metscf_495	40497	33.4518606317	32.767785268	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor circinatus	2054153
+NRRL_1589_metscf_496	40395	31.4271568263	31.7094194826	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_1589_metscf_497	40171	33.0014189341	31.929302233	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor ambiguus	91626
+NRRL_1589_metscf_498	39975	32.6629143215	29.5878924328	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_499	39855	34.7308995107	31.0017312759	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_500	39708	31.434471643	31.0781958296	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_501	39697	32.3047081643	32.7029246543	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_502	39597	30.7548551658	33.7070737682	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor circinelloides	36080
+NRRL_1589_metscf_503	39596	33.2887160319	29.9396403677	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_504	39582	32.1863473296	32.1016371078	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_505	39555	32.172923777	30.9039059537	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_506	39459	31.9774956284	31.8999467802	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_1589_metscf_507	39455	32.0035483462	30.973590166	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_508	39438	32.0249505553	31.4137633754	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Lichtheimiaceae	Lichtheimia	Lichtheimia ramosa	688394
+NRRL_1589_metscf_509	39282	34.4814418818	30.9131663357	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_510	39235	33.4140435835	32.2232445521	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_511	39000	33.4743589744	34.2903333333	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_512	38913	32.5161257163	31.5505872074	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_1589_metscf_513	38724	33.5760768516	32.0185931205	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_514	38720	32.4870867769	29.7213068182	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_515	38715	33.8086013173	31.4598992639	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus stolonifer	4846
+NRRL_1589_metscf_516	38678	31.0331454574	28.3795956358	Bacteria	Bacteroidetes	unclassified	unclassified	unclassified	unclassified	unclassified	976
+NRRL_1589_metscf_517	38548	32.3051779599	31.1553128567	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_518	38522	33.0330720108	28.6379471471	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Parasitella	Parasitella parasitica	35722
+NRRL_1589_metscf_519	38235	32.2636327972	33.4403033869	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_1589_metscf_520	38225	33.3655984303	29.6544931328	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_521	38159	31.8954899237	29.6183600199	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Parasitella	Parasitella parasitica	35722
+NRRL_1589_metscf_522	38081	33.5285312886	28.6151098973	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_523	38031	32.2473771397	31.7901711761	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_524	37909	32.6703421351	33.6323036746	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_525	37865	31.6651261059	30.4093225934	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_526	37854	32.8340466001	29.7349289375	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Parasitella	Parasitella parasitica	35722
+NRRL_1589_metscf_527	37853	33.6274535704	30.4771616517	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_528	37798	33.5864331446	32.0258479285	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Apophysomyces	Apophysomyces ossiformis	679940
+NRRL_1589_metscf_529	37734	33.155774633	30.0786028515	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_530	37546	33.7798966601	30.6596974378	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus azygosporus	86630
+NRRL_1589_metscf_531	37532	31.7116060961	30.5330917617	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_532	37511	33.7074458159	30.6921702967	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_533	37489	32.4521859746	31.1111526048	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_534	37426	31.868219954	28.0773526425	Bacteria	Firmicutes	Negativicutes	Veillonellales	Veillonellaceae	Megasphaera	Megasphaera elsdenii	907
+NRRL_1589_metscf_535	37361	31.747008913	30.2934343299	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_536	37308	32.9982845502	31.1254154605	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Choanephoraceae	Choanephora	Choanephora cucurbitarum	101091
+NRRL_1589_metscf_537	37260	33.4675254965	31.4174986581	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_538	37238	32.9824372952	32.9944948708	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor ambiguus	91626
+NRRL_1589_metscf_539	37179	31.5527582775	31.7893165497	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_540	37133	33.5712169768	30.2466808499	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus stolonifer	4846
+NRRL_1589_metscf_541	37132	32.9203921146	30.4857804589	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Parasitella	Parasitella parasitica	35722
+NRRL_1589_metscf_542	37100	32.6684636119	35.4174663073	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_543	37079	32.2797270692	29.4896302489	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_544	37007	32.6992190667	31.9181776421	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_545	36924	32.9677174737	31.0806521504	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_546	36899	33.5781457492	35.9863139922	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Parasitella	Parasitella parasitica	35722
+NRRL_1589_metscf_547	36858	32.2453741386	31.818818167	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_548	36827	33.3722540527	32.3790697043	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Parasitella	Parasitella parasitica	35722
+NRRL_1589_metscf_549	36735	32.4241186879	31.0491357016	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_550	36679	33.4960058889	30.7144687696	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_551	36639	33.7918611316	31.9873904855	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_552	36583	33.652242845	32.6357597791	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_553	36516	35.4474750794	30.8389473108	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Choanephoraceae	Choanephora	Choanephora cucurbitarum	101091
+NRRL_1589_metscf_554	36409	30.3441456783	31.144359911	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_555	36383	31.7510925432	31.5084242641	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_556	36350	32.5887207703	31.7189821183	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_557	36338	32.7948703836	30.6576036105	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Parasitella	Parasitella parasitica	35722
+NRRL_1589_metscf_558	36274	31.3392512543	30.9985113304	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_559	36240	33.1346578366	31.4378587196	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus stolonifer	4846
+NRRL_1589_metscf_560	36099	34.383223912	30.8357572232	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_561	36061	32.6724161837	32.2395940212	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Parasitella	Parasitella parasitica	35722
+NRRL_1589_metscf_562	36028	32.3886976796	31.5780504052	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_563	35743	32.6273675965	30.8454522564	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_1589_metscf_564	35691	32.2322154044	32.2137793842	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Parasitella	Parasitella parasitica	35722
+NRRL_1589_metscf_565	35650	30.5217391304	32.7942215989	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_566	35615	32.0960269549	32.1224203285	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_567	35502	31.5249845079	33.2654498338	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_568	35486	31.7364594488	31.3703714141	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor circinatus	2054153
+NRRL_1589_metscf_569	35439	33.1668500804	31.744659838	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_1589_metscf_570	35437	34.1197053927	29.670316336	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_571	35395	32.6373781608	31.1953665772	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_572	35364	32.7564755118	30.7591618595	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_573	35341	31.3630061402	33.040066778	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_1589_metscf_574	35324	33.3371079153	29.481061035	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_575	35274	31.9867324375	30.6951295572	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_576	35265	34.379696583	30.6009074153	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor circinatus	2054153
+NRRL_1589_metscf_577	35203	32.91196773	32.3187796495	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_578	35130	31.559920296	30.3477369769	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_579	35110	32.7712902307	31.8736827115	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Parasitella	Parasitella parasitica	35722
+NRRL_1589_metscf_580	35103	32.4872518018	31.2569011196	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Choanephoraceae	Choanephora	Choanephora cucurbitarum	101091
+NRRL_1589_metscf_581	35046	33.8155566969	32.4599098328	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_582	34998	32.6790102292	31.233441911	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_583	34987	32.320576214	33.4678023266	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Apophysomyces	unclassified	90268
+NRRL_1589_metscf_584	34941	33.556566784	27.3121547752	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_585	34863	34.0590310645	31.2033100995	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_586	34834	33.7428948728	31.9912441867	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_587	34652	32.6965254531	29.7594655431	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_588	34608	33.2408691632	31.4596625058	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_589	34435	31.9848990852	33.3782779149	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Choanephoraceae	Choanephora	Choanephora cucurbitarum	101091
+NRRL_1589_metscf_590	34435	34.032234645	32.1338754175	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_591	34256	32.4497898178	30.7959481551	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_592	34249	33.5630237379	31.0131974656	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_593	34196	33.0740437478	33.2743595742	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Choanephoraceae	Choanephora	Choanephora cucurbitarum	101091
+NRRL_1589_metscf_594	34171	33.7362090662	31.4075678207	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_595	34169	32.4007140976	30.6321519506	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_596	34121	32.9445209695	30.2436915682	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_597	34116	33.3978192051	31.8134892719	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Apophysomyces	unclassified	90268
+NRRL_1589_metscf_598	34113	31.5686102073	32.0067129833	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_599	34103	33.3782951646	34.103128757	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_600	34093	32.2646877658	31.4216994691	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_601	34045	33.3206050815	37.3512703774	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_602	33958	33.5767713057	29.8349726132	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor plumbeus	97098
+NRRL_1589_metscf_603	33953	32.5479339086	33.1836067505	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus stolonifer	4846
+NRRL_1589_metscf_604	33952	31.25	31.4736392554	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_605	33914	32.5116471074	32.8364982013	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_606	33818	32.4945295405	30.6001537643	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_607	33809	32.914312757	32.742494602	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_608	33804	34.3598390723	32.7605312981	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_609	33800	32.7810650888	32.1015680473	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_610	33775	31.170984456	36.6913989637	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_611	33754	32.1532262843	34.524263791	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_612	33739	33.1989685527	32.4262722665	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Apophysomyces	Apophysomyces ossiformis	679940
+NRRL_1589_metscf_613	33680	33.3135391924	29.2487232779	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_614	33649	32.0485006984	31.3916906892	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Choanephoraceae	Choanephora	Choanephora cucurbitarum	101091
+NRRL_1589_metscf_615	33577	33.5557077762	32.2738779522	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_616	33405	32.2017662027	31.8954946864	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_617	33380	34.0623127621	29.3679748352	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_618	33331	32.3692658486	30.6458252078	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_619	33327	32.8322381252	35.6950220542	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1589_metscf_620	33293	32.4843060103	32.2101943351	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_621	33175	32.7475508666	29.7665109269	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Parasitella	Parasitella parasitica	35722
+NRRL_1589_metscf_622	33074	33.0078006894	30.1967406422	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_1589_metscf_623	33063	33.2486465233	31.0977830203	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_1589_metscf_624	32956	32.3582959097	31.8720718534	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_625	32844	32.8827183047	30.1606990622	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_626	32840	32.6796589525	32.3973812424	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_627	32796	31.3940724479	32.1558116844	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_628	32735	32.4820528486	32.3994501298	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Parasitella	Parasitella parasitica	35722
+NRRL_1589_metscf_629	32671	33.4914756206	29.6278044749	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_1589_metscf_630	32668	32.2058283335	30.1709930207	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_631	32634	34.5713059999	30.5500091929	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_632	32598	32.0970611694	30.9090128229	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_633	32574	32.3079756861	31.6377785964	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_634	32525	32.2705611068	33.6140507302	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_1589_metscf_635	32447	31.873516812	33.2585755232	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_636	32404	32.7891618319	31.7616960869	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_637	32372	31.4809094279	31.9423267021	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_638	32331	33.6921221119	31.418421948	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_639	32284	33.1712303308	31.2984760253	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Phycomycetaceae	Phycomyces	Phycomyces blakesleeanus	4837
+NRRL_1589_metscf_640	32279	32.1478360544	34.5580098516	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_641	32247	32.7503333643	32.3164325364	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor ambiguus	91626
+NRRL_1589_metscf_642	32195	32.9212610654	31.0110265569	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_643	32125	32.3175097276	30.426614786	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_1589_metscf_644	32020	32.5484072455	29.9099937539	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor circinatus	2054153
+NRRL_1589_metscf_645	31890	32.9789902791	31.6426465977	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus azygosporus	86630
+NRRL_1589_metscf_646	31796	33.928796075	31.0583092213	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1589_metscf_647	31768	35.1233946109	34.996663309	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_648	31750	34.4881889764	31.6113700787	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_649	31731	31.7071633418	33.6431880495	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Lichtheimiaceae	Lichtheimia	unclassified	688353
+NRRL_1589_metscf_650	31723	32.1091952211	30.8689594301	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_651	31697	32.4731047102	31.7878032621	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_652	31658	32.4688862215	27.060837703	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_653	31641	35.32126039	31.2747700768	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_654	31630	32.5292443882	31.6363895036	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_655	31597	32.6043611735	30.3128461563	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_656	31550	33.559429477	17.6445007924	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_657	31509	32.3685296265	31.2805547621	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus stolonifer	4846
+NRRL_1589_metscf_658	31470	32.8948204639	31.2765490944	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor circinelloides	36080
+NRRL_1589_metscf_659	31434	33.6610040084	31.680346122	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_660	31424	33.8212830957	35.0147976069	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus stolonifer	4846
+NRRL_1589_metscf_661	31393	34.7115599019	30.3414455452	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_662	31338	32.896164401	30.9706426702	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_663	31319	33.8197260449	30.429100546	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_664	31295	32.4301006551	587.121009746	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Parasitella	Parasitella parasitica	35722
+NRRL_1589_metscf_665	31201	31.0054164931	30.8656453319	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_666	31041	32.9274185754	32.3586546825	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus stolonifer	4846
+NRRL_1589_metscf_667	31027	33.8253778967	28.4058723048	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_668	31017	33.3816939098	31.9375181352	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1589_metscf_669	31013	34.7015767581	29.6763937704	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_670	31009	32.8969008997	31.3670224773	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_1589_metscf_671	31000	32.9096774194	29.9433225806	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_672	30921	32.8611623169	32.3216584198	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_673	30757	32.1812920636	30.499788666	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_674	30740	34.1769681197	30.4544567339	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_1589_metscf_675	30731	33.5198984739	32.6434870326	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_676	30721	33.6479932294	33.8307021256	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Choanephoraceae	Choanephora	Choanephora cucurbitarum	101091
+NRRL_1589_metscf_677	30705	31.1936166748	28.4819410519	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+NRRL_1589_metscf_678	30704	32.8621677957	30.2614643043	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_679	30686	31.7278237633	30.0539985661	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_680	30676	33.791889425	30.7147281262	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor ambiguus	91626
+NRRL_1589_metscf_681	30622	33.2342760107	30.6325844164	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_682	30563	32.902529202	32.3428655564	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_683	30542	33.5701656735	31.4885076288	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_684	30520	32.372214941	31.4391218873	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_685	30509	30.8925235177	29.9070766003	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Lichtheimiaceae	Lichtheimia	unclassified	688353
+NRRL_1589_metscf_686	30451	33.6770549407	31.4906242816	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_687	30413	34.458948476	30.8990563246	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_1589_metscf_688	30351	32.479984185	31.7245889757	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor plumbeus	97098
+NRRL_1589_metscf_689	30314	33.8919311209	30.2645312397	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Parasitella	Parasitella parasitica	35722
+NRRL_1589_metscf_690	30083	32.2806900907	32.4786424226	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_691	30061	34.6096270916	31.3562423073	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor lusitanicus	29924
+NRRL_1589_metscf_692	30059	33.98649323	31.1258192222	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_693	30043	32.4867689645	30.2468794728	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_694	29964	31.6479775731	30.8840942464	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Lichtheimiaceae	Lichtheimia	unclassified	688353
+NRRL_1589_metscf_695	29884	33.0444384955	32.5716771517	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor circinatus	2054153
+NRRL_1589_metscf_696	29864	33.5152692205	30.2929949103	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_697	29832	33.6182622687	31.5425046929	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Parasitella	Parasitella parasitica	35722
+NRRL_1589_metscf_698	29811	35.0608835665	30.200798363	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_699	29753	34.2015931167	32.4223439653	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_700	29737	31.6306285099	30.0123415274	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_701	29728	31.4619214209	31.0949946179	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_702	29680	32.4797843666	32.2059973046	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_703	29580	36.1189993239	29.879749831	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_704	29569	32.2635192262	35.202543204	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_705	29562	33.7933833976	32.0174210135	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_706	29534	33.0602018013	31.4993905329	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_1589_metscf_707	29517	33.899108988	30.5582206864	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_708	29434	32.3435482775	30.188285656	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_709	29384	33.0417914511	30.3169411925	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_710	29326	32.8275250631	28.456386824	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor circinelloides	36080
+NRRL_1589_metscf_711	29242	34.8710758498	29.9167293619	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_712	29177	32.0149432772	34.1385337766	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_713	29089	33.0159166695	31.2006600433	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_714	29003	33.5448057098	28.1367789539	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Parasitella	Parasitella parasitica	35722
+NRRL_1589_metscf_715	28940	31.6793365584	25.245577056	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_716	28935	31.2113357525	31.3876274408	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_717	28883	32.621265104	32.0346916872	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_718	28876	32.7642332733	30.8911552847	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_719	28854	32.5951341235	31.1854508907	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_720	28850	31.5320623917	33.6021143847	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_721	28817	31.0892875733	32.7212062324	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_722	28741	33.634877005	32.2174245851	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Choanephoraceae	Choanephora	Choanephora cucurbitarum	101091
+NRRL_1589_metscf_723	28733	34.2358960081	31.396408311	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_724	28717	32.88644357	31.2361667305	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_725	28650	31.0261780105	31.2617452007	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_726	28646	32.6921734274	32.2646093695	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_727	28639	32.9166521177	31.8145186634	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_1589_metscf_728	28637	31.504696721	30.1609456298	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_729	28528	34.019209198	30.4806505889	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_730	28444	32.7872310505	31.1453382084	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_1589_metscf_731	28401	33.5199464808	30.7342699201	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_732	28400	33.4823943662	29.2849295775	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_1589_metscf_733	28331	33.161554481	32.0937135999	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_734	28311	32.0970647452	31.5431457737	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_735	28201	32.6158646856	31.5976383816	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_1589_metscf_736	28191	35.1211379518	30.5235358802	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_737	28149	31.2693168496	31.203985932	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_738	28148	32.0413528492	30.3693335228	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_739	28118	31.1864286222	30.8965075752	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_740	27956	33.3559879811	31.4063886107	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_741	27944	32.5007157171	29.1944245634	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_742	27934	31.0875635426	30.2913295625	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_743	27815	32.2344058961	31.016394032	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_744	27750	32.6306306306	30.3494414414	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_745	27747	32.7566944174	31.8294590406	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_1589_metscf_746	27701	31.49344789	31.8401501751	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_747	27687	34.1893307328	33.0398020732	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Phycomycetaceae	Phycomyces	Phycomyces blakesleeanus	4837
+NRRL_1589_metscf_748	27675	33.4561878952	30.6494308943	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_749	27639	32.5301204819	33.6372878903	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_1589_metscf_750	27620	33.1824764663	30.4884866039	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Choanephoraceae	Choanephora	Choanephora cucurbitarum	101091
+NRRL_1589_metscf_751	27608	34.8485946103	29.296182266	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_752	27584	32.3158352668	30.5585484339	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_753	27579	32.2419232024	31.2606330904	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_754	27557	32.409188228	33.2299234314	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_755	27406	33.3029263665	28.7783332117	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_756	27329	32.1746130484	31.3133667533	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_757	27319	33.1747135693	30.2805739595	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_1589_metscf_758	27262	31.5714180911	32.4101679994	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_759	27199	32.7512040884	30.6318246994	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_1589_metscf_760	27138	34.2766600339	31.2503500626	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_761	27137	31.9969045952	37.9362862512	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_762	27106	32.0667010994	31.3441304508	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor lusitanicus	29924
+NRRL_1589_metscf_763	27091	32.9408290576	31.3688309771	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_764	27074	33.0353845017	31.7607298515	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor plumbeus	97098
+NRRL_1589_metscf_765	27047	34.2182127408	30.6556734573	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor ambiguus	91626
+NRRL_1589_metscf_766	26966	33.2678187347	29.8557442706	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_767	26862	32.1830094557	32.1083686993	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_1589_metscf_768	26814	33.5123442978	27.7919743418	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_769	26783	32.050181085	30.7975208154	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Choanephoraceae	Choanephora	Choanephora cucurbitarum	101091
+NRRL_1589_metscf_770	26771	33.1478091965	30.2355160435	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Parasitella	Parasitella parasitica	35722
+NRRL_1589_metscf_771	26761	32.6482567916	30.9522439371	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_772	26753	32.6879228498	30.074870108	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_1589_metscf_773	26567	33.413633455	32.5107840554	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_1589_metscf_774	26541	32.9678610452	30.8062243322	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_775	26527	35.4921400837	30.4877671806	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_776	26502	33.5370915403	30.998528413	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_777	26481	34.5795098372	31.3683018013	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_778	26454	33.0195811597	28.6596733953	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+NRRL_1589_metscf_779	26409	34.7154379189	31.7232761559	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_780	26372	34.5442135598	31.2586455331	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_781	26365	32.3800493078	31.6161198559	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_782	26354	33.3118312211	31.2432647795	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_783	26315	35.1282538476	32.0398251948	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_784	26134	32.2797887809	28.6929670161	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_785	26097	33.1800590106	31.3378932444	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_786	26096	33.9477314531	27.974210607	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor lusitanicus	29924
+NRRL_1589_metscf_787	26019	32.5800376648	30.2578115992	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_788	26004	31.7874173204	32.0140363021	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_789	25992	33.5218528778	30.9535241613	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_790	25971	32.3014131146	31.7026683609	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_1589_metscf_791	25941	32.0226668209	31.2757411048	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_792	25851	31.6815597076	29.7573014584	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_793	25784	35.5879615265	31.4829351536	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_794	25758	32.285115304	30.482374408	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_1589_metscf_795	25734	34.8255226549	29.5492733349	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_796	25713	33.5433438339	28.2327227472	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Phycomycetaceae	Phycomyces	Phycomyces blakesleeanus	4837
+NRRL_1589_metscf_797	25692	32.5081737506	32.0679199751	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_1589_metscf_798	25655	30.6528941727	31.8722276359	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor plumbeus	97098
+NRRL_1589_metscf_799	25611	33.0561087033	31.1736753739	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_800	25565	31.5861529435	31.9062389986	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor plumbeus	97098
+NRRL_1589_metscf_801	25552	32.4162492173	30.1457028804	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_802	25526	31.8342082582	32.3318577137	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_803	25501	31.1595623701	31.7603623387	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_804	25490	31.59670459	30.0256571204	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_805	25297	33.5850100802	28.3431236906	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_806	25208	32.7951443986	30.486789908	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_807	25175	31.6305858987	30.4522343595	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Choanephoraceae	Choanephora	Choanephora cucurbitarum	101091
+NRRL_1589_metscf_808	25160	33.4976152623	32.4706279809	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_809	25108	31.7986299188	34.5971403537	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_810	25036	31.1551366033	30.7264339351	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_811	25009	36.1709784478	28.8963173258	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_812	24911	33.4109429569	30.9594155192	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Choanephoraceae	Choanephora	Choanephora cucurbitarum	101091
+NRRL_1589_metscf_813	24903	32.8474480986	32.5241135606	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_814	24812	32.2424633242	30.7537078833	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_815	24779	32.7616126559	32.5222163929	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_816	24738	31.6678793759	31.6716387744	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_817	24673	32.2660398006	29.7243545576	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor plumbeus	97098
+NRRL_1589_metscf_818	24584	31.317116824	32.5398633257	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_819	24571	32.6523137031	31.6442961214	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_820	24431	32.9417543285	30.0320085138	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_1589_metscf_821	24395	34.9128919861	32.1119491699	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor plumbeus	97098
+NRRL_1589_metscf_822	24392	32.0801902263	31.5328386356	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor lusitanicus	29924
+NRRL_1589_metscf_823	24259	31.930417577	27.0885444577	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_824	24250	31.0886597938	29.9145979381	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_825	24247	33.1133748505	31.9358271126	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_826	24236	32.5961379766	31.7407162898	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor lusitanicus	29924
+NRRL_1589_metscf_827	24231	33.5025380711	29.3585076968	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_828	24188	31.2344964445	31.913469489	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_829	24112	33.8296284008	32.1889100863	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor ambiguus	91626
+NRRL_1589_metscf_830	23926	34.0926189083	28.1609964056	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_1589_metscf_831	23902	34.5452263409	31.7668814325	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_832	23848	31.9607514257	32.281071788	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor circinatus	2054153
+NRRL_1589_metscf_833	23829	33.1109152713	31.8898401108	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_834	23784	33.6024217962	32.6565338042	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_835	23772	31.9661786976	28.5156907286	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_1589_metscf_836	23678	32.2324520652	28.9542613396	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_837	23673	34.4443036371	29.9994508512	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_838	23658	31.7736072365	30.2724659735	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_839	23642	33.1444040267	30.3246341257	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_840	23618	34.3339825557	28.9920823101	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_841	23613	31.1523313429	28.0463727608	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_842	23610	32.3210504024	30.7086404066	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Apophysomyces	unclassified	90268
+NRRL_1589_metscf_843	23608	33.3192138258	31.9762792274	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_1589_metscf_844	23579	32.9445693202	28.1580643793	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+NRRL_1589_metscf_845	23572	31.753775666	31.7584846428	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor ambiguus	91626
+NRRL_1589_metscf_846	23567	32.0702677473	28.7135401197	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Parasitella	Parasitella parasitica	35722
+NRRL_1589_metscf_847	23552	30.9697690217	33.0165591033	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_848	23527	32.7241042207	31.2309686743	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_849	23517	32.7125058468	29.9842241783	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus stolonifer	4846
+NRRL_1589_metscf_850	23503	34.1998893758	31.2395013403	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_851	23492	32.1513706794	32.0145581475	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor lusitanicus	29924
+NRRL_1589_metscf_852	23480	34.5102214651	30.7247444634	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Parasitella	Parasitella parasitica	35722
+NRRL_1589_metscf_853	23458	34.4786426805	30.0084832467	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_854	23434	33.3916531535	27.9040283349	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	1
+NRRL_1589_metscf_855	23412	32.2783188109	30.8855715018	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1589_metscf_856	23332	31.8746785531	29.3859934853	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_857	23319	33.7064196578	31.5356147348	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_858	23305	31.8558249303	30.7991847243	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_859	23292	32.4918426928	31.313111798	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_1589_metscf_860	23281	33.4263992097	29.4079292127	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_861	23276	32.9137308816	28.9172967864	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+NRRL_1589_metscf_862	23269	32.5411491684	33.2982508917	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_863	23258	32.8360134147	29.503138705	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_864	23242	32.7897771276	31.5347216246	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_865	23167	30.8455993439	28.8607933699	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_866	23114	30.7173141819	30.2140261313	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_867	23099	32.9667950994	32.1892722629	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_868	22987	33.9235219907	31.3535476574	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Parasitella	Parasitella parasitica	35722
+NRRL_1589_metscf_869	22896	33.0188679245	29.9846261356	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_870	22881	30.9864079367	31.2388881605	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_871	22786	31.7519529536	31.3641270956	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_872	22778	32.8694354201	30.3556062868	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_873	22710	34.0819022457	29.731792162	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_874	22663	38.507699775	27.3859594934	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_875	22625	33.0430939227	32.9213259669	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_876	22571	35.6873864694	30.2415045855	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Choanephoraceae	Choanephora	Choanephora cucurbitarum	101091
+NRRL_1589_metscf_877	22390	31.0585082626	31.7115676641	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_878	22389	33.4181964357	28.7002545893	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_879	22336	31.1783667622	32.0163413324	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_880	22220	33.699369937	28.9429342934	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_881	22213	33.9350830595	32.0352046099	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_882	22200	33.7117117117	27.0838288288	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor circinatus	2054153
+NRRL_1589_metscf_883	22164	31.1631474463	27.7606478975	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_884	22143	32.7868852459	32.652621596	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_885	22138	31.2313668805	33.3468244647	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_886	22131	33.8710406218	30.6917446116	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_887	22116	32.3204919515	30.2855398806	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_888	22063	33.3408874586	29.0234328967	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_1589_metscf_889	22028	33.9250045397	31.0379970946	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_1589_metscf_890	22027	32.768874563	30.8712489218	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_891	22012	32.3959658368	32.5167635835	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_892	22011	33.660442506	29.9395302349	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_893	21944	32.0315348159	32.3453335764	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_894	21820	31.6315307058	30.9761228231	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_895	21756	32.8690935834	32.175859533	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_896	21746	33.7855237745	29.7966062724	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_897	21743	34.4110748287	30.2964632295	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_1589_metscf_898	21721	31.5409051149	30.7213756273	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Parasitella	Parasitella parasitica	35722
+NRRL_1589_metscf_899	21652	30.7038610752	30.3842601145	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_900	21567	30.4168405434	33.6441322391	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_901	21553	33.4199415395	28.9090613836	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_902	21515	32.2147339066	31.0934696723	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_903	21505	31.5926528714	37.4280864915	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_904	21428	33.5028934105	31.120823222	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_905	21396	31.9358758646	31.5329500841	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_906	21365	33.9761291832	30.2128715188	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_907	21345	33.2115249473	31.31773249	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor circinatus	2054153
+NRRL_1589_metscf_908	21292	34.5434905129	32.0304809318	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_909	21252	33.1498211933	30.1119894598	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_910	21235	31.3115140099	31.7723569579	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_1589_metscf_911	21222	34.2521911224	32.0216756196	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_912	21204	32.8853046595	31.1728447463	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_913	21157	33.4546485797	30.6854941627	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_914	21151	32.3814476857	28.9666682426	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_915	21058	31.0855731788	29.6455028968	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+NRRL_1589_metscf_916	21025	30.6159334126	33.778549346	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_1589_metscf_917	20987	32.4867775289	31.0710916282	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus stolonifer	4846
+NRRL_1589_metscf_918	20987	32.8632010292	30.991423262	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_919	20926	32.3473191245	30.5134282711	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_1589_metscf_920	20904	31.2858783008	31.3824626866	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor lusitanicus	29924
+NRRL_1589_metscf_921	20861	30.990844159	31.7135324289	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_922	20851	32.5547935351	31.718766486	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_923	20835	33.3573314135	31.338324934	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_924	20790	33.1938431938	32.1776815777	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_1589_metscf_925	20789	32.3055462023	32.7749771514	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus stolonifer	4846
+NRRL_1589_metscf_926	20761	29.7769856943	31.2186310871	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_927	20755	33.0908214888	30.9043603951	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_928	20681	31.7973018713	32.6355592089	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_929	20677	32.4805339266	30.5609614548	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_930	20602	33.7200271818	33.0227162411	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_931	20586	31.0065092782	32.3163800641	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Choanephoraceae	Choanephora	Choanephora cucurbitarum	101091
+NRRL_1589_metscf_932	20575	31.7278250304	31.7815309842	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_933	20571	34.8062806864	29.9712702348	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_1589_metscf_934	20548	32.9959120109	30.1597722406	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor ambiguus	91626
+NRRL_1589_metscf_935	20542	31.1556810437	30.7673060072	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_936	20542	34.1300749684	30.097215461	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_937	20516	31.8239422889	31.0502047183	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_938	20429	33.2027999413	32.637769837	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_939	20418	32.647663826	33.0952590851	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_940	20397	32.4018237976	32.8761582586	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_941	20354	33.47744915	34.7923258328	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_942	20345	32.6959941017	30.7472106169	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_943	20338	33.2726915134	31.343986626	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_944	20287	32.5232907773	30.6599792971	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_945	20261	35.0525640393	30.9160456049	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_946	20242	33.5737575338	29.3531271613	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+NRRL_1589_metscf_947	20236	32.6200830204	31.2816268037	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus stolonifer	4846
+NRRL_1589_metscf_948	20192	34.2115689382	27.9738015055	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+NRRL_1589_metscf_949	20185	36.9333663612	30.3535793906	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_950	19923	34.4978165939	27.9748029915	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_951	19889	34.6221529489	30.6891246418	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Apophysomyces	Apophysomyces sp. BC1015	2184030
+NRRL_1589_metscf_952	19849	31.8706232052	32.1820242833	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_953	19835	32.9518527855	30.4016637257	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_954	19832	35.4780153288	29.7283178701	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_955	19785	32.3629011878	28.9813495072	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_956	19709	34.6085544675	31.6358516414	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Apophysomyces	unclassified	90268
+NRRL_1589_metscf_957	19700	31.7055837563	30.6708121827	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus stolonifer	4846
+NRRL_1589_metscf_958	19659	32.4228088916	33.6977974465	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_959	19655	34.3881963877	29.5365555838	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_1589_metscf_960	19594	32.009798918	30.9331427988	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_961	19590	32.2460438999	34.1786115365	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_962	19551	35.1695565444	34.6915247302	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_963	19443	31.9600884637	29.5593272643	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor lusitanicus	29924
+NRRL_1589_metscf_964	19418	31.7746420847	31.28185189	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_965	19401	32.4107004794	28.2396268234	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_966	19353	33.2248230249	33.2855887976	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_967	19252	34.0639933513	29.9628090588	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Syncephalastraceae	Syncephalastrum	Syncephalastrum racemosum	13706
+NRRL_1589_metscf_968	19244	32.6907087924	27.9882560798	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Phycomycetaceae	Phycomyces	Phycomyces blakesleeanus	4837
+NRRL_1589_metscf_969	19236	31.1811187357	31.8211166563	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_970	19164	32.6601962012	29.8280108537	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_971	19141	31.3515490309	32.2102815945	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus stolonifer	4846
+NRRL_1589_metscf_972	19134	34.148635936	31.7203930177	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_973	18978	32.5956370534	31.985035304	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_974	18938	32.0783609674	30.5257682965	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Apophysomyces	Apophysomyces sp. BC1015	2184030
+NRRL_1589_metscf_975	18908	33.3879839221	31.2021895494	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_976	18835	33.7881603398	31.1838598354	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_1589_metscf_977	18810	34.3062200957	30.645348219	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_978	18728	32.5288338317	30.6373878684	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor plumbeus	97098
+NRRL_1589_metscf_979	18707	32.1911583899	33.4709467044	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_980	18697	33.4278226453	28.8410975023	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_981	18653	31.8072159974	30.3238085027	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_982	18639	32.6358710231	29.6920972155	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_983	18627	32.7427927202	33.495839373	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_1589_metscf_984	18619	38.0525269886	31.9421558623	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_985	18597	32.3815669194	31.8493305372	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_986	18574	33.6061160762	30.8247011952	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_987	18512	29.8995246327	31.3777549697	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_988	18469	32.416481672	32.2589744978	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_989	18460	32.6489707476	33.3594257855	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor plumbeus	97098
+NRRL_1589_metscf_990	18425	30.7571234735	30.5524559023	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor ambiguus	91626
+NRRL_1589_metscf_991	18418	32.7017048539	31.2125637963	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_1589_metscf_992	18365	31.5164715491	31.1056357201	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_1589_metscf_993	18352	32.2580645161	31.6713164778	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_994	18326	34.055440358	28.9012877878	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_995	18324	34.2174197773	28.0117878193	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+NRRL_1589_metscf_996	18293	29.574154048	29.5278521839	Eukaryota	Mucoromycota	unclassified	unclassified	unclassified	unclassified	unclassified	1913637
+NRRL_1589_metscf_997	18276	31.2978769972	32.2644998906	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_998	18257	32.7326504902	29.9486772197	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Apophysomyces	Apophysomyces ossiformis	679940
+NRRL_1589_metscf_999	18235	32.2292295037	30.1144502331	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_1000	18193	33.8866597043	30.3763535426	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_1001	18071	30.2086215483	31.8208732223	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Parasitella	Parasitella parasitica	35722
+NRRL_1589_metscf_1002	18048	31.5547429078	30.3339428191	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_1003	18038	33.2243042466	35.5909191706	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_1004	18035	32.3482118104	37.2904907125	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Lichtheimiaceae	Lichtheimia	unclassified	688353
+NRRL_1589_metscf_1005	18022	31.1619132172	28.0040506048	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Actibacterium	Actibacterium pelagium	2029103
+NRRL_1589_metscf_1006	18015	32.9725228976	30.4157646406	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1007	17984	32.5289145907	31.5176267794	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_1008	17971	33.3092204107	30.729007846	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1009	17968	32.7638023152	28.5637243989	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus stolonifer	4846
+NRRL_1589_metscf_1010	17804	33.9137272523	30.163614918	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_1011	17748	31.5190443994	29.8542934415	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor circinelloides	36080
+NRRL_1589_metscf_1012	17741	31.4469308382	30.2640775605	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1013	17715	34.372001129	28.1489697996	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1014	17711	29.727288126	31.6838687821	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_1015	17710	34.1276115189	29.5306606437	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_1016	17705	31.0251341429	32.0990680599	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_1589_metscf_1017	17689	33.9080784668	31.3178811691	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_1018	17671	34.3727010356	28.6360703978	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_1019	17666	32.7465187366	32.1337597645	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_1020	17665	32.4540050948	31.3860741579	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1021	17594	32.8691599409	32.3754120723	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Choanephoraceae	Choanephora	Choanephora cucurbitarum	101091
+NRRL_1589_metscf_1022	17563	32.3407162785	32.6923076923	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_1023	17554	32.5851657742	31.3253959212	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_1024	17540	34.7092360319	34.4574116306	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_1025	17505	33.0648386175	40.1251642388	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_1026	17485	32.3648841864	30.1775807835	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_1027	17484	32.7556623198	30.814516129	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_1028	17454	32.3306978343	31.1302853214	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1029	17444	32.8193074983	29.821543224	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_1030	17387	32.3345027894	32.1803646402	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1031	17357	32.5344241516	35.4016823184	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1032	17294	33.0577078756	30.9868740604	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_1033	17252	32.5933225133	31.6377811268	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1034	17244	31.8429598701	30.8956738576	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1035	17217	33.4204565255	30.2894232445	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_1036	17216	31.9760687732	30.280669145	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_1037	17174	34.2727378596	31.9892861302	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_1038	17102	33.6919658519	29.1340778856	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_1039	17081	33.8094959312	29.9937357298	Eukaryota	Mucoromycota	unclassified	unclassified	unclassified	unclassified	unclassified	1913637
+NRRL_1589_metscf_1040	17058	33.6733497479	30.1923437683	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_1041	17037	33.8850736632	32.5524446792	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_1042	17004	31.6807809927	31.0231122089	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1043	16986	35.2054633227	30.100730013	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1044	16968	32.4964639321	31.3793022159	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_1045	16960	34.0035377358	30.96875	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_1046	16855	32.1981607832	31.5954316227	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Syncephalastraceae	Syncephalastrum	Syncephalastrum racemosum	13706
+NRRL_1589_metscf_1047	16852	30.625445051	28.2870282459	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_1048	16841	32.1417968054	31.9448963838	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_1049	16822	31.4825823327	32.7648317679	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1050	16793	31.2630262609	31.4288691717	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1051	16782	32.2130854487	35.6198307711	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_1052	16760	33.2100238663	30.7173627685	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_1053	16753	32.4717960962	31.3730675103	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Phycomycetaceae	Phycomyces	Phycomyces blakesleeanus	4837
+NRRL_1589_metscf_1054	16697	31.9159130383	32.8342217165	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_1055	16695	30.3923330338	36.1511230907	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1056	16645	33.9681586062	32.5101231601	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1057	16641	33.2131482483	30.8476053122	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_1589_metscf_1058	16630	30.9681298857	28.2265784726	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	1
+NRRL_1589_metscf_1059	16462	34.6920179808	30.5036447576	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1060	16395	31.7230863068	30.8911253431	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_1061	16344	31.6446402349	30.7269946158	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1062	16334	33.506795641	51.7172768458	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_1063	16334	32.3558222113	30.5482429289	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_1064	16322	32.4898909447	32.3668055385	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_1065	16296	33.7997054492	33.5238708886	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Choanephoraceae	Choanephora	Choanephora cucurbitarum	101091
+NRRL_1589_metscf_1066	16263	30.5048269077	37.6681424091	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_1067	16263	33.4317161655	30.1145545102	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1068	16204	33.7077264873	34.6796470007	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1069	16187	34.1014394267	29.6555878174	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor plumbeus	97098
+NRRL_1589_metscf_1070	16169	31.0161420001	30.9051270951	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1071	16123	30.4223779694	30.8482912609	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_1072	16013	31.2558546181	32.5070255417	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1073	15991	34.3380651617	31.4376211619	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_1074	15971	35.3703587753	28.9214826874	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_1589_metscf_1075	15968	33.5921843687	30.8341683367	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_1076	15934	34.3479352328	29.8429145224	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor ambiguus	91626
+NRRL_1589_metscf_1077	15921	31.1726650336	31.23616607	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_1078	15918	30.6885287096	29.8923859781	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_1079	15877	30.837059898	30.9531397619	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1080	15825	32.1769352291	27.499399684	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+NRRL_1589_metscf_1081	15789	32.5859775793	28.9411615682	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+NRRL_1589_metscf_1082	15777	31.995943462	29.0754262534	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1083	15758	31.8758725727	30.9879426323	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_1084	15722	33.5898740618	28.9898867829	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1085	15666	33.2950338312	28.6757947147	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1086	15649	33.050035146	30.7093744009	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_1589_metscf_1087	15618	30.6313228326	32.1244717634	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor circinatus	2054153
+NRRL_1589_metscf_1088	15598	34.280035902	29.3000384665	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor circinelloides	36080
+NRRL_1589_metscf_1089	15587	33.1430037852	32.2927439533	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1090	15581	32.4369424299	32.1653295681	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Parasitella	Parasitella parasitica	35722
+NRRL_1589_metscf_1091	15574	33.7100295364	33.4237832285	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_1092	15564	32.1189925469	34.0433693138	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1093	15563	32.4102036882	32.4669408212	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_1094	15530	37.4758531874	28.4480360592	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1095	15506	32.4197084999	30.7981426545	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_1096	15494	31.0249128695	31.8830515038	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_1097	15459	33.249239925	30.4247363995	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_1098	15417	33.3917104495	30.7199844328	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_1099	15401	33.3484838647	32.4486721641	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_1100	15393	31.1440265056	29.1589033976	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_1101	15364	31.9317885967	28.5202421244	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1102	15344	35.9749739312	26.4066736184	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_1103	15259	33.960285733	29.4702798349	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1104	15243	31.9425309978	29.9427934134	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor circinatus	2054153
+NRRL_1589_metscf_1105	15242	33.5061015615	32.4372785724	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Apophysomyces	unclassified	90268
+NRRL_1589_metscf_1106	15230	32.6986211425	31.7936309915	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_1107	15227	33.6376173902	33.3074144612	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1108	15219	32.5974111308	30.1054602799	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1109	15212	32.362608467	30.0390481199	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_1110	15183	31.1532635184	30.6884015017	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1111	15153	35.2603444862	31.2140170263	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus azygosporus	86630
+NRRL_1589_metscf_1112	15136	32.2344080338	30.1515591966	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_1113	15092	31.3609859528	30.1787039491	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1114	15083	32.5863554996	33.190678247	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_1589_metscf_1115	15081	32.1928254095	31.046946489	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_1589_metscf_1116	15059	32.3461053191	34.5115877548	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_1117	14988	31.8855084067	32.3253269282	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_1118	14861	33.8537110558	31.0198506157	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_1119	14859	31.2134060166	29.234201494	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1120	14855	30.696735106	32.254325143	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_1121	14807	33.4098737084	31.075099615	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1122	14767	32.7012934245	30.300331821	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_1123	14739	35.0430829771	31.5965805007	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1124	14720	31.9157608696	30.0015625	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_1589_metscf_1125	14718	33.5303709743	31.5987905965	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_1126	14678	33.7443793432	30.055934051	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_1127	14672	35.0531624864	30.8899945474	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_1128	14665	28.8851005796	32.2210023866	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+NRRL_1589_metscf_1129	14622	33.4564355081	30.3029681302	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1130	14612	32.55543389	27.6130577607	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_1131	14572	31.3752401867	28.7970079605	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1132	14547	34.0345088334	32.0594624321	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_1133	14526	31.970260223	32.1934462343	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_1134	14507	30.0682429172	30.428069208	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_1135	14494	32.779080999	33.6019732303	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_1136	14460	33.8727524205	31.1389349931	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_1137	14438	30.3089070508	28.4800526389	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1138	14404	36.2885309636	29.0188142183	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_1139	14390	32.105628909	32.4763029882	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_1140	14346	31.2212463404	33.2071657605	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Parasitella	Parasitella parasitica	35722
+NRRL_1589_metscf_1141	14334	31.4148179154	31.8703781219	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Parasitella	Parasitella parasitica	35722
+NRRL_1589_metscf_1142	14285	31.8725936297	31.0217710886	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1143	14281	32.7217981934	27.4958336251	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+NRRL_1589_metscf_1144	14243	31.0047040652	29.9137822088	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1145	14241	34.0987290218	31.5481356646	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Liberibacter	Liberibacter crescens	1273132
+NRRL_1589_metscf_1146	14144	30.4157239819	28.8100961538	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_1147	14125	34.4920353982	32.1685663717	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1148	14121	34.8346434388	32.1224417534	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_1149	14096	34.9602724177	28.2604284904	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_1150	14086	31.4425670879	29.5963367883	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor circinelloides	36080
+NRRL_1589_metscf_1151	14061	31.7473863879	31.874617737	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_1152	14048	32.3177676538	32.0394362187	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_1153	14033	34.2977267869	67.7837953396	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_1154	14018	32.5438721644	31.1579397917	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1155	13968	32.8608247423	33.4821019473	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_1589_metscf_1156	13949	31.6080005735	30.4638325328	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_1589_metscf_1157	13939	31.8961188034	32.0685128058	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1158	13931	35.6614744096	31.4036321872	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1159	13931	32.7686454669	31.8205441103	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Apophysomyces	Apophysomyces ossiformis	679940
+NRRL_1589_metscf_1160	13898	31.7887465822	29.5279896388	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1161	13897	33.1654313881	30.2691228323	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Parasitella	Parasitella parasitica	35722
+NRRL_1589_metscf_1162	13865	34.0569780022	29.8355571583	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor ambiguus	91626
+NRRL_1589_metscf_1163	13823	34.5872820661	29.5670983144	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_1589_metscf_1164	13810	34.6705286025	29.2318609703	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_1165	13778	33.9309043403	30.8324865728	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1166	13717	30.5022964205	30.7436757308	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1167	13710	33.2676878191	27.834865062	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1168	13701	32.1071454638	31.7995766732	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_1169	13678	33.9523322123	23.3181751718	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1170	13675	31.9561243144	30.5145886654	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1171	13674	35.0738628053	32.9585344449	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_1172	13667	32.3479915124	34.0147801273	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1173	13666	32.9796575443	31.368066735	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_1174	13664	32.3258196721	30.8080357143	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_1589_metscf_1175	13632	32.2769953052	29.9754254695	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_1176	13603	32.1767257223	29.9043593325	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_1177	13571	30.6609682411	30.8849016285	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_1178	13547	33.6384439359	31.341551635	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1179	13527	32.7049604495	28.8463073852	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1180	13521	30.2566378226	30.8618445381	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+NRRL_1589_metscf_1181	13494	32.9479768786	45.4602786424	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_1182	13471	33.5164427288	29.8117437458	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Parasitella	Parasitella parasitica	35722
+NRRL_1589_metscf_1183	13371	32.0245307008	31.0385161918	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Parasitella	Parasitella parasitica	35722
+NRRL_1589_metscf_1184	13364	31.7494762047	30.5650254415	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_1185	13356	34.3665768194	58.2592842168	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1186	13350	32.5393258427	31.3119850187	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+NRRL_1589_metscf_1187	13299	29.8217911121	30.9623279946	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+NRRL_1589_metscf_1188	13292	32.1020162504	31.2380379175	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor plumbeus	97098
+NRRL_1589_metscf_1189	13244	37.6170341287	29.8599365751	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Parasitella	Parasitella parasitica	35722
+NRRL_1589_metscf_1190	13233	32.0184387516	31.3096803446	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_1191	13129	31.7465153477	27.6758321274	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1192	13120	33.6661585366	29.953429878	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_1193	13116	33.6001829826	27.1238182373	Bacteria	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	2
+NRRL_1589_metscf_1194	13070	32.3488905891	30.6171384851	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Apophysomyces	Apophysomyces ossiformis	679940
+NRRL_1589_metscf_1195	13019	32.7982179891	33.3017128812	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1196	12971	30.5527715673	30.8592244237	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_1197	12953	32.6024859106	29.6843974369	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_1198	12924	29.9907149489	31.4889353141	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_1199	12923	35.1079470711	31.3867523021	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1200	12842	33.4215854228	32.1126771531	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_1201	12829	31.3352560605	30.143503001	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_1202	12805	34.5568137446	31.7130027333	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1203	12792	33.2786116323	30.8219981238	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Parasitella	Parasitella parasitica	35722
+NRRL_1589_metscf_1204	12775	32.7045009785	49.7464579256	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_1589_metscf_1205	12769	32.7511942987	31.0122954029	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_1206	12756	30.9187833177	31.5792568203	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1207	12743	34.5993878992	35.0565800832	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_1589_metscf_1208	12737	32.8334772709	35.0713668839	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_1209	12737	32.7549658475	31.0720734867	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1210	12716	33.9886756842	30.9887543253	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1211	12702	33.7427176823	31.4048968666	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1212	12697	34.5514688509	30.8252343073	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_1213	12669	30.9022022259	46.4491277922	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor plumbeus	97098
+NRRL_1589_metscf_1214	12644	31.7225561531	28.3637298323	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+NRRL_1589_metscf_1215	12633	32.1776300166	30.5309111058	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_1216	12605	32.6457754859	31.6113447045	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor lusitanicus	29924
+NRRL_1589_metscf_1217	12604	31.4741351952	32.2092986354	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_1218	12554	34.7220009559	29.5515373586	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_1219	12492	32.7009285943	31.7817002882	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1220	12489	35.3911442069	88.9597245576	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1221	12472	32.152020526	27.0974983964	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+NRRL_1589_metscf_1222	12397	32.4675324675	29.571025248	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_1589_metscf_1223	12376	34.0820943762	30.8257918552	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_1589_metscf_1224	12372	36.5583575816	58.3703524087	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_1225	12344	30.7112767336	31.8880427738	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_1226	12316	31.430659305	39.1393309516	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_1227	12315	30.9541209907	31.0473406415	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1228	12299	36.0354500366	25.8464915847	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_1229	12295	32.1919479463	31.2766165108	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_1230	12290	33.1733116355	31.0525630594	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_1589_metscf_1231	12263	32.993557857	41.5477452499	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor circinatus	2054153
+NRRL_1589_metscf_1232	12239	30.9992646458	26.9633139962	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+NRRL_1589_metscf_1233	12179	32.4492979719	31.4341078906	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1234	12142	33.5117773019	32.2393345413	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus stolonifer	4846
+NRRL_1589_metscf_1235	12133	31.6162531938	34.0841506635	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor plumbeus	97098
+NRRL_1589_metscf_1236	12125	33.0556701031	33.2034639175	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_1589_metscf_1237	12056	32.7637690776	32.550928998	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+NRRL_1589_metscf_1238	12053	33.9085704804	30.2165435991	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_1239	11874	32.7606535287	46.7267138285	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Choanephoraceae	Choanephora	Choanephora cucurbitarum	101091
+NRRL_1589_metscf_1240	11871	31.269480246	30.2271080785	Eukaryota	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	2759
+NRRL_1589_metscf_1241	11821	32.8314017427	45.1915235598	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1242	11812	33.4744327802	30.2357771758	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1243	11761	34.1892696199	33.019641187	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_1244	11738	30.3629238371	28.7961322201	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	1
+NRRL_1589_metscf_1245	11710	30.4099060632	26.6426131512	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	1
+NRRL_1589_metscf_1246	11686	30.463802841	35.4492555194	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Choanephoraceae	Choanephora	Choanephora cucurbitarum	101091
+NRRL_1589_metscf_1247	11626	32.4187166695	31.580079133	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1248	11584	34.7203038674	30.2342023481	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_1249	11576	33.3275742916	29.9458362129	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1250	11501	32.1276410747	31.3103208417	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_1251	11414	32.6441212546	32.688540389	Bacteria	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Neisseria	Neisseria flavescens	484
+NRRL_1589_metscf_1252	11271	32.4283559578	30.2163073374	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_1253	11261	34.5795222449	33.1406624634	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_1589_metscf_1254	11257	31.6336501732	31.6951230346	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_1255	11170	31.5040286482	33.5587287377	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_1256	11146	32.0742867396	32.3089897721	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_1257	11145	32.8847016599	33.1759533423	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_1258	11145	31.5029161059	31.6653207716	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1259	11117	34.1459026716	33.6833678151	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_1260	11093	32.651221491	31.9052555666	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor plumbeus	97098
+NRRL_1589_metscf_1261	11046	31.4321926489	25.3978815861	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor plumbeus	97098
+NRRL_1589_metscf_1262	11039	33.7439985506	31.0110517257	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_1263	11036	32.946719826	31.506705328	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_1264	10910	30.1924839597	27.8110907424	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+NRRL_1589_metscf_1265	10896	31.2316446402	30.5844346549	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	1
+NRRL_1589_metscf_1266	10891	34.0648241667	37.7535579837	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+NRRL_1589_metscf_1267	10876	32.08900331	30.5866127253	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1268	10867	31.7750989233	31.3765528665	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_1269	10856	32.3323507738	30.5291083272	Eukaryota	Mucoromycota	Mortierellomycetes	Mortierellales	Mortierellaceae	Entomortierella	Entomortierella beljakovae	979673
+NRRL_1589_metscf_1270	10837	33.3487127434	29.4838977577	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_1271	10819	34.8091320824	31.1063869119	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_1272	10773	31.8574213311	30.4320987654	Eukaryota	Mucoromycota	unclassified	unclassified	unclassified	unclassified	unclassified	1913637
+NRRL_1589_metscf_1273	10756	32.233172183	34.8439940498	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_1274	10751	30.3041577528	30.9020556227	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1275	10683	31.8075446972	32.4555836376	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1276	10666	33.8177386087	45.2930808176	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_1277	10653	34.3377452361	30.5366563409	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1278	10636	32.4558104551	29.5569763069	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1279	10547	32.3314686641	31.9822698398	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_1589_metscf_1280	10515	30.8987161198	29.1736566809	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_1281	10468	29.3943446695	30.1837982423	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1282	10442	32.6470024899	44.2508140203	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1283	10426	31.6804143487	29.6388835603	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1589_metscf_1284	10422	32.6904624832	29.9878142391	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_1589_metscf_1285	10361	32.9022295145	33.713541164	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_1286	10343	31.9733152857	32.2850236875	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+NRRL_1589_metscf_1287	10265	31.5830491963	31.6961519727	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1589_metscf_1288	10265	32.4208475402	28.684169508	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_1289	10231	30.8962955723	34.200273678	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+NRRL_1589_metscf_1290	10198	32.4965679545	31.3678172191	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+NRRL_1589_metscf_1291	10188	29.3286219081	31.2944640754	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Parasitella	Parasitella parasitica	35722
+NRRL_1589_metscf_1292	10153	31.5670245248	31.5643652123	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+NRRL_1589_metscf_1293	10132	31.2475325701	31.8198776155	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_1294	10130	32.4086870681	29.3912142152	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_1589_metscf_1295	10058	34.2314575462	29.9918472857	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_1589_metscf_1296	10031	33.4562855149	30.3544013558	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_1297	10026	32.6152004788	30.9378615599	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_1298	10010	35.1448551449	41.6205794206	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1589_metscf_1299	10009	35.4281146968	30.9682285943	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830

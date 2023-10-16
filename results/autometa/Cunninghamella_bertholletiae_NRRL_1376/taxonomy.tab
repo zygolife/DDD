@@ -1,0 +1,931 @@
+contig	length	gc	cov	kingdom	phylum	class	order	family	genus	species	taxid
+NRRL_1376_plascf_1_covcut_91	36069	35.1992015304	463.199451052	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_1376_plascf_1_covcut_0	38452	28.2664100697	572.052923125	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_plascf_2_covcut_0	36139	35.1891308559	460.371039597	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_1376_plascf_3_covcut_0	13836	22.2463139636	23.626120266	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_1	178090	24.7447919591	65.0977595598	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_2	164644	24.4205680134	57.4821372173	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_3	161280	25.6510416667	37.708624752	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_4	132263	24.9019000023	61.7890415309	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_5	124126	24.3156147785	58.8586516926	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_6	123677	23.5557136735	53.5194498573	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_7	119212	24.9018555179	32.5252323592	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_8	118754	24.680431817	60.9980716439	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_9	115492	24.6268139785	55.4324022443	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_10	114575	25.7778747545	67.7691904866	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_11	109120	24.3887463343	59.480388563	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_12	106534	26.3652918317	74.173784895	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_13	104690	24.7091412742	27.7346069348	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_14	99815	24.814907579	62.686500025	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_15	95470	24.5626898502	55.4956845082	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_16	95295	27.1462301275	83.4116375466	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_17	94696	23.9006927431	59.449902847	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_18	94609	24.167891004	56.713832722	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_19	93859	23.3573764903	45.152856945	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_20	86827	25.3354371336	67.0524030543	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_21	84799	24.5816578026	58.1678085826	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_22	84696	24.4072919618	31.6983564749	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_23	82962	25.9926231287	71.8811986211	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_24	81582	23.9930376799	56.1622048981	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_25	80461	23.7058947813	52.0556542921	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_26	80434	23.7412039685	53.3731506577	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_27	79440	24.4637462236	63.2254657603	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_28	79185	23.8315337501	53.8734608827	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_29	78143	24.9260970272	58.8232599209	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_30	77921	25.1036306002	66.2075692047	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_31	76560	24.4265935214	58.1270245559	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_32	76126	25.5576281428	67.0942253632	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_33	76008	23.0554678455	43.1296310915	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_34	75368	25.3887591551	65.9989120051	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_35	74273	25.3726118509	63.2972412586	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_36	72769	24.7330594072	59.1855872693	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_37	72227	23.6961247179	56.0710399158	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_38	70923	24.7296363662	62.6498174076	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_39	70510	24.1965678627	58.6311445185	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_40	70415	24.2703969325	51.9382233899	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_41	70346	23.3460324681	52.466750064	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_42	69836	24.5059854516	33.345380606	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_43	69685	23.3292674177	50.2757408338	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_44	69552	23.7534506556	50.4407781228	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_45	68924	24.7402936568	65.1577389589	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_46	68894	23.3474613174	50.1876796238	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_47	68583	25.6448391001	61.5742530948	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_48	67940	25.0029437739	60.6067265234	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_49	67076	23.7312898801	50.2754487447	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_50	66720	24.1441846523	55.3223021583	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_51	66116	24.5931393309	63.4949785226	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_52	65404	23.498562779	57.7387315761	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_53	65352	24.617456237	65.2981240054	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_54	65216	25.1150024534	70.0262512267	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_55	65097	25.5157687758	83.2266463892	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_56	64930	24.6064993069	60.2424149084	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_57	63966	26.2029828346	63.9899008848	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_58	63797	24.2472216562	60.7435772842	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_59	62966	23.7620303021	57.9407299177	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_60	62841	24.4696933531	60.0345475088	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_61	62436	24.2696521238	56.4517425844	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_62	62056	24.7679515277	63.2731887328	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_63	61838	24.5480125489	63.8640318251	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_64	61712	27.2070261862	79.1486906922	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_65	61478	23.9874426624	52.2844594814	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_66	61471	24.1918953653	62.6749686844	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_67	61202	24.9877454985	70.9033528316	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_68	61173	23.3926732382	50.1334739182	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_69	61109	23.7510023074	49.8091606801	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_70	60223	24.2930441858	55.4158378028	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_71	59533	23.5415651823	52.3553995263	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_72	59507	24.4660292066	65.8469927908	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_73	59044	25.5368877447	63.112441569	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_74	58874	23.9834222237	28.768658491	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_75	58690	23.9291191004	48.7304310785	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_76	58651	27.4061823328	79.7718879473	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_77	58054	24.5805629242	62.6941985048	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_78	58048	24.269570011	58.6910487872	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_79	57658	24.9054771237	61.8352873842	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_80	57309	24.6087002042	72.4435603483	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_81	57295	24.1836111354	56.4524653111	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_82	57095	24.925124792	63.1329363342	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_83	56926	24.5564416962	59.6124617925	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_84	56531	24.1053581221	58.6286462295	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_85	56194	24.6681140335	64.3217781258	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_86	56164	24.9252190015	59.9680756356	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_87	56105	24.3703769717	51.9163710899	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_88	56080	24.1886590585	58.3784415121	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_89	55927	23.7684839165	49.4817529994	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_90	55687	24.3485912331	59.4478424049	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_91	55574	22.5914996221	49.6871918523	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_92	55286	22.9009152407	50.8356726839	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_93	54872	25.2751858872	62.9646996647	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_94	54756	24.6292643729	57.2138943677	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_1376_metscf_95	54615	23.2042479172	51.210747963	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_96	54488	25.0532227279	58.9563206578	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_97	54414	25.118535671	69.5660859338	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_98	54303	24.7315986225	64.7090584314	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_99	54194	23.7609329446	52.5605048529	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_100	53899	24.4475778771	57.8320748066	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_101	53861	24.6374928056	59.7764430664	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_102	53730	23.8135120045	54.7737390657	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_103	53655	23.8673003448	45.9891342839	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+NRRL_1376_metscf_104	53636	24.7576254754	60.5207323439	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_105	53414	24.4711124424	60.5989440971	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_106	53302	23.6707815842	61.2930471652	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_107	53287	25.8768555182	65.1811886576	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_108	53228	24.8741263996	60.4177312693	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_109	53178	23.7748693069	60.7657866035	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Syncephalastraceae	Syncephalastrum	Syncephalastrum racemosum	13706
+NRRL_1376_metscf_110	52996	25.3736131029	70.1268963695	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_111	52698	23.3253633914	54.7011271775	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_112	52542	25.756537627	76.9267252864	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_113	52375	25.2200477327	64.454071599	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_114	52034	26.219395011	70.5541953338	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Cunninghamella	Cunninghamella elegans	4853
+NRRL_1376_metscf_115	51942	24.7083285203	63.0125524624	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_116	51890	22.9177105415	39.8962805936	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Apophysomyces	Apophysomyces sp. BC1015	2184030
+NRRL_1376_metscf_117	51782	23.4965818238	50.761152524	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_118	51738	24.1176697978	56.5473346476	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_119	51654	25.5759476517	67.2718860108	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_120	51328	23.5914120948	49.2739440461	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_121	51063	24.2523941014	56.6257564185	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_122	51006	25.0382307964	65.5634827275	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_123	50536	27.9424568624	84.2459434858	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_124	50382	23.9807867889	53.3667579691	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_125	50192	23.7388428435	53.4794987249	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_126	50091	24.8867061947	62.5993292208	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_127	50058	25.092892245	58.7599984019	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_128	49960	27.7502001601	93.3201961569	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_129	49909	24.2020477269	56.79592859	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_130	49853	23.1099432331	50.4067358033	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_131	49789	25.674345739	73.8002972544	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_132	48883	25.1273448847	59.5112206698	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_133	48149	24.6360256703	58.7041683109	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_134	48116	24.5219885277	56.814573115	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_135	47872	23.3518549465	46.8799089238	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_136	47697	25.2950919345	65.3633142546	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_137	47531	24.5629168332	68.3953630262	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_138	47437	26.0155574762	71.9558994034	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_139	47294	23.761999408	47.8533852074	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_140	47015	25.4323088376	65.1932149314	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_141	46641	25.5097446453	67.7126991274	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_142	46639	24.2651000236	58.7099423229	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_143	46544	25.4920075627	63.1751675834	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_144	46495	25.0155930745	58.9101193677	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_145	46477	22.9984723627	54.2661961831	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_146	46392	25.0905328505	65.7034618038	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_147	46246	23.8939583964	29.7117804783	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_148	46113	23.802398456	53.7935072539	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_149	46040	24.8783666377	66.3053649001	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_150	45726	23.9601102218	53.6080566855	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_151	45711	24.7992824484	65.3863402682	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_152	45634	24.4642152781	57.5822632248	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_153	45334	24.8356641814	71.0679181189	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_154	45192	25.4469817667	68.8592671269	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_155	44772	24.9396944519	61.3367506477	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_156	44723	25.0408067437	60.3058157995	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_157	44692	27.8908976998	93.5679092455	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_158	44533	28.3856915097	93.6599151191	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_159	44467	24.2067150921	56.9033215643	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_160	44439	27.0663156237	83.8985125678	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_161	44416	24.680295389	54.4906565202	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_162	44228	23.8627114045	55.103056887	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_163	44208	25.4591929063	66.8557274701	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_164	44129	22.7446803689	32.5781912121	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_165	44058	24.4722865314	63.0251486677	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_166	44035	24.9801294425	63.2039286931	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_167	43890	26.2588288904	72.9098200046	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_168	43842	25.1083435975	62.6322476164	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_169	43493	23.8935001035	52.1502540639	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Cunninghamella	Cunninghamella elegans	4853
+NRRL_1376_metscf_170	43387	24.3091248531	60.3859220504	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_171	43187	24.0697432098	56.3533007618	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_172	42704	24.5550768078	64.7651508055	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_173	42703	24.288691661	54.9139873077	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_174	42666	24.3519429991	63.7368865139	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_175	42593	26.2460967765	75.6531354917	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_176	42578	23.7869322185	52.8065432853	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_177	42548	24.5604963806	47.2385541036	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_178	42373	25.1858494796	64.0760389871	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_179	42018	23.7969441668	54.1397258318	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_180	42000	24.6023809524	57.3841428571	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_181	41926	24.8246911225	55.5916137957	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_182	41799	24.4718773176	58.733390751	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Hesseltinella	Hesseltinella vesiculosa	101127
+NRRL_1376_metscf_183	41758	23.7224004981	65.8431677762	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_184	41690	24.4351163349	60.3007675702	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_185	41690	24.3823458863	60.1224034541	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_186	41646	23.9470777506	67.7354848005	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_187	41524	25.0216742125	56.2127685194	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_188	41433	26.6695629088	78.7976733522	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_189	41196	27.4783959608	84.8389892223	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_190	41164	22.505101545	38.723544845	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_191	41080	25.6158714703	61.9003651412	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_192	41001	23.1287041779	35.9420014146	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_193	40949	26.0470341156	71.3354660675	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_194	40854	23.7259509473	53.4112204435	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_195	40783	24.691660741	63.2648162224	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_196	40764	25.0171720145	50.1936512609	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_197	40762	25.7200333644	64.3184829007	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_198	40715	25.1651725408	57.6587007245	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_199	40641	22.8365443764	43.3005585492	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_200	40547	25.3310972452	59.3377808469	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_201	40490	24.3986169425	55.8690540874	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_202	40379	23.9134203423	52.1732831422	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_203	40347	27.2089622525	85.7579002156	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_204	40281	24.99441424	63.6066135399	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_205	40126	24.6722823107	57.8555051587	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_206	40040	23.6213786214	51.0056443556	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_207	39927	24.5197485411	53.3267713577	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_208	39835	24.7822266851	63.825053345	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_209	39808	24.6483118971	62.8822347267	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_210	39756	25.6388972734	70.5939732367	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_211	39741	26.0637628645	63.9666591178	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_212	39681	23.8779264635	54.3579546886	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_213	39674	23.9401119121	55.507964914	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_214	39649	24.0989684481	55.850765467	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_215	39568	24.777598059	62.9006014962	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_216	39366	25.585530661	70.2818167962	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_217	39214	25.0522772479	63.0852246647	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_218	39184	25.4823397305	56.7462229481	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_219	39087	23.6165477013	54.5107068846	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_220	39082	24.0084949593	64.2925899391	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_221	38846	24.7696030479	74.6240796993	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_222	38717	26.0299093421	71.1754268151	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_223	38616	24.8731095919	61.1493940336	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_224	38454	24.3459718105	66.3766318198	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_225	38423	23.6420893736	61.4740389871	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_226	38373	23.6390170172	51.8817918849	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_227	38307	26.2040880257	71.6230192915	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_228	38300	25.0835509138	56.6079895561	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_229	38286	25.0378728517	64.0311863344	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_230	38186	23.9747551459	59.6677840046	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_231	38093	23.9886593337	57.4838159242	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_232	38068	25.0472838079	68.0379583902	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_233	38022	25.111777392	77.4695176477	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_234	37970	25.7413747696	68.7201474849	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_235	37923	22.5641431321	48.5674656541	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Hesseltinella	Hesseltinella vesiculosa	101127
+NRRL_1376_metscf_236	37851	23.415497609	48.9402921984	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Hesseltinella	Hesseltinella vesiculosa	101127
+NRRL_1376_metscf_237	37811	25.1117399699	58.9426621883	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_238	37809	24.163558941	50.0706181068	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_239	37759	24.8735400832	56.7186101327	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_240	37715	24.687790004	57.4598435636	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_241	37646	22.5628220794	34.6908303671	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_242	37475	23.3435623749	54.9545830554	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_243	37444	24.5059288538	72.1700940071	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_244	37259	22.995786253	50.0329584798	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_245	37231	23.977330719	45.033171282	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_246	37134	23.0597296278	52.5163731351	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_247	37095	24.0625421216	58.1804286292	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_248	37083	27.9373297738	94.6039964404	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_249	37052	23.8637590413	49.6627712404	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_250	36833	25.105204572	67.7184589906	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_251	36768	23.8658616188	57.0016046562	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_252	36710	23.4895123944	47.4052301825	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_253	36674	25.1431531875	62.2679827671	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_254	36295	24.8381319741	62.4856591817	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_255	36246	25.2883076753	62.0957347018	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_256	36189	35.0051120506	430.708474951	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_1376_metscf_257	36004	24.9250083324	55.8395733807	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_258	36002	24.0153324815	56.4499194489	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_259	35968	23.1539145907	57.8757784698	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor ambiguus	91626
+NRRL_1376_metscf_260	35955	23.0677235433	39.2218606592	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_261	35906	26.357711803	71.471564641	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_262	35664	23.9961866308	61.07489345	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_263	35484	24.1235486416	55.5407507609	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_264	35471	23.6362098616	69.1438076175	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_265	35321	22.3323235469	38.8487585289	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_266	35284	24.6173903186	56.6848996712	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_267	35252	24.3191875638	67.767502553	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_268	35243	24.1296143915	53.4762080413	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_269	35173	25.010661587	56.261564268	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_270	34952	25.2718013275	70.5069810025	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_271	34903	26.3587657221	76.1611036301	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_272	34848	23.18640955	43.3921889348	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_273	34842	24.1289248608	67.9778715344	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_274	34841	23.2857839901	52.1792715479	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_1376_metscf_275	34799	23.8167763441	53.989080146	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_276	34796	25.7357167491	76.7251120818	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_277	34779	25.5499008022	71.5963943759	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_278	34723	24.6695274026	62.2859199954	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_279	34662	24.6523570481	57.2511972766	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_280	34518	24.0657048496	59.5297815632	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_281	34413	25.5368610699	64.7030192079	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_282	34341	23.7820680819	63.6938935966	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_283	34314	27.0560121233	79.7111091683	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_284	34311	23.7795459182	51.765119058	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_285	34196	23.9267750614	58.6586442859	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_286	34171	23.5784729742	50.0529103626	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_287	34033	24.570270032	51.4230599712	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_288	33929	25.1259984084	64.4387691945	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_289	33914	24.0402193784	49.3912838356	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_290	33908	23.8911171405	52.5803055326	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_291	33815	25.9766375869	76.0322342156	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_292	33625	25.5762081784	66.1930111524	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Hesseltinella	Hesseltinella vesiculosa	101127
+NRRL_1376_metscf_293	33373	21.7690947772	39.8630329907	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_294	33362	21.3836100953	18.464510521	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+NRRL_1376_metscf_295	33261	25.9072186645	69.4108715914	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_296	33207	25.4916132141	64.758063059	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_297	33148	24.0979847955	55.1264329673	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_298	33142	28.6072053588	92.3041457969	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_299	32986	22.8096768326	50.6007700236	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_300	32958	23.5208447115	54.4885611991	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_301	32916	25.6106452789	70.4728703366	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_302	32845	24.4085857817	63.0776373877	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_303	32799	22.8543553157	47.1832677826	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_304	32775	23.6125095347	47.8945537757	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_305	32715	24.4841815681	54.939538438	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_306	32685	24.5005354138	65.3118861863	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_307	32660	25.0244947949	57.1281383956	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_308	32600	25.2668711656	67.8746625767	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_309	32421	25.6901391074	70.9530859628	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_310	32318	25.3109722136	66.3276192834	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Hesseltinella	Hesseltinella vesiculosa	101127
+NRRL_1376_metscf_311	32246	24.3875209328	56.7739874713	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_312	32209	26.5081188488	86.6201682759	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_313	32141	24.5480850005	57.5175943499	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_314	32126	24.0459440951	61.8916765237	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_315	31834	24.8005277376	62.1696299554	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_316	31831	23.5650780685	49.3232383525	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Cunninghamella	Cunninghamella elegans	4853
+NRRL_1376_metscf_317	31646	24.0915123554	61.7115591228	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1376_metscf_318	31628	23.5076514481	52.3120968762	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_319	31515	22.6558781533	43.713977471	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_320	31451	24.107341579	55.5116212521	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_321	31335	24.2604116802	54.7784266794	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_322	31231	24.6165668727	59.3438570651	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_323	31191	24.3627969607	52.5400275721	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_324	31153	24.0490482458	60.2566045004	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_325	31105	25.6775438032	69.8905963671	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_326	31081	23.7315401692	46.3761783726	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_327	31079	25.1359438849	75.4159721999	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_328	31005	24.9153362361	63.8799225931	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_329	30971	24.2097445998	64.4184559749	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_330	30963	22.610858121	50.1063850402	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_331	30731	23.8000715889	48.4539715597	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_332	30729	25.5068502066	58.525887598	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_333	30722	24.7119328169	58.3094525096	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_334	30685	23.3697246212	46.8943131823	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_335	30677	24.5851941194	60.6401212635	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_336	30674	23.9192801721	57.5823498729	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_337	30635	23.1271421577	56.5750285621	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_338	30630	22.8436173686	55.8419196866	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_339	30552	22.5255302435	34.8481932443	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Apophysomyces	Apophysomyces ossiformis	679940
+NRRL_1376_metscf_340	30531	24.2474861616	69.6138351184	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_341	30421	25.1635383452	64.4889714342	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_342	30271	23.1112285686	52.8342638169	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_343	30271	22.9658749298	39.5579927984	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_344	30208	24.0035752119	55.5025158898	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_345	30164	24.5226097335	56.5785704814	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_346	30119	23.4768750623	51.3453301902	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_347	30102	25.7557637366	61.9778087835	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_348	29965	24.9858167863	62.3160687469	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_349	29961	24.7154634358	67.1811688528	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_350	29957	23.1097907	53.1199719598	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_351	29871	24.8669277895	76.3462220883	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_352	29780	24.2075218267	59.8175285426	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_353	29719	24.3144116558	52.1833843669	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_354	29632	24.5207883369	62.0212270518	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_355	29593	24.0969148109	59.4513905315	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_356	29489	23.0085794703	50.454338906	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_357	29420	23.1475186948	50.8596872876	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_358	29343	25.0110758954	63.7769825853	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_359	29323	24.1585103843	61.1909081608	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_360	29206	23.3856056975	25.3071629117	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_361	29191	27.4331129458	89.590079134	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_362	29142	22.6683137739	57.9651362295	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_363	29132	25.8547301936	82.4706851572	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Choanephoraceae	Choanephora	Choanephora cucurbitarum	101091
+NRRL_1376_metscf_364	29070	24.0970072239	69.6745098039	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_365	29070	25.307877537	64.8180942552	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_366	29070	24.4375644995	60.2624699002	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_367	29053	25.1264929611	56.2858913021	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_368	28974	24.4253468627	66.4192379375	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_369	28956	23.5115347424	50.3925265921	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_370	28948	23.7253005389	63.9267306895	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_371	28921	23.4155112202	56.0484423084	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_372	28872	25.2182044888	58.0668814076	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_373	28775	23.8053866203	65.934283232	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_374	28741	22.8871646776	49.7321248391	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_375	28724	24.7249686673	68.6845495056	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_376	28693	24.3125500993	56.7079078521	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_377	28680	23.8772663877	54.2993375174	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_378	28499	24.1271623566	51.2192357627	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_379	28474	23.3405914167	26.1848352883	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_380	28462	25.3952638606	61.1758836343	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_381	28458	22.6860636728	49.6610794856	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_382	28381	23.487544484	54.8891511927	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_383	28271	24.866470942	60.1068232464	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_384	28207	23.2460027653	53.1666253058	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_385	28178	25.6086308468	63.1196323373	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_386	28158	25.832800625	71.6895020953	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_387	28155	25.4342035162	61.1836618718	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_388	28051	24.4411963923	57.4611600299	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_389	27953	24.9597538726	69.4310449683	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_390	27764	23.9302694136	53.6315012246	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	unclassified	unclassified	4851
+NRRL_1376_metscf_391	27750	26.4036036036	60.7939459459	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_392	27710	26.7340310357	85.0014435222	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_393	27681	22.8351576894	44.2943896536	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_394	27646	25.1971352094	74.4474788396	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_395	27605	24.6006158305	67.1978264807	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_396	27573	23.7696297102	54.0138541327	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_397	27536	24.7094712377	55.4461069146	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_398	27486	23.4373863058	62.5188095758	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Choanephoraceae	Choanephora	Choanephora cucurbitarum	101091
+NRRL_1376_metscf_399	27445	25.2067771907	63.0500637639	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_400	27370	25.7983193277	72.9031786628	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_401	27315	23.664653121	62.3927512356	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_402	27298	23.2288079713	58.2169756026	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_403	27172	22.4274988959	50.8420064773	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_404	27150	25.0018416206	67.8223941068	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_405	27048	24.8521147589	60.6083629104	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_406	27034	23.9402234224	53.2251978989	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_407	26963	24.6523013018	61.8024700516	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_408	26928	24.4392453951	58.9382798574	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_409	26927	23.5562817989	52.7815575445	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_410	26916	24.375835934	52.6050676178	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_411	26914	25.7561120606	68.8458051572	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_412	26849	23.2448135871	51.4897016649	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_413	26832	22.0184853906	35.7774299344	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_414	26742	25.0766584399	60.6718644828	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_415	26690	24.4735856126	55.9616335706	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_416	26609	29.2307114134	94.4798752302	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_417	26595	23.5532994924	60.0554239519	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_418	26583	23.5601700335	51.6383026746	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_419	26561	26.2716012198	76.7829524491	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_420	26475	25.2804532578	67.1001699717	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_421	26320	24.3199088146	61.0888677812	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Cunninghamella	Cunninghamella elegans	4853
+NRRL_1376_metscf_422	26210	25.8565433041	66.9893933613	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_423	26187	26.032000611	81.892885783	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_424	26174	24.6886222969	56.3901963781	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_425	26157	24.1732614596	62.7417134993	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_426	25947	23.0932285043	31.9664315721	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_427	25923	23.2804845118	47.7033522355	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_428	25918	22.6097692723	43.2851686087	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_429	25900	23.5250965251	58.7945173745	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_430	25814	22.4723018517	30.6486015341	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_431	25784	23.2392181198	51.8532811046	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_432	25749	21.8688104392	39.9313759758	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_433	25724	22.0999844503	44.6053490903	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_434	25674	22.7545376646	42.9072602633	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_435	25517	25.0382098209	55.2128384998	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_436	25405	23.8575083645	68.4069671325	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_437	25369	24.3998580945	57.9766250148	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_438	25343	23.181943732	51.2931776033	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_439	25288	26.1032900981	79.2644337235	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_440	25200	23.3095238095	49.8998412698	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_441	25088	24.7369260204	52.5492665816	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_442	25055	25.2364797446	60.6322091399	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_443	25022	26.5486371993	73.9366957078	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_444	24935	25.0611590134	74.3988770804	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_445	24898	23.7729938148	46.328540445	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Hesseltinella	Hesseltinella vesiculosa	101127
+NRRL_1376_metscf_446	24887	25.9894724153	70.0693534777	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_447	24886	27.8429639155	79.1932411798	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_448	24885	22.708458911	53.0536065903	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_449	24849	25.8159282064	78.4576441708	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_450	24821	23.1416945329	42.5392208211	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_451	24792	25.133107454	62.5618344627	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_452	24758	24.1134178851	59.9844494709	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_453	24745	24.5019195797	50.6510810265	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_454	24692	25.5872347319	68.566499271	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_455	24645	23.5504159059	61.0691823899	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_456	24640	24.6103896104	68.7693993506	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_457	24599	23.2692385869	44.6186023822	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_458	24575	23.5320447609	54.4573753815	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_459	24573	23.7008098319	53.4423147357	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_460	24473	23.6668982144	49.4963837699	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_461	24411	23.755683913	49.942689771	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_462	24388	25.2050188617	60.7693127768	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_463	24343	22.5691163784	35.2380561147	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_464	24336	23.7549309665	60.1344099277	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_465	24313	23.4936042446	42.3851848805	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Syncephalastraceae	Syncephalastrum	Syncephalastrum racemosum	13706
+NRRL_1376_metscf_466	24262	23.5265023494	60.3906520485	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_467	24144	22.2871106693	37.4308316766	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_468	24101	23.5757852371	51.8254429277	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_469	24040	24.7878535774	52.2661813644	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_470	23944	23.554961577	42.9025643167	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_471	23910	25.5332496863	66.3046005855	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_472	23908	22.9755730299	50.7608750209	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_473	23884	23.3461731703	52.1314268967	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_474	23880	26.7587939698	76.6734924623	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_475	23844	24.7777218587	62.3565257507	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_476	23771	23.4908081276	50.3393630895	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_477	23726	23.4299924134	54.6279608868	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_478	23661	24.9735852246	59.1224377668	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_479	23652	24.3869440216	51.7728310502	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_480	23598	23.7223493516	48.6695906433	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_481	23502	25.6616458174	62.7457663178	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_482	23480	23.7862010221	57.9836882453	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_483	23466	24.0006818376	54.8746271201	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_484	23409	25.7465077534	72.1415267632	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_485	23368	23.6263266005	46.0216107497	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_486	23354	24.4326453712	58.1984242528	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_487	23258	24.1336314386	51.0233468054	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_488	23222	24.5370769098	64.0339333391	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_489	23179	24.3409983174	57.404504077	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_490	23069	26.1129654515	79.652564047	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_491	23051	21.7994880916	34.9081601666	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_492	22980	24.5256744996	56.3771105309	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_493	22959	23.9383248399	45.6597412779	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_494	22907	25.6209892173	62.3503295936	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_495	22871	23.2608980805	46.5973066329	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor circinatus	2054153
+NRRL_1376_metscf_496	22867	23.2518476407	46.029780907	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_497	22843	24.8084752441	71.9694435932	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_498	22818	23.2097466912	48.5045578052	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_499	22691	24.4105592526	47.3751707726	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_500	22646	26.0487503312	71.9389296123	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_501	22602	23.7722325458	53.464339439	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_1376_metscf_502	22596	23.473181094	47.1677288016	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_503	22568	22.9306983339	40.947403403	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_504	22544	23.0970546487	44.5829488999	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_505	22517	23.3334813696	55.4107563174	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_506	22473	24.6117563298	60.923196725	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_507	22419	22.6727329497	54.2521967974	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_508	22397	23.8156896013	53.4413984016	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Hesseltinella	Hesseltinella vesiculosa	101127
+NRRL_1376_metscf_509	22373	21.9773834533	33.1980959192	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	unclassified	unclassified	4851
+NRRL_1376_metscf_510	22318	24.6124204678	59.993144547	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_511	22272	25.0583692529	66.3621138649	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_512	22257	23.1567596711	49.2926270387	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_513	22241	23.7893979587	45.7221797581	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_514	22208	24.0859149856	59.9045839337	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_515	22203	23.2491104806	55.6268972661	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_516	22186	24.9932389795	60.1378346705	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_517	22136	23.6944344055	49.4181875678	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Apophysomyces	Apophysomyces sp. BC1015	2184030
+NRRL_1376_metscf_518	22112	26.4064761216	68.2837825615	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_519	21969	26.0048249807	71.6392188994	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_520	21892	23.8808697241	23.178238626	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_521	21891	24.4621077155	55.8603078891	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_522	21862	24.7735797274	84.1685573141	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_523	21795	24.5606790548	54.4625372792	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Lichtheimiaceae	Lichtheimia	Lichtheimia corymbifera	42458
+NRRL_1376_metscf_524	21784	25.3764230628	59.6636981271	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_525	21763	23.7053715021	45.7585351284	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_526	21616	22.9320873427	45.2505551443	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_527	21612	23.9172681843	59.798352767	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_528	21466	21.8857728501	18.2968415168	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_529	21436	23.1059899235	50.8696585184	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1376_metscf_530	21355	26.757199719	77.59011941	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_531	21265	23.0613684458	60.6754291089	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_532	21242	24.5127577441	57.5700969777	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	unclassified	unclassified	4851
+NRRL_1376_metscf_533	21200	25.4905660377	65.2298584906	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_534	21173	22.4436782695	43.4782506022	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_535	21164	24.6975996976	64.4715554716	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_536	21049	23.654330372	58.7678749584	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_537	20997	24.8559317998	58.7434871648	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_538	20986	24.1017821405	59.4046507195	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_539	20905	24.4152116718	56.7302080842	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_540	20897	24.1039383644	57.1727520697	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_541	20885	24.2374910223	58.3152980608	Eukaryota	Mucoromycota	Umbelopsidomycetes	Umbelopsidales	Umbelopsidaceae	Umbelopsis	Umbelopsis isabellina	91625
+NRRL_1376_metscf_542	20872	22.6092372557	46.3891816788	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_543	20849	26.7638735671	77.4603578109	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_544	20700	23.5458937198	55.5039613527	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_545	20619	24.8169164363	61.6260245405	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_546	20589	24.5713730633	57.6653552868	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_547	20521	24.3701573997	51.4551922421	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_548	20487	22.6631522429	49.7644847952	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_549	20483	25.093980374	63.9338475809	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_550	20431	22.4022319025	57.9575155401	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1376_metscf_551	20358	23.6909323116	55.091020729	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_552	20330	25.4648303	69.6463354648	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_553	20281	23.7710172082	55.8428578472	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_554	20245	22.0449493702	35.1784638182	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+NRRL_1376_metscf_555	20229	25.0037075486	60.4405556379	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_556	20120	23.986083499	60.0581013917	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_557	20100	23.6019900498	40.48	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus stolonifer	4846
+NRRL_1376_metscf_558	20080	23.311752988	62.0255478088	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Hesseltinella	Hesseltinella vesiculosa	101127
+NRRL_1376_metscf_559	20070	22.197309417	45.0093173891	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_560	20054	23.4068016356	50.7472823377	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_561	20031	24.3272926963	60.7972642404	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_562	19989	25.0037520636	57.9345640102	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_563	19975	24.0050062578	48.9008760951	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_564	19964	21.1931476658	33.4714486075	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_565	19914	22.983830471	55.253490007	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_566	19898	23.1229269273	46.5194994472	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_567	19846	23.9443716618	61.8238939837	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_568	19805	21.2774551881	30.4409492552	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_569	19764	23.8514470755	56.2462558187	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_570	19676	22.2758690791	50.0640882293	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_571	19650	22.6717557252	47.0786768448	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_572	19641	22.3919352375	54.2780917469	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_573	19637	27.8097469064	432.841625503	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1376_metscf_574	19552	23.8696808511	43.6411108838	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_575	19551	23.0985627334	54.0452150785	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_576	19549	23.1469640391	55.5325592102	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_577	19468	26.0889665091	66.079412369	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_578	19435	23.7818368922	53.1377926421	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_579	19433	23.9026398394	56.5171615294	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_580	19383	25.3521126761	54.6326162101	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_581	19362	24.8166511724	69.3596735874	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_582	19354	22.4243050532	39.1322723985	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_583	19282	24.3335753553	58.1431386786	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_584	19214	23.6806495264	22.709638805	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_585	19206	23.7217536187	52.7319587629	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_586	19199	22.8032710037	51.049690088	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_587	19186	24.6638173668	79.8006880017	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_588	19152	25.0	32.5567042607	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_589	19137	23.8229607566	59.1135496682	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_590	19119	23.039907945	47.5008630158	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_591	18973	22.8113635166	37.7391029358	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_592	18915	23.1350779804	37.6098863336	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_593	18834	25.5282998832	64.4420197515	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_594	18834	23.4469576298	56.0922268238	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_595	18815	25.7401009833	63.0000531491	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_596	18804	24.4043820464	65.5883322697	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_597	18762	22.3323739473	48.2927193263	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_598	18730	20.8008542445	15.5170315003	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+NRRL_1376_metscf_599	18667	23.9835002946	53.3264048856	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_600	18633	24.3600064402	62.3165888477	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_601	18607	22.4001719783	45.5410866878	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_602	18578	24.6797287114	56.5626547529	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_603	18543	25.0606697945	57.0443833252	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_604	18498	28.2408909071	636.929451833	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_605	18453	23.9527448111	52.3669863979	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_606	18440	24.7613882863	57.0408893709	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_607	18428	21.5812893423	65.4754721077	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_608	18417	24.2764836836	60.7084758647	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_609	18400	24.2934782609	46.6488586957	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_610	18367	24.6910219415	57.3622257309	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_611	18357	24.1597210873	59.3584463692	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_612	18352	23.2508718396	51.037489102	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_613	18172	23.4206471495	50.4779330839	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_614	18160	26.1013215859	86.1387114537	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Syncephalastraceae	Syncephalastrum	Syncephalastrum racemosum	13706
+NRRL_1376_metscf_615	18143	24.4887835529	65.1967701042	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_616	18050	23.0581717452	46.092132964	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_617	18009	23.2383808096	61.4247320784	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_618	17991	23.7452059363	43.5762881441	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_619	17986	24.3800733904	53.1005782275	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_620	17954	24.4569455275	66.6504957113	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_621	17933	24.5971114705	57.8750348519	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_622	17905	24.7361072326	56.2955598995	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_623	17896	23.2510058114	44.3188980778	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_624	17895	22.7996647108	33.6203408773	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_625	17856	25.3080197133	52.7231182796	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_626	17835	23.5043453883	48.2803476311	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_627	17829	23.3944696842	56.1830164339	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_628	17820	24.8933782267	59.3474747475	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_629	17786	22.8831665355	36.7543011357	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_630	17729	26.1210446162	78.9849963337	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_631	17704	24.627202892	54.7213059196	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_632	17669	23.3686116928	44.9139736261	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_633	17614	24.6281367094	65.4097308959	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_634	17612	24.0404269816	51.1766977061	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_635	17558	24.2909215173	48.3159813191	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_636	17549	25.3689668927	65.7782209813	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Hesseltinella	Hesseltinella vesiculosa	101127
+NRRL_1376_metscf_637	17534	30.6832439831	106.919242614	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_638	17519	21.981848279	51.7382841486	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_639	17486	24.0306530939	59.3409012925	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_640	17456	24.2609990834	47.4745646196	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_641	17442	26.1839238619	73.6769865841	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_642	17437	24.3390491484	58.5149968458	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_643	17333	24.9004788554	60.7480528472	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_644	17318	24.0674442776	63.0997805751	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_645	17308	22.3769355211	43.4301479085	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_646	17286	24.6037255583	49.5571560801	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_647	17245	23.3227022325	43.4231371412	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_648	17162	23.4704579886	41.1487588859	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_649	17078	22.0927509076	45.5590818597	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_650	17049	23.2858232154	53.7582849434	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_651	17023	21.4415790401	28.5899077718	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_652	16997	21.9097487792	58.0526563511	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_653	16991	24.9838149609	65.6558766406	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_654	16965	24.1320365458	62.5778367227	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_655	16930	22.5280567041	32.4326048435	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_656	16919	23.4588332644	39.4154500857	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_657	16911	24.6821595411	61.9785346816	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_658	16904	24.6568859442	61.2523071462	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_659	16902	24.0622411549	51.3438646314	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_660	16830	24.5395127748	60.1912061794	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_661	16825	24.2615156018	56.5345022288	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_662	16824	25.2496433666	62.7469091774	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_663	16791	25.4243344649	72.8795187898	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_664	16742	23.7964400908	48.6357066061	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_665	16699	23.4864363136	45.367626804	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_666	16651	24.9834844754	61.3164975077	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_667	16648	25.9971167708	78.0619293609	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_668	16630	26.2778111846	49.9769693325	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1376_metscf_669	16586	22.1331243217	37.6160617388	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_670	16525	22.7473524962	50.766172466	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_671	16505	23.1747955165	50.7340199939	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_672	16475	22.7678300455	52.3087708649	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	unclassified	unclassified	4851
+NRRL_1376_metscf_673	16397	22.2357748369	45.7245837653	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_674	16347	24.7690707775	62.7172569891	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_675	16295	24.0257747775	55.9985271556	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_676	16239	24.3056838475	68.9161894205	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_677	16157	24.4166615089	58.6101380207	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Hesseltinella	Hesseltinella vesiculosa	101127
+NRRL_1376_metscf_678	16149	25.7724936529	64.1433525296	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_679	16115	23.6301582377	45.704995346	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_680	16109	25.7061270097	77.3719659817	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_681	16099	25.6972482763	76.8622274675	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_682	16088	23.4522625559	41.0338140229	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_683	16061	26.3931262063	71.6179565407	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_684	16035	22.5631431244	48.9166822576	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_685	15944	23.4696437531	42.7564601104	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_686	15926	25.1977897777	54.5075976391	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_687	15915	23.2987747408	46.1981778197	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_688	15893	25.9359466432	63.1362234946	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_689	15888	23.3131923464	43.66918429	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_690	15826	24.5166182232	52.344370024	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_691	15820	23.1921618205	48.70505689	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_692	15782	23.4507666962	49.2701812191	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_693	15768	24.4101978691	50.3119609335	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_694	15756	23.6862147753	47.6601294745	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_695	15740	21.4739517154	35.8416772554	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_696	15710	22.2978994271	37.2513049013	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_697	15702	26.8691886384	87.2608584894	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_698	15695	23.8611022619	53.1076138898	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_699	15663	23.4310157696	51.2786822448	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_700	15648	24.2331288344	60.9976993865	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_701	15634	24.6961750032	44.3034412179	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_702	15559	28.279452407	100.387878398	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_703	15554	23.5952166645	45.0602417385	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_704	15522	24.3976291715	49.2497745136	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_705	15500	24.0838709677	45.2987741935	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_706	15374	25.0227657083	55.2298686093	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_707	15371	25.5155812894	62.956281309	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_708	15369	24.647016722	56.5552736027	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_709	15341	24.3400039111	66.0183821133	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_710	15327	23.207411757	57.2064983363	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_711	15326	22.889207882	47.7122536865	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_712	15288	23.8814756672	55.2272370487	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	unclassified	unclassified	4851
+NRRL_1376_metscf_713	15254	24.845942048	60.4763340763	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_714	15248	24.8753934942	66.1888116474	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_715	15207	22.4304596567	37.4611691984	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_716	15196	25.1710976573	64.2768491708	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_717	15185	24.3727362529	74.2590714521	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_718	15150	22.3234323432	40.9347194719	Bacteria	Bacteroidetes	unclassified	unclassified	unclassified	unclassified	unclassified	976
+NRRL_1376_metscf_719	15078	24.6451784056	56.7131582438	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_720	15070	24.6781685468	66.3786330458	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_721	15058	22.4332580688	43.0206534732	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_722	15056	22.4760892667	34.6652497343	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_723	15006	24.6168199387	55.5505131281	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_724	14961	21.7766192099	37.504578571	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_725	14906	22.8096068697	21.1851603381	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_726	14854	26.0468560657	73.5231587451	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_727	14850	24.2626262626	65.6035690236	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_728	14834	24.5314817312	52.4584737765	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_729	14804	23.8921912996	59.9681167252	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_730	14802	25.3276584245	68.4700716119	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_731	14800	22.1418918919	62.0381756757	Eukaryota	Basidiomycota	Agaricomycetes	Agaricales	unclassified	unclassified	unclassified	5338
+NRRL_1376_metscf_732	14787	22.641509434	41.7643876378	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_733	14755	22.7448322603	44.0900711623	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_734	14740	22.7340569878	44.1443012212	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_735	14715	25.1376146789	74.1683995923	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1376_metscf_736	14702	27.6152904367	99.0164603455	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Hesseltinella	Hesseltinella vesiculosa	101127
+NRRL_1376_metscf_737	14700	23.2517006803	52.7489115646	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_738	14667	25.2812436081	92.6603259017	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1376_metscf_739	14662	23.6870822534	54.4975446733	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_740	14662	24.4782430773	49.1064656936	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_741	14661	24.248004911	59.7067048632	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_742	14623	23.5519387267	42.4908705464	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_743	14596	23.9106604549	50.1317484242	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_744	14593	23.8333447543	52.5216884808	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_745	14592	26.0074013158	73.2627467105	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_746	14538	24.6526344752	55.1599944972	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+NRRL_1376_metscf_747	14456	25.4565578307	64.1445074709	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_748	14451	24.2405369871	43.6833437132	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_749	14447	23.2228144251	29.3715650308	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_750	14437	24.9151485766	70.6906559535	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_751	14415	24.7797433229	53.1468609088	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_752	14392	23.0336297943	46.6443162868	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_753	14379	22.1364489881	56.4935670074	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_754	14335	25.8597837461	73.0655737705	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_755	14274	24.3309513801	70.4638503573	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_756	14269	21.5572219497	37.776438433	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_757	14257	23.8900189381	58.480816441	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_758	14253	26.7522626815	83.9743211955	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_759	14191	24.9031076034	59.5883306321	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_760	14186	23.1989285211	49.6226561399	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_761	14178	22.5772323318	53.8986457893	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_762	14168	22.0567476002	34.1667137211	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_763	14150	21.3003533569	32.4021201413	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_764	14136	23.4436898698	46.6771363894	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_765	14069	24.2021465634	64.6886061554	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1376_metscf_766	14063	25.3502097703	74.7085259191	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Hesseltinella	Hesseltinella vesiculosa	101127
+NRRL_1376_metscf_767	14029	23.950388481	44.7654144985	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_768	14005	21.2709746519	47.3122456266	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_769	14003	23.1807469828	39.7943297865	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_770	13968	24.1766895762	45.7716924399	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_771	13928	24.4543365882	44.8346496267	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_772	13829	24.9114180346	69.2104273628	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_773	13819	24.1479122947	60.4891091975	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_774	13816	23.7840185292	62.9118413434	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_775	13758	24.3712748946	63.3997674081	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_776	13742	24.0576335322	65.9725658565	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_777	13726	25.6083345476	53.2818009617	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_778	13696	23.605432243	43.8888726636	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1376_metscf_779	13691	22.8909502593	40.0601124827	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_780	13684	24.006138556	37.6153902368	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Hesseltinella	Hesseltinella vesiculosa	101127
+NRRL_1376_metscf_781	13658	25.0329477229	68.6653975692	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_782	13643	21.4982042073	31.7499816756	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_783	13604	25.1764187004	60.56990591	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_784	13595	24.4428098566	56.6432511953	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_785	13589	23.8428140408	78.4594157039	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_786	13585	23.6216415164	46.4334192124	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_787	13524	25.2292221236	57.8847973972	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_788	13503	23.4318299637	42.8878027105	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_789	13475	23.0278293135	41.6728756957	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_790	13462	23.2432030902	65.8323428911	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1376_metscf_791	13437	23.2938900052	51.6651038178	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	unclassified	unclassified	4851
+NRRL_1376_metscf_792	13378	25.0710121094	60.060547167	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor ambiguus	91626
+NRRL_1376_metscf_793	13368	23.4664871335	38.0569269898	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_794	13266	23.4886175185	36.8621287502	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_795	13230	24.6107331822	70.4856386999	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_796	13222	24.4667977613	67.2397519286	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_797	13215	24.5251608021	51.9289443814	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_798	13131	23.5930241413	54.4704135252	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_799	13044	23.9497086783	49.0739037105	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_800	13043	22.6251629226	53.5374530399	Eukaryota	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	2759
+NRRL_1376_metscf_801	13038	26.8062586286	80.5381193435	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_802	13019	23.8804823719	40.4096320762	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_803	13014	28.7843860458	91.5707699401	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_804	13013	23.1230308153	66.6430492584	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_805	12956	23.7033034887	37.6575331893	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+NRRL_1376_metscf_806	12948	23.5094223046	46.1488260735	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_807	12897	24.4552996821	54.421570908	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_808	12876	28.4793414104	90.2420006213	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_809	12856	23.2731798382	53.5570161792	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_810	12842	25.7358666874	78.7914655038	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_811	12810	23.731459797	19.8896955504	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_812	12795	22.1180148496	43.2458772958	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_813	12789	24.7634686058	56.9279849871	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_814	12780	28.1846635368	84.8375586854	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_815	12716	24.5910663731	45.8791286568	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_816	12689	25.9910158405	75.0587122705	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_817	12682	22.4097145561	47.7740104085	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_818	12667	23.2099155285	39.6682718876	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Hesseltinella	Hesseltinella vesiculosa	101127
+NRRL_1376_metscf_819	12627	24.7247960719	66.0694543439	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_820	12627	24.2575433595	63.730735725	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_821	12618	22.5788556031	35.9144872405	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_822	12564	25.7959248647	54.3612702961	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_823	12541	22.5181404992	44.5890279882	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_824	12502	25.5879059351	53.6131019037	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_825	12479	22.7422069076	57.5149451078	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_826	12470	22.1251002406	38.1959101844	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_827	12429	23.3647115617	58.3002655081	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_1376_metscf_828	12387	22.5639783644	37.3896020021	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_829	12292	24.0318906606	60.1258542141	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	unclassified	unclassified	4851
+NRRL_1376_metscf_830	12259	23.6153030427	38.0654213231	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_831	12230	23.2052330335	57.8663941128	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_832	12229	27.6555728187	77.4082099926	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	unclassified	unclassified	4851
+NRRL_1376_metscf_833	12156	25.600526489	51.4879072063	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_834	12142	21.8662493823	47.8683083512	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	unclassified	unclassified	4851
+NRRL_1376_metscf_835	12126	23.60217714	52.1740887349	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	unclassified	unclassified	4851
+NRRL_1376_metscf_836	12116	25.330141961	70.3229613734	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_837	12102	22.9796727814	43.9603371344	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_838	12098	23.1939163498	33.5253760952	Eukaryota	Ascomycota	Eurotiomycetes	Onygenales	Ajellomycetaceae	Helicocarpus	Helicocarpus griseus	121128
+NRRL_1376_metscf_839	12071	24.0659431696	55.60036451	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_840	12066	24.6643460965	52.6131277971	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_841	12017	22.2268453025	52.4595156861	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_842	12002	24.4792534578	52.2300449925	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_843	11974	26.0397527977	63.5809253382	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_844	11965	24.5549519432	75.851901379	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_845	11906	23.1899882412	48.6091046531	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_846	11887	23.8075208211	57.3853789854	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_847	11886	23.3047282517	36.983257614	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_848	11874	23.4967155129	26.0378137106	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+NRRL_1376_metscf_849	11866	21.7933591775	28.3729984831	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_850	11857	26.2123640044	69.3075820191	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_851	11809	25.7430773139	60.1513252604	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_852	11799	23.6969234681	48.8684634291	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_853	11724	27.9512111907	85.0442681679	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_854	11724	27.5588536336	77.8002388263	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	unclassified	unclassified	4851
+NRRL_1376_metscf_855	11707	24.0625266934	43.214657897	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_856	11703	27.5997607451	84.1583354695	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_857	11702	23.4575286276	41.7623483165	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_858	11700	25.1196581197	58.9128205128	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_859	11682	23.9000171204	50.4892997774	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_860	11649	23.0577731994	55.3792600223	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_861	11600	25.0517241379	61.1262068966	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_1376_metscf_862	11587	24.1909035989	46.4044187451	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Hesseltinella	Hesseltinella vesiculosa	101127
+NRRL_1376_metscf_863	11549	23.2574248853	49.0200017318	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_864	11530	25.2558542931	64.4918473547	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1376_metscf_865	11511	24.0031274433	59.5466944662	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_866	11492	21.1451444483	24.5662199791	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+NRRL_1376_metscf_867	11459	23.736800768	47.5727375862	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_868	11442	24.0692186681	59.3959972033	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1376_metscf_869	11437	23.2840779925	39.4197779138	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_870	11432	23.7841147656	51.8992302309	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_871	11414	22.1307166637	40.4052041353	Eukaryota	Mucoromycota	unclassified	unclassified	unclassified	unclassified	unclassified	1913637
+NRRL_1376_metscf_872	11374	23.0965359592	51.5506418147	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_873	11353	21.7035144896	29.6010746058	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Hesseltinella	Hesseltinella vesiculosa	101127
+NRRL_1376_metscf_874	11350	23.1629955947	34.5716299559	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+NRRL_1376_metscf_875	11346	23.9643927375	57.8789000529	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_876	11338	22.1555829952	44.7653025225	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1376_metscf_877	11327	24.5960978194	62.1318089521	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	unclassified	unclassified	4851
+NRRL_1376_metscf_878	11305	24.2901371075	49.2711189739	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_879	11286	21.1944001418	33.4723551302	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_880	11254	22.951839346	54.5672649725	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_881	11235	24.0498442368	49.5601246106	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_882	11203	25.0022315451	54.2199410872	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_883	11152	22.8299856528	45.6864239598	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_884	11145	23.8133692239	72.1381785554	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	unclassified	unclassified	4851
+NRRL_1376_metscf_885	11113	22.1182398992	18.1716908126	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+NRRL_1376_metscf_886	11098	24.373761038	91.9985582988	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+NRRL_1376_metscf_887	11096	22.6658255227	34.7591925018	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_888	11068	22.7141308276	28.0928803759	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	unclassified	unclassified	4851
+NRRL_1376_metscf_889	11054	24.6245702913	64.727609915	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_890	10983	20.7684603478	37.8844577984	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_891	10978	23.1098560758	50.1104937147	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_892	10968	25.0182348651	72.7902078775	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	unclassified	unclassified	4851
+NRRL_1376_metscf_893	10956	23.3388097846	61.8464768164	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_894	10934	23.0748125114	45.9595756356	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_895	10918	22.9529217805	43.2661659645	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_896	10904	23.1382978723	58.5106382979	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_897	10900	21.9633027523	32.7013761468	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_898	10868	25.3128450497	62.7315053368	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_899	10860	25.1565377532	57.1069981584	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_900	10834	25.106147314	58.4789551412	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_901	10783	26.1244551609	74.8722062506	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_902	10773	23.3454005384	55.1762740184	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_903	10763	23.7944810926	60.9986992474	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_904	10746	23.9530988275	61.918760469	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_905	10715	23.2477834811	66.1892673822	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	1
+NRRL_1376_metscf_906	10688	22.9790419162	68.153255988	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_907	10652	23.5824258355	59.4735260984	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Hesseltinella	Hesseltinella vesiculosa	101127
+NRRL_1376_metscf_908	10625	26.0329411765	68.0910117647	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_909	10604	23.6231610713	46.9410599774	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_910	10593	21.5142074955	26.0990276598	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828
+NRRL_1376_metscf_911	10548	24.2415623815	38.1622108457	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_912	10534	25.6028099487	70.8587431175	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_913	10526	23.4277028311	55.8684210526	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_914	10484	23.407096528	62.8090423502	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_915	10377	22.3474992772	41.8619061386	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_916	10360	24.0444015444	59.2176640927	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_917	10356	24.9903437621	68.2379297026	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia glauca	4829
+NRRL_1376_metscf_918	10317	24.7649510517	70.4754289038	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_919	10249	26.3733047127	104.989657528	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+NRRL_1376_metscf_920	10163	22.0407360031	43.5005411788	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_921	10159	27.1877153263	171.359877941	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+NRRL_1376_metscf_922	10157	24.4757310229	49.6835679827	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_923	10157	23.8456237078	35.7770995373	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_924	10138	23.3971197475	53.4488064707	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	Absidia repens	90262
+NRRL_1376_metscf_925	10107	24.1218957158	70.7062431978	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+NRRL_1376_metscf_926	10089	24.7299038557	61.9157498265	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Cunninghamellaceae	Absidia	unclassified	4828

@@ -1,0 +1,730 @@
+contig	length	gc	cov	kingdom	phylum	class	order	family	genus	species	taxid
+CBS_523.68_metscf_1	57763	62.8222218375	11.9932482731	Bacteria	Proteobacteria	unclassified	unclassified	unclassified	unclassified	unclassified	1224
+CBS_523.68_metscf_2	49281	62.7199123394	13.2354254175	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	unclassified	286
+CBS_523.68_metscf_3	48012	59.6975756061	11.1658335416	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	unclassified	286
+CBS_523.68_metscf_4	43596	37.9163225984	905.058308102	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Parasitella	Parasitella parasitica	35722
+CBS_523.68_metscf_5	42880	57.2434701493	15.7277985075	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas fluorescens	294
+CBS_523.68_metscf_6	42235	58.0490114834	11.330720966	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	unclassified	286
+CBS_523.68_metscf_7	41180	31.7459932006	36.8333657115	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_8	39627	56.2823327529	13.1831831832	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas aeruginosa	287
+CBS_523.68_metscf_9	35480	34.0135287486	35.0526493799	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_10	35393	61.6336563727	12.6250671037	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas fluorescens	294
+CBS_523.68_metscf_11	34952	52.248798352	16.0900091554	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. PH1b	1397282
+CBS_523.68_metscf_12	33581	58.2561567553	13.6294035318	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas lactis	1615674
+CBS_523.68_metscf_13	33508	31.6551271338	36.9261370419	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_14	32943	32.5987311417	35.468263364	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_15	31302	47.4538368155	21.0164526228	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas veronii	76761
+CBS_523.68_metscf_16	30915	51.4410480349	15.4730066311	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. TKP	1415630
+CBS_523.68_metscf_17	30297	32.9603591115	36.1562861009	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_18	29704	57.9315917048	20.9122677081	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. MF6767	2797531
+CBS_523.68_metscf_19	29456	33.0764530147	33.7791621401	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_20	29419	31.2179203916	33.3023216289	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_21	29215	54.6705459524	13.3291802156	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. R76	1573711
+CBS_523.68_metscf_22	28959	32.5978106979	35.4904174868	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_23	28655	57.6897574594	13.0646658524	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas fluorescens	294
+CBS_523.68_metscf_24	28234	33.5340369767	35.7459800241	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_25	28225	31.4508414526	36.9283259522	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_26	27959	32.2615258056	36.2603455059	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_27	27241	31.4819573437	36.6060717301	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_28	27197	33.3308820826	37.9371254182	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_29	27075	32.5207756233	37.4052816251	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_30	27004	32.1581987854	34.1217227077	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_31	26941	32.040384544	38.3945659033	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_32	26914	32.9642565208	36.1861484729	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_33	26786	31.5015306503	35.8317777944	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_34	26576	33.2254665864	35.5571944612	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_35	26494	31.7392617196	37.2770816034	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_36	26436	33.821304282	33.7751172643	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_37	25923	35.4087104116	32.1217837442	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_38	25694	32.4278041566	34.9555927454	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_39	25658	33.5801699275	35.0326214046	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_40	25618	32.6528222344	35.2542743384	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_41	25573	32.6555351347	35.0650295233	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_42	25357	32.6418740387	34.0520171945	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_43	24857	32.8036368025	33.3808585107	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_44	24716	32.7277876679	36.9376921832	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_45	24438	31.8397577543	39.9059251985	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_46	24273	31.9243604004	32.9131133358	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_47	23993	33.6431459176	35.5125661651	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_48	23619	35.3190228206	35.8193827004	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_49	23442	31.4520945312	34.6322839348	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_50	23256	31.9616443068	37.424621603	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_51	23193	35.1399129048	34.1027465183	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_52	23148	32.4909279419	36.1188007603	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_53	22954	32.8570183846	33.5938398536	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_54	22939	33.7983347138	32.425868608	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_55	22930	30.4491931967	35.7970780637	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_56	22925	31.2104689204	34.8339803708	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_57	22890	31.1577107907	37.4764525994	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_58	22711	32.3323499626	37.9170446039	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_59	22577	31.7181202108	35.2623909288	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_60	22576	33.5666194189	34.4914953933	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_61	22456	33.4298183114	41.1263359458	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_62	22430	33.2501114579	36.0763263486	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_63	22403	31.4198991207	33.2763022809	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_64	22339	56.0051927123	17.0731456198	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	unclassified	286
+CBS_523.68_metscf_65	22333	33.4258720279	37.1020015224	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_66	22255	32.7926308695	31.7894855089	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_67	21936	32.2893873085	35.5167304887	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_68	21896	32.6315308732	37.4833759591	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_69	21895	31.6921671615	36.2419273807	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_70	21857	34.6479388754	35.1123667475	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_71	21799	53.9657782467	13.9656406257	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas taeanensis	574962
+CBS_523.68_metscf_72	21624	31.4002959674	34.947881983	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_73	21593	33.7192608716	31.8997360256	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_74	21524	32.275599331	33.9963296785	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_75	21417	32.8477377784	35.8816360835	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_76	21387	33.6606349652	33.2948987703	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_77	21248	33.8714231928	34.90234375	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_78	21243	32.9143717931	32.0657628395	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_79	21228	30.6576220087	37.4601469757	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_80	20960	33.8979007634	35.8802003817	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_81	20911	32.4852948209	35.9599253981	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_82	20911	32.8391755535	33.7970924394	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_83	20646	32.3694662404	43.0207788434	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_84	20511	31.8414509288	33.1031641558	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_85	20497	34.2050056106	35.1585597892	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_86	20461	58.1105517814	12.4247104247	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas fluorescens	294
+CBS_523.68_metscf_87	20457	34.897590067	34.3268807743	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_88	20365	33.0125214829	35.9390621164	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_89	20286	32.6185546682	33.7620526471	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_90	20268	32.6869942767	35.6136767318	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_91	20240	30.4545454545	35.5480731225	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_92	20036	31.1838690357	35.5007985626	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_93	19982	30.692623361	33.437043339	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_94	19968	31.585536859	34.703125	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Parasitella	Parasitella parasitica	35722
+CBS_523.68_metscf_95	19822	42.0694178186	784.384270003	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Parasitella	Parasitella parasitica	35722
+CBS_523.68_metscf_96	19787	32.1827462475	36.3185424774	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_97	19763	33.127561605	34.4136011739	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_98	19748	31.9829856188	35.6204172574	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_99	19744	32.3490680713	36.6781300648	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_100	19699	32.7630844205	37.0180212194	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_101	19686	31.6519353856	32.5591283145	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_102	19397	32.2730319122	37.1719338042	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_103	19389	65.5423178091	9.86858528031	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	unclassified	286
+CBS_523.68_metscf_104	19383	52.556363824	14.9642470206	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. CF150	911240
+CBS_523.68_metscf_105	19328	32.6521109272	37.6986237583	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_106	19266	33.2139520399	31.1037579155	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_107	19241	53.5419157008	18.5212307053	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	unclassified	286
+CBS_523.68_metscf_108	19224	33.2292967124	34.0308988764	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_109	19166	34.0185745591	35.0182615047	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_110	19161	31.4910495277	40.9989040238	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_111	19158	53.7269025994	17.7243971187	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	unclassified	286
+CBS_523.68_metscf_112	19014	32.2972546545	35.3499526665	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_113	18981	32.1163268532	33.0482061008	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_114	18971	34.4051446945	36.7719677402	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_115	18940	32.9567053854	34.6618796199	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_116	18867	33.2697302168	33.8611861981	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_117	18826	33.0819079996	32.3331031552	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_118	18791	32.5315310521	34.0454472886	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_119	18738	32.1645853346	36.8151883872	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_120	18725	61.9652870494	11.0453404539	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	unclassified	286
+CBS_523.68_metscf_121	18669	57.9249022444	14.346831646	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	unclassified	286
+CBS_523.68_metscf_122	18567	33.7211181128	35.395755911	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_123	18498	32.0791436912	35.7939236674	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_124	18496	31.8987889273	35.7686526817	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_125	18480	32.4350649351	35.0372835498	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_126	18424	32.8376031264	36.6390034737	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_127	18412	31.2024766457	35.9106017814	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_128	18404	32.128885025	35.3579113236	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_129	18393	33.3061490785	35.0198445061	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_130	18355	32.546989921	34.3352764914	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_131	18353	33.9072631177	32.4282133711	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+CBS_523.68_metscf_132	18247	31.1010029046	35.1126760563	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_133	18195	30.9150865622	29.4777136576	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_134	18099	33.8747997127	34.5709707719	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_135	18088	29.9259177355	35.2189849624	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_136	18043	32.0124147869	32.9429141495	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_137	18032	32.4922360248	36.8644631766	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_138	17983	32.4639937719	36.4077740088	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_139	17970	32.0868113523	36.3406789093	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_140	17956	32.7689908666	33.7401425707	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_141	17940	53.7123745819	17.0267558528	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas fluorescens	294
+CBS_523.68_metscf_142	17931	32.6306396743	113.755061067	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+CBS_523.68_metscf_143	17927	31.1262341719	36.2540302337	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_144	17888	31.9991055456	36.8948457066	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_145	17844	32.84577449	37.2817753867	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_146	17774	32.0974457072	35.7027118263	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_147	17553	32.3705349513	36.0346379536	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_148	17509	33.3200068536	36.4876920441	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_149	17436	31.7790777701	35.5017205781	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_150	17424	31.6000918274	37.1909435262	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_151	17423	33.4213396086	34.7997474603	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_152	17352	32.8838174274	36.2713808207	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_153	17298	33.5472308937	34.4846224997	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_154	17281	34.9111741219	34.9148776112	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_155	17251	33.2908237204	34.8586748594	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_156	17145	33.3799941674	43.5731116944	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_157	17124	32.6325624854	33.4093085728	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_158	17112	54.6400187003	14.7889200561	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	unclassified	286
+CBS_523.68_metscf_159	17087	31.6263826301	36.8240182595	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_160	17059	35.3244621607	35.6007972331	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_161	17043	36.7482250777	35.8718535469	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+CBS_523.68_metscf_162	17017	32.726097432	32.344067697	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_163	17011	32.3026277115	33.3087414026	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+CBS_523.68_metscf_164	16979	32.1220330997	37.0830437599	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_165	16901	33.2761375067	35.5810307082	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_166	16864	34.3631404175	37.1778344402	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_167	16780	32.6221692491	44.4875446961	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_168	16712	30.8939684059	33.3303614169	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_169	16701	33.8961738818	32.4885336207	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_170	16664	31.4030244839	33.5675708113	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_171	16648	33.3974050937	36.5020422874	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+CBS_523.68_metscf_172	16648	31.5953868333	36.7237506007	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_173	16618	32.2120592129	33.4552292695	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_174	16575	29.520361991	35.9663348416	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_175	16566	32.7659060727	31.291500664	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+CBS_523.68_metscf_176	16556	33.6554723363	36.6356003866	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_177	16546	54.4482050042	13.2593376043	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. R76	1573711
+CBS_523.68_metscf_178	16513	31.8355235269	35.7190092654	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_179	16435	31.0313355643	36.5853361728	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_180	16392	32.8696925329	33.5132991703	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_181	16379	30.9603760913	37.2695524757	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_182	16379	32.3462970877	35.1644178521	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_183	16300	31.9447852761	37.1838650307	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_184	16274	33.6917782967	34.9089959445	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_185	16272	31.2069813176	36.9395894789	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_186	16233	32.606419023	33.3577280848	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_187	16219	36.3154325174	34.1395277144	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+CBS_523.68_metscf_188	16186	32.5590016063	32.733473372	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus microsporus	58291
+CBS_523.68_metscf_189	16183	32.9110795279	35.8987826732	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_190	16182	30.8923495242	35.7285255222	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_191	16182	32.944011865	31.0645779261	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_192	16176	33.3333333333	34.7333086053	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_193	16162	32.062863507	35.2519490162	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_194	16159	32.2854137013	35.2831858407	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_195	16157	35.1983660333	31.2829733243	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_196	16106	31.0753756364	32.7079970197	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_197	16077	32.2448217951	35.1135162033	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_198	16075	31.5707620529	35.4378227061	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_199	16064	33.0552788845	33.4018924303	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_200	16037	32.0508823346	35.9192492361	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_201	16020	32.0474406991	38.2192259675	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_202	15969	32.819838437	31.06456259	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_203	15963	31.065589175	30.4067531166	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_204	15904	31.7278672032	57.0011317907	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_205	15897	32.2513681827	40.3309429452	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_206	15878	31.9309736743	31.0472981484	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_207	15861	33.7683626505	33.6738541076	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_208	15852	59.6076204895	12.500126167	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	unclassified	286
+CBS_523.68_metscf_209	15836	31.7251831271	38.1268628442	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_210	15827	33.7714032982	34.1086118658	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_211	15823	31.6880490425	35.8232952032	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_212	15797	33.4177375451	38.0224093182	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+CBS_523.68_metscf_213	15772	32.4308901851	34.2704793305	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_214	15771	31.8052120982	34.5041531926	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_215	15759	34.3993908243	32.5493368869	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_216	15705	32.2254059217	34.7139127666	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_217	15688	32.6491585926	33.9627740948	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_218	15674	32.270001276	34.454191655	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_219	15665	33.9099904245	29.6603894031	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_220	15654	55.9537498403	16.6781653252	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas sp. TKP	1415630
+CBS_523.68_metscf_221	15641	33.3226775782	33.6474649958	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_222	15617	35.2052250752	34.0011525901	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_223	15616	31.0322745902	37.2970671107	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_224	15592	53.1041559774	13.1521934325	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas yamanorum	515393
+CBS_523.68_metscf_225	15573	31.8949463816	36.2294997753	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_226	15561	47.4648158859	20.252233147	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	unclassified	286
+CBS_523.68_metscf_227	15535	31.6768587061	34.1447698745	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_228	15485	30.2550855667	30.8062641266	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_229	15480	33.6046511628	33.7782945736	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_230	15454	32.8976316811	33.4431862301	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_231	15412	30.8590708539	34.4950038931	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_232	15406	31.9096455926	34.3221472154	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_233	15376	33.389698231	34.4222814776	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+CBS_523.68_metscf_234	15362	33.1922926702	34.0603437052	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_235	15361	32.8168739014	37.3810949808	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_236	15357	33.26170476	36.3992967376	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_237	15342	31.7755181854	30.8828053709	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_238	15311	32.1990725622	33.6534517667	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_239	15281	34.1011713893	32.6490412931	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_240	15280	30.8769633508	32.0420811518	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_241	15256	32.8329837441	33.308927635	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_242	15239	31.7278036617	36.7899468469	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_243	15219	33.5764504895	36.4633681582	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor circinatus	2054153
+CBS_523.68_metscf_244	15215	31.7055537299	33.8584291817	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_245	15204	31.1694290976	36.3476058932	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+CBS_523.68_metscf_246	15174	30.3018320812	36.0868591011	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_247	15167	32.5707127316	36.4913298609	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_248	15139	30.6823436158	37.8305700509	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_249	15132	32.2759714512	38.5672746497	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_250	15132	34.291567539	34.0693232884	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_251	15121	32.8483565902	35.1121618941	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_252	15102	31.1415706529	35.6127003046	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_253	15096	31.2864334923	35.3973900371	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_254	15096	32.3993110758	36.0828033916	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_255	15020	30.4260985353	33.7975366178	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_256	15006	32.1071571371	33.8945755031	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_257	15001	61.8692087194	10.5211652556	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	unclassified	286
+CBS_523.68_metscf_258	14950	32.7959866221	35.6856187291	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_259	14922	33.3333333333	41.0900013403	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_260	14889	32.1109543959	35.1356706293	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_261	14882	32.9727187206	39.3277113291	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_262	14880	32.9838709677	35.1533602151	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_263	14869	32.6181989374	34.9808998588	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_264	14868	31.6585956416	33.8537799301	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_265	14867	32.1517454766	34.1479787449	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_266	14864	29.904467169	33.9214881593	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_267	14852	54.9757608403	14.3446673849	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas protegens	380021
+CBS_523.68_metscf_268	14839	32.0102432778	32.3601320844	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_269	14837	33.962391319	42.2988474759	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_270	14836	31.6459962254	34.9918441628	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_271	14808	31.2331172339	37.2495948136	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_272	14796	31.2314138956	33.6173965937	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_273	14793	33.9146893801	38.3993104847	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_274	14784	32.9951298701	33.0608766234	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_275	14783	31.4347561388	35.5170804302	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_276	14780	31.2584573748	36.3349797023	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_277	14779	31.8424791935	40.0399215103	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_278	14773	30.9280444053	40.1422189129	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_279	14754	38.003253355	34.8421445032	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+CBS_523.68_metscf_280	14695	32.8138822729	34.1396393331	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_281	14656	32.6896834061	33.6941184498	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_282	14654	32.3188207998	36.0100313907	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_283	14652	30.2825552826	38.1898716899	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_284	14575	31.0737564322	34.1073756432	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_285	14569	32.7819342439	34.2180657561	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_286	14543	31.3140342433	34.9008457677	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_287	14536	34.6518987342	30.9759906439	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_288	14499	31.5745913511	36.5663838885	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_289	14469	33.2434860737	30.7644619531	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_290	14416	32.8315760266	34.6205604883	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_291	14401	30.2687313381	38.7974446219	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_292	14400	33.2361111111	34.9059027778	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_293	14394	32.1244963179	34.4253855773	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_294	14390	31.9041000695	33.4247394024	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_295	14351	31.2591457041	36.5208696258	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_296	14326	31.8023174647	33.7367723021	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+CBS_523.68_metscf_297	14321	31.6807485511	31.7238321346	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+CBS_523.68_metscf_298	14310	31.7260656883	34.4837176799	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_299	14306	32.5807353558	33.1715364183	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_300	14305	30.8353722475	34.753093324	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_301	14296	60.0937325126	10.0360940123	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas putida	303
+CBS_523.68_metscf_302	14247	31.2627219766	38.2647574928	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_303	14246	30.2541064158	35.3739997192	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_304	14229	30.908707569	36.1179281749	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_305	14218	33.0918553946	67.2738078492	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_306	14190	32.9668780832	41.7304439746	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_307	14179	29.9527470202	34.0863953734	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_308	14171	31.8185025757	35.5977700939	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_309	14170	31.7572335921	31.941213832	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_310	14148	33.1424936387	31.4939920837	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_311	14090	32.0227111427	36.1866572037	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_312	14082	33.3688396535	37.597713393	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_313	14060	32.7311522048	44.7546230441	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_314	14053	33.779264214	36.9264214047	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_315	14034	32.2288727376	36.8221462163	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_316	14006	30.0157075539	35.4160359846	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_317	13998	30.725817974	36.5167881126	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_318	13991	45.1147166035	18.9240940605	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	unclassified	286
+CBS_523.68_metscf_319	13958	60.7680183407	11.241653532	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas fluorescens	294
+CBS_523.68_metscf_320	13920	32.1479885057	36.0813218391	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_321	13912	32.4683726279	38.9743387004	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_322	13906	35.3876024738	31.2458650942	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_323	13894	34.2737872463	35.4608464085	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_324	13882	31.0041780723	34.6862123613	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_325	13870	32.2134102379	36.6238644557	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_326	13844	32.165559087	36.0326495233	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_327	13820	32.6121562952	35.7002894356	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_328	13816	32.100463231	34.048566879	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_329	13816	30.6962941517	31.5914881297	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_330	13809	58.6429140416	12.563980013	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	unclassified	286
+CBS_523.68_metscf_331	13791	33.4638532376	33.6106881299	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+CBS_523.68_metscf_332	13789	32.4098919429	34.7061425774	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_333	13781	32.2110151658	35.4609244612	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_334	13763	34.9633074184	33.3306691855	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_335	13700	30.2189781022	37.2108759124	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_336	13693	32.8415978967	37.7579785292	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_337	13688	33.0873758036	35.6387346581	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_338	13675	60.39488117	11.1191956124	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	unclassified	286
+CBS_523.68_metscf_339	13670	31.6093635699	33.186759327	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+CBS_523.68_metscf_340	13667	33.9284407697	34.961220458	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_341	13656	32.1323960164	34.654364382	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_342	13654	34.2390508276	37.6774571554	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+CBS_523.68_metscf_343	13652	32.3102842074	35.7889686493	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_344	13641	30.0197932703	36.0620189136	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_345	13628	30.936307602	33.5507778104	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_346	13627	33.2134732516	36.3785132458	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_347	13626	32.1444297666	34.6638044914	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_348	13622	31.9116135663	35.4962560564	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_349	13616	32.5866627497	37.3014835488	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_350	13597	32.0585423255	33.322056336	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_351	13593	33.5393217097	35.5943500331	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_352	13582	33.2867029893	37.6806066853	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_353	13571	30.2409549775	43.4578881438	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_354	13563	32.2052643221	34.3163017032	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_355	13554	32.1602478973	37.1776597314	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_356	13542	30.9703145769	37.0951853493	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_357	13528	32.2516262567	34.0060615021	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_358	13504	31.3610781991	39.3436759479	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_359	13493	33.2913362484	36.7921144297	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_360	13492	33.4939223243	36.499555292	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_361	13483	34.0354520507	34.533041608	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_362	13473	32.7098641728	40.8825057522	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_363	13459	32.1940708819	35.0638977636	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_364	13443	31.7042326862	35.6325968906	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_365	13437	31.7258316589	35.8072486418	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_366	13413	31.7080444345	33.1816894058	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_367	13396	32.5992833682	36.9912660496	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_368	13393	30.1948779213	36.7125363996	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_369	13391	32.7533417967	33.1969233067	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_370	13381	32.4116284284	37.0339287049	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_371	13346	30.863179979	40.1478345572	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Parasitella	Parasitella parasitica	35722
+CBS_523.68_metscf_372	13333	30.6982674567	37.2467561689	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_373	13326	57.9168542698	7.49939966982	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas fluorescens	294
+CBS_523.68_metscf_374	13302	30.5818673884	17.4444444444	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_375	13291	29.9826950568	38.0734331503	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_376	13278	32.9793643621	36.3668474168	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_377	13274	33.1776405002	35.5952237457	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_378	13265	30.9385601206	31.3644176404	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_379	13252	33.4440084516	36.4204648355	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_380	13248	32.4954710145	33.7496980676	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_381	13240	31.4879154079	36.2441087613	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_382	13237	32.779330664	38.1180025686	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_383	13229	31.6274850707	42.246503893	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_384	13213	33.3686520851	33.1864830092	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_385	13199	32.6009546178	33.7927115691	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_386	13183	32.5191534552	34.2573010696	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_387	13180	32.7389984825	33.9550834598	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_388	13155	33.1584948689	35.0680349677	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_389	13150	34.030418251	37.5231178707	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_390	13137	31.2628453985	36.7369262389	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_391	13120	29.824695122	41.3666158537	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_392	13096	33.918753818	34.1001069029	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+CBS_523.68_metscf_393	13088	33.1143031785	32.2991289731	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_394	13087	31.4969053259	33.922212883	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_395	13083	34.2811281816	33.3362378659	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_396	13081	34.4392630533	32.1884412507	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+CBS_523.68_metscf_397	13068	32.2543617998	34.7689011325	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_398	13060	33.3001531394	34.97856049	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_399	13020	32.7649769585	33.6397081413	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_400	13019	31.1775097934	37.3481066134	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_401	13018	32.4550622215	35.7504224919	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_402	12980	31.6486902928	33.6408320493	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_403	12976	32.0977188656	34.0259710234	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_404	12974	32.5959611531	30.0112532758	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_405	12970	30.3777949113	32.966075559	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_406	12965	32.9193983803	35.2806787505	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_407	12963	33.5956182982	32.156290982	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_408	12952	32.1417541692	35.6051575046	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_409	12951	33.8120608447	35.0469461818	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_410	12941	33.0422687582	36.9060350823	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_411	12941	31.9295263117	33.5518120702	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_412	12915	32.760356175	37.4477739063	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_413	12896	32.1029776675	35.065601737	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_414	12889	31.4919698968	34.9765691675	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_415	12886	32.981530343	34.1502405712	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_416	12875	33.5378640777	31.5357669903	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_417	12874	31.109212366	37.5309150225	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+CBS_523.68_metscf_418	12854	31.0642601525	31.3710907111	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_419	12841	32.7233081536	36.5647535239	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_420	12836	33.9981302586	36.0730757245	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_421	12835	34.2656797818	36.2881963381	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+CBS_523.68_metscf_422	12831	31.8681318681	33.9973501676	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_423	12815	33.179867343	34.461646508	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_424	12811	55.1713371322	12.6052611037	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	unclassified	286
+CBS_523.68_metscf_425	12790	29.7732603597	37.5286942924	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_426	12779	32.1464903357	33.9111824086	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_427	12777	33.6620489943	38.6545354935	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_428	12776	32.122730119	35.3917501565	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_429	12748	33.7150925635	36.7511766552	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_430	12747	31.1288930729	36.5877461363	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_431	12742	29.3988384869	29.501020248	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_432	12736	31.516959799	35.6046639447	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_433	12725	31.394891945	35.7552848723	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_434	12709	34.2277126446	38.5224643953	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+CBS_523.68_metscf_435	12709	31.8593122984	36.5465418208	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_436	12682	32.8102822899	35.9439362877	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_437	12661	30.9533212227	33.8479582971	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_438	12618	31.0350293232	34.251149152	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_439	12618	31.7799968299	35.497701696	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_440	12607	31.4666455144	31.8414372967	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+CBS_523.68_metscf_441	12597	33.6905612447	34.2514884496	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_442	12588	30.4655227201	35.3691611058	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_443	12583	60.732734642	10.4305014702	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	unclassified	286
+CBS_523.68_metscf_444	12564	33.3890480739	39.205666985	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_445	12542	31.669590177	33.7411098708	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_446	12534	31.1871708952	31.9901866922	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_447	12525	31.4890219561	37.4730538922	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_448	12517	30.446592634	36.4711192778	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_449	12511	32.01182959	35.7518183998	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_450	12503	31.3764696473	38.3289610493	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_451	12484	32.4094841397	36.1586030119	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor plumbeus	97098
+CBS_523.68_metscf_452	12475	32.1603206413	33.1246492986	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+CBS_523.68_metscf_453	12474	31.7861151194	35.9005932339	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_454	12474	31.6418149751	31.5464967132	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_455	12462	32.097576633	33.5276039159	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_456	12456	30.579640334	34.6611271676	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_457	12415	34.5871929118	35.9023761579	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_458	12413	31.5475710948	34.8073793603	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_459	12380	29.6365105008	33.4655896607	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Choanephoraceae	Choanephora	Choanephora cucurbitarum	101091
+CBS_523.68_metscf_460	12365	31.4355034371	34.3130610594	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_461	12358	59.3623563683	6.46188703674	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	unclassified	286
+CBS_523.68_metscf_462	12345	31.4540299716	33.3333333333	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_463	12319	53.0968422762	16.6822794058	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	unclassified	286
+CBS_523.68_metscf_464	12316	62.187398506	11.4521760312	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	unclassified	286
+CBS_523.68_metscf_465	12296	30.7498373455	41.6509433962	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_466	12270	32.8687856561	34.3745721271	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_467	12241	56.2454047872	13.9080957438	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	unclassified	286
+CBS_523.68_metscf_468	12235	35.006129955	34.3463833265	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_469	12179	31.2012480499	33.7340504146	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_470	12172	35.5816628327	37.7194380546	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+CBS_523.68_metscf_471	12166	32.2949202696	37.7761795167	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_472	12157	33.8488113844	35.4442707905	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_473	12157	33.659619972	36.409476022	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_474	12149	60.1530990205	11.8821302165	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	unclassified	286
+CBS_523.68_metscf_475	12144	30.3689064559	35.0722167325	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_476	12140	31.7133443163	35.965815486	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_477	12132	30.2258489944	34.0166501813	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_478	12121	32.4890685587	31.0932266315	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_479	12115	33.0499380933	36.7090383822	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_480	12111	31.5911155148	36.1879283296	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_481	12111	30.608537693	33.3629758071	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_482	12102	33.2589654603	33.6392331846	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_483	12083	32.9222875114	35.1242241165	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_484	12063	31.2111415071	34.8921495482	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_485	12062	32.4324324324	35.4505057204	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_486	12045	31.6396845164	32.5638854296	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor circinelloides	36080
+CBS_523.68_metscf_487	12021	31.9607353798	37.0	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_488	12014	33.2279007824	34.5297985683	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_489	12013	33.4138017148	30.6034296179	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_490	11985	32.2820191907	30.2397163121	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_491	11983	32.429274806	32.7101727447	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_492	11971	33.004761507	32.8763678891	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_493	11964	32.4557004346	42.3849882982	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_494	11943	32.5713807251	33.3924474588	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_495	11933	32.6489566748	40.1637475907	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_496	11920	30.5033557047	34.8764261745	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_497	11918	32.0691391173	36.8079375734	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_498	11917	34.715112864	32.3455567676	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_499	11909	34.00789319	32.6212108489	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_500	11906	33.4033260541	35.8520073912	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_501	11906	32.9245758441	35.7273643541	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_502	11903	32.4960094094	33.9342182643	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_503	11894	57.4070960148	11.7561795863	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	unclassified	286
+CBS_523.68_metscf_504	11887	34.0455960293	40.1299739211	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_505	11881	32.1437589428	34.9358639845	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_506	11874	31.2531581607	37.8256695301	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_507	11860	34.671163575	38.13693086	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_508	11837	30.3286305652	33.764551829	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_509	11822	30.781593639	33.2451361868	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_510	11794	30.3883330507	38.9303883331	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_511	11792	32.6916553596	37.5421472185	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_512	11792	31.0464721845	34.0614823609	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_513	11770	34.953271028	33.0118096856	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_514	11750	31.6170212766	41.0272340426	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_515	11744	31.6757493188	35.1791553134	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_516	11733	31.5179408506	36.4547004176	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_517	11724	31.2265438417	34.3672807915	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_518	11715	30.9688433632	30.3172001707	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_519	11701	31.2451927186	31.9436800273	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_520	11691	31.5884013344	31.8758018989	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_521	11678	31.8376434321	36.0494947765	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_522	11656	31.9406314345	32.8657343857	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_523	11642	57.5158907404	7.95670846934	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	unclassified	286
+CBS_523.68_metscf_524	11635	30.8551783412	35.9447357112	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_525	11628	32.3529411765	32.7068283454	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_526	11612	32.2769548743	37.1588873579	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_527	11604	31.8338503964	36.3895208549	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_528	11601	30.8249288854	36.3510904232	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_529	11591	32.7409196791	34.7470451212	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_530	11579	32.1875809655	34.6439243458	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_531	11575	31.3174946004	35.5555939525	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_532	11575	30.626349892	32.6215982721	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_533	11570	30.1037165082	30.8902333621	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_534	11546	32.4614585138	34.322362723	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+CBS_523.68_metscf_535	11527	34.9700702698	33.887481565	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+CBS_523.68_metscf_536	11499	32.0114792591	42.8759022524	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_537	11484	34.8746081505	31.0111459422	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_538	11476	30.3241547578	44.8546531893	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_539	11461	30.9746095454	38.7395515226	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_540	11458	31.9863850585	35.8729272124	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_541	11452	32.858889277	34.5072476423	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_542	11419	32.9801208512	35.6147648656	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_543	11416	32.6471618781	34.0825157673	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_544	11408	32.1616409537	29.0660063114	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_545	11403	31.6583355257	35.466543892	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_546	11401	31.7779142181	35.1580563108	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+CBS_523.68_metscf_547	11396	30.3878553879	31.4263776764	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_548	11393	34.7230755727	31.4024400948	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+CBS_523.68_metscf_549	11378	31.8860959747	37.0366496748	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_550	11374	30.4818005979	32.6600140672	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_551	11374	33.3391946545	32.5591700369	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_552	11364	33.2805350229	25.8414290743	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_553	11358	32.0214826554	39.3269941891	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_554	11342	30.1269617351	35.4655263622	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_555	11330	32.639011474	34.6673433363	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_556	11329	35.6253861771	33.9509224115	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_557	11326	32.2002472188	35.0860851139	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+CBS_523.68_metscf_558	11312	60.0689533239	7.62040311174	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	unclassified	286
+CBS_523.68_metscf_559	11294	30.3966707987	36.3070656986	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_560	11280	32.9964539007	34.9229609929	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_561	11279	30.7030765139	34.1701391967	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_562	11265	32.4278739458	37.8996893032	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_563	11258	53.9527447149	15.9729969799	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas fluorescens	294
+CBS_523.68_metscf_564	11255	32.3500666371	38.4746334962	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_565	11247	30.657064106	35.3734329154	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_566	11235	32.1495327103	36.1363595906	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_567	11223	31.7027532745	36.5797023969	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_568	11219	37.1066940012	33.3986986362	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_569	11213	31.2851154909	33.6106305181	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_570	11206	32.4736748171	34.7492414778	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_571	11202	29.9143010177	37.3281556865	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_572	11202	31.788966256	32.2317443314	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_573	11200	33.0714285714	32.7223214286	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_574	11189	33.4256859415	34.4230941103	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_575	11186	34.2928660826	37.9876631504	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_576	11181	34.1740452553	37.029156605	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_577	11173	32.5069363645	35.0449297413	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_578	11170	30.6803939123	35.8942703671	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_579	11166	33.700519434	35.6271717714	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_580	11139	30.8106652303	36.3269593321	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+CBS_523.68_metscf_581	11132	31.2971613367	36.0050305426	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_582	11123	63.8586712218	10.9591836735	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	unclassified	286
+CBS_523.68_metscf_583	11120	33.7320143885	32.5114208633	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_584	11119	32.5478909974	36.3649608778	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_585	11119	30.9020595377	29.9526036514	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_586	11111	32.8323283233	35.4668346683	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_587	11110	32.6192619262	35.6279927993	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_588	11101	30.6458877579	31.9307269615	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_589	11094	29.7818640707	30.4822426537	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+CBS_523.68_metscf_590	11086	31.589392026	38.6986289013	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_591	11078	34.0404405127	33.8191009207	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_592	11073	32.1502754448	33.8079111352	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_593	11069	33.2369681091	35.6433282139	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_594	11068	31.0896277557	36.3807372606	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_595	11062	30.7991321642	32.3145000904	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+CBS_523.68_metscf_596	11060	29.3670886076	39.0150090416	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_597	11059	33.0771317479	36.5768152636	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_598	11059	31.9739578624	35.9502667511	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_599	11056	31.3133140376	36.952695369	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_600	11047	33.4389426994	34.6435231285	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_601	11039	34.1788205453	31.8448229006	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_602	11035	30.3670140462	36.7885817852	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_603	11007	32.2794585264	36.1458162987	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+CBS_523.68_metscf_604	11001	31.2335242251	33.6983910554	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_605	10996	30.0200072754	31.40951255	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_606	10958	29.9324694287	34.8326336923	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_607	10936	33.1656912948	30.4701901975	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_608	10915	31.9560238204	39.0881355932	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_609	10892	55.352552332	13.4503305178	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	unclassified	286
+CBS_523.68_metscf_610	10888	32.6322556943	32.0637398971	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_611	10880	34.2647058824	37.3575367647	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+CBS_523.68_metscf_612	10873	30.6447162697	31.9742481376	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_613	10868	32.6463010674	35.8135811557	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus delemar	936053
+CBS_523.68_metscf_614	10864	33.9653902798	32.7824005891	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Parasitella	Parasitella parasitica	35722
+CBS_523.68_metscf_615	10864	28.9304123711	33.604197349	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_616	10853	32.0556528149	37.2683129089	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_617	10841	32.2571718476	28.8520431694	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+CBS_523.68_metscf_618	10830	32.8439519852	38.4526315789	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_619	10804	62.0603480193	10.0725657164	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	unclassified	286
+CBS_523.68_metscf_620	10794	62.3679822123	11.1527700574	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	unclassified	286
+CBS_523.68_metscf_621	10792	33.6452928095	34.1174017791	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_622	10762	32.4196246051	34.483739082	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_623	10757	31.2354745747	37.0092033095	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+CBS_523.68_metscf_624	10751	32.034229374	35.767649521	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_625	10747	31.5157718433	54.8774541733	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_626	10733	30.4481505637	33.1658436597	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_627	10731	31.3111545988	36.1373590532	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_628	10728	30.797912006	33.0168717375	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_629	10723	33.0597780472	36.43476639	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_630	10704	31.7731689088	37.1652653214	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_631	10701	34.9873843566	35.5942435286	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_632	10697	32.6727119753	38.1878096663	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_633	10686	32.0887142055	32.872824256	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_634	10680	32.4157303371	34.2528089888	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+CBS_523.68_metscf_635	10678	30.4926016108	38.2925641506	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_636	10677	31.9003465393	34.7268895757	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_637	10672	29.5071214393	37.3225262369	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_638	10670	31.4526710403	38.6093720712	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_639	10665	31.6924519456	30.488045007	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_640	10650	32.4037558685	36.2629107981	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_641	10647	32.5819479666	30.7006668545	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_642	10642	33.0576959218	35.6589926706	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_643	10632	31.5368698269	33.8676636569	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_644	10628	32.6590139255	34.296951449	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_645	10627	30.7989084408	37.4247671027	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_646	10620	30.5649717514	31.9092278719	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_647	10620	30.9039548023	29.0966101695	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_648	10617	32.4102853914	37.740510502	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
+CBS_523.68_metscf_649	10615	32.8120584079	32.6801695714	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_650	10613	31.706397814	38.5025911618	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_651	10613	33.072646754	31.0055592198	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_652	10607	33.4684642217	30.9815216367	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_653	10601	31.412130931	34.0920667862	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_654	10596	33.9750849377	31.1535485089	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_655	10593	34.0319078637	35.6950816577	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_656	10591	31.885563214	38.4849400434	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_657	10591	33.1319044472	30.1300160514	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_658	10585	32.8389230043	34.6017005196	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_659	10571	32.7121369785	38.9200643269	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_660	10540	31.4990512334	30.9143263757	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_661	10529	32.4532244278	31.1138759616	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_662	10500	30.5619047619	34.3091428571	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_663	10499	32.9745690066	36.0625773883	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+CBS_523.68_metscf_664	10495	31.9771319676	32.9362553597	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_665	10481	33.1838565022	58.5605381166	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_666	10481	30.8558343669	29.900772827	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_667	10477	32.0893385511	36.5039610576	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_668	10476	33.0851470027	34.914757541	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_669	10463	31.0140495078	35.4280799006	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_670	10412	32.2896657703	36.6173645793	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_671	10407	30.095128279	36.580186413	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_672	10406	32.0103786277	35.165961945	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_673	10389	34.6327846761	35.0631437097	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_674	10388	34.3184443589	31.6869464767	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_675	10387	32.4636564937	35.7183979975	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_676	10372	34.3135364443	32.6214809101	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_677	10347	31.5357108341	35.5741760897	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_678	10342	30.3809707987	34.752465674	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_679	10335	33.2172230285	36.9748427673	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_680	10326	30.815417393	32.3647104397	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_681	10320	31.8217054264	32.5533914729	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_682	10312	34.998060512	30.8576415826	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_683	10295	31.5492957746	32.5897037397	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_684	10287	30.9614076018	40.0936132983	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_685	10287	32.7889569359	35.9216486828	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_686	10287	30.4073101973	33.7995528337	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_687	10283	33.8325391423	35.4473402703	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_688	10281	32.7010991149	31.158350355	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+CBS_523.68_metscf_689	10274	31.8571150477	32.0819544481	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_690	10266	33.5671147477	37.3067406974	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_691	10262	33.4730072111	35.411128435	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_692	10261	30.6695253874	33.210603255	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_693	10244	29.6466224131	30.6380320187	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_694	10238	32.8579800742	34.1674155108	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_695	10237	32.7146624988	31.6484321579	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	unclassified	4830
+CBS_523.68_metscf_696	10223	31.7421500538	33.6637973198	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_697	10211	29.7032611889	38.1593379689	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_698	10200	29.8333333333	37.9176470588	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+CBS_523.68_metscf_699	10194	30.4689032764	35.1302727094	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_700	10192	35.2531397174	36.2903257457	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_701	10187	33.2089918524	35.099342299	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_702	10183	34.1844250221	31.6229009133	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Phycomycetaceae	Phycomyces	Phycomyces blakesleeanus	4837
+CBS_523.68_metscf_703	10177	33.143362484	32.351380564	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_704	10156	31.2918471839	35.9884797164	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_705	10150	31.1625615764	37.7567487685	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_706	10149	32.2002167701	40.3599369396	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_707	10148	33.6913677572	32.5115293654	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+CBS_523.68_metscf_708	10146	30.691898285	33.9911295092	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_709	10145	32.0453425333	35.5809758502	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_710	10136	31.1661404893	27.9509668508	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_711	10135	36.1026147015	32.8307844105	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_712	10132	33.9617054876	34.4941768654	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_713	10130	31.8756169793	38.2767028628	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_714	10129	33.1029716655	34.7197156679	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_715	10107	33.03650935	34.2710002968	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_716	10089	32.8377440777	34.7423927049	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+CBS_523.68_metscf_717	10085	33.4159643034	36.8747645017	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_718	10057	30.1580988366	36.5319677836	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_719	10053	30.9360389933	33.1746742266	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_720	10042	30.4222266481	31.0864369647	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+CBS_523.68_metscf_721	10042	31.2587134037	30.4463254332	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_722	10035	31.7289486796	46.0179372197	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_723	10029	33.3632465849	35.3435038389	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_724	10028	33.9250099721	43.7427203829	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142
+CBS_523.68_metscf_725	10024	32.1927374302	35.0677374302	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Choanephoraceae	Choanephora	Choanephora cucurbitarum	101091
+CBS_523.68_metscf_726	10020	31.5868263473	35.4879241517	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	unclassified	unclassified	34489
+CBS_523.68_metscf_727	10019	32.2986325981	34.8616628406	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Mucor	Mucor saturninus	64648
+CBS_523.68_metscf_728	10018	62.0982231982	9.70243561589	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	unclassified	286
+CBS_523.68_metscf_729	10010	31.5384615385	37.8166833167	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Mucoraceae	Thamnidium	Thamnidium elegans	101142

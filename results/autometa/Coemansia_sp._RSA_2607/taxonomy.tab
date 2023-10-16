@@ -1,0 +1,633 @@
+contig	length	gc	cov	kingdom	phylum	class	order	family	genus	species	taxid
+RSA_2607_plascf_1_covcut_0	70425	21.872914448	131.481377352	Eukaryota	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	2759
+RSA_2607_plascf_1_covcut_42	21286	49.4080616368	157.960960256	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_1	149277	49.1261212377	213.951868004	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_2	117552	47.6776235198	217.622584048	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_3	110373	49.4686200429	248.325151985	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_4	106386	47.0541236629	215.22924069	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_5	103533	48.0059497938	212.316391875	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_6	100028	51.0247130803	244.865717599	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_7	99628	50.602240334	220.316166138	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_8	98085	48.7821787225	213.118040475	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_9	92409	48.5374801156	215.815591555	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_10	91386	49.2219814851	223.825651632	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_11	87286	51.0918131201	223.761004056	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_12	83914	49.2945158138	225.857318207	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_13	81276	48.0018701708	219.571017274	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_14	73461	45.7426389513	211.357808905	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_15	71294	51.1754144809	219.420357954	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_16	70353	21.8910352082	131.49297116	Eukaryota	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	2759
+RSA_2607_metscf_17	69579	48.7201598183	213.372382472	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_18	68785	48.62397325	226.341716944	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_19	67906	49.5567401997	225.027744235	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_20	66965	47.8593295005	222.142671545	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_21	64462	48.6550215631	223.682526139	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_22	58825	46.3493412665	182.665023374	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_23	58698	48.4019898463	220.890251797	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_24	57365	47.0234463523	213.81288242	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_25	55435	48.7904753315	216.843384144	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_26	55291	48.7837080176	224.95840191	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_27	55047	48.8945809944	216.313949897	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_28	54238	49.4468822597	212.448689111	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_29	53765	53.231656282	221.284980936	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_30	53359	51.7194849978	228.387319852	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_31	53024	50.4507392879	221.6445949	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_32	52096	51.3628685504	222.621928747	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_33	51335	51.1736631928	219.04316743	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_34	50435	50.3043521364	218.78873798	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_35	50110	52.2869686689	230.589602874	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_36	49769	49.8764291025	192.098253933	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_37	49692	48.21902922	176.626801095	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_38	49665	49.3425953891	212.512473573	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_39	49500	54.4888888889	231.248969697	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_40	47692	45.3010987168	197.284387319	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_41	47467	48.8170729138	210.053131649	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_42	47226	50.7665269131	221.187079151	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_43	45998	46.0693943215	219.119831297	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_44	45797	50.2238137869	213.914492216	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_45	45615	47.8395264716	210.52936534	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_46	45574	49.6247860622	215.888510993	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_47	45343	50.1466599034	220.52790949	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_48	44854	46.6357515495	167.270566728	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_49	44742	49.8815430692	218.965558089	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_50	44737	50.8348794063	227.324585913	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_51	44493	50.0393320298	223.852516126	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_52	43921	46.6952027504	221.606019899	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_53	43144	48.4980530317	221.15156221	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_54	42979	50.0034900765	225.318062309	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_55	42771	48.9934768885	204.754763742	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_56	42740	53.1516144127	227.180322883	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_57	42723	45.8862907567	211.427310816	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_58	42526	53.1580680055	225.005902272	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_59	42243	48.7844139857	191.725966432	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_60	41934	47.4626794487	192.030643392	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_61	41909	51.1441456489	217.194993915	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_62	41611	52.59666915	221.222032636	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_63	41415	49.0208861524	227.806181335	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_64	40820	48.4051935326	194.917785399	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_65	40722	49.1969942537	219.812558322	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_66	40631	49.3883980212	221.066525559	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_67	40177	49.6005177091	229.048087214	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_68	39620	48.8238263503	220.457067138	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_69	39555	51.3639236506	215.481532044	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_70	39372	47.3407497714	231.319389414	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_71	39004	48.0002051072	184.108604246	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_72	38948	53.1041388518	232.733362432	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_73	38626	45.3321596852	170.115052037	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_74	38620	50.1009839461	220.876204039	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_75	38273	47.0018028375	189.147832676	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_76	38078	49.3460791008	222.902305793	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_77	37868	47.5467413119	216.598262385	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_78	37640	49.4022316684	217.834059511	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_79	37268	48.3685735752	219.540195342	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_80	37180	45.5110274341	212.765868747	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_81	36747	48.0801153836	218.664135848	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_82	36700	51.0245231608	221.380626703	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_83	36603	47.8376089392	207.783433052	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_84	36411	49.0291395457	220.172749993	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_85	35807	52.5064931438	225.602256542	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_86	35446	51.2808215313	218.866670428	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_87	35210	46.8844078387	195.083783016	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_88	35117	47.9938491329	205.585784663	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_89	35046	49.440735034	189.525480797	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_90	34873	49.3849109626	211.661457288	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_91	34751	48.8043509539	208.149233116	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_92	34750	48.454676259	214.789611511	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_93	34313	51.1671961064	226.36566316	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_94	34276	49.6936632046	211.611185669	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_95	33937	44.8153932286	189.419335828	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_96	33912	46.8093890068	212.15814461	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_97	33604	48.5745744554	224.477978812	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_98	33162	50.1748989808	225.187111754	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_99	32993	46.5613918104	169.521171158	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_100	32751	49.4549784739	240.903789197	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_101	32728	50.9074798338	263.005011	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_102	32507	50.8105946412	226.741348017	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_103	32451	50.3651659425	221.401898247	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_104	32321	51.0937161598	223.332075121	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_105	32307	50.8527563686	216.977868573	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_106	32256	50.6324404762	220.313802083	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_107	32230	47.2944461682	217.730251319	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_108	32085	54.7514414836	251.669066542	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_109	32013	55.661762409	203.345672071	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_110	31894	50.4295478773	192.839060638	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_111	31763	48.0244309417	217.660548437	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_112	31598	57.3327425786	220.227071334	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_113	31503	51.306224804	218.455416944	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_114	31486	50.3652416947	221.352156514	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_115	31483	49.9221802242	220.336911984	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_116	31440	47.1692111959	223.9581743	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_117	31421	51.4114764011	244.918175742	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_118	30977	48.794266714	219.84001033	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_119	30762	43.3359339445	132.466062025	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_120	30729	50.4702398386	223.784210355	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_121	30666	52.7261462206	227.172666797	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_122	30352	48.7612018977	225.001515551	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_123	30011	50.3648662157	151.325347373	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	unclassified	unclassified	4862
+RSA_2607_metscf_124	29724	50.4238998789	218.089153546	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_125	29591	48.6871008077	224.204825792	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_126	29517	46.5528339601	199.798760037	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_127	29460	52.9361846572	225.723523422	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_128	29382	50.5819889728	231.450411817	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_129	29155	52.0631109587	220.898507975	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_130	29135	47.8874206281	224.00092672	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_131	29089	48.8707071402	221.257038743	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_132	28950	47.4922279793	212.529602763	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_133	28902	48.4187945471	218.333021936	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_134	28873	49.8631939875	209.241713712	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_135	28648	47.6787210276	222.819149679	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_136	28238	51.7706636447	226.367058574	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_137	28192	52.4297673099	220.859286322	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_138	28004	48.6109127268	224.294636481	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_139	27875	52.599103139	223.891300448	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_140	27809	51.458161027	203.238591823	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_141	27764	48.5160639677	209.236745426	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_142	27609	50.3748777573	227.170777645	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_143	27584	49.3474477958	248.414986949	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_144	27363	48.6569455104	220.449475569	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_145	27084	48.3348102201	216.36597253	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_146	26932	41.7310262884	99.7343309075	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_147	26881	52.3120419627	228.066254976	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_148	26851	48.6760269636	226.922423746	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_149	26734	50.456347722	215.250243136	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_150	26546	46.8130791833	191.771830031	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_151	26519	49.7454655153	220.110335986	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_152	26377	52.3675929787	223.387079653	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_153	26094	53.5065532306	204.236951023	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_154	26060	50.5755947813	172.621258634	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_155	25875	44.6415458937	185.484753623	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_156	25745	50.4292095553	228.72538357	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_157	25691	54.2836012611	228.239227745	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_158	25672	51.8970084138	213.580359925	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_159	25428	45.0959572125	163.001691049	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_160	25407	46.7902546542	216.183177864	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_161	25292	42.5035584375	95.424561126	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_162	25278	49.6400031648	222.061674183	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_163	25250	51.7267326733	195.004079208	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_164	24903	51.278962374	189.697426013	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_165	24754	49.7414559263	217.512846409	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_166	24723	50.7826720058	211.657080451	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_167	24679	52.2792657725	219.45090968	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_168	24561	37.567688612	119.486177273	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_169	24545	46.6449378692	220.194459157	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_170	24458	53.5980047428	197.415038024	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_171	24365	44.4325877283	197.883931869	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_172	24309	50.7836603727	213.653585092	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_173	24154	38.8341475532	184.542063426	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_174	24087	54.0457508199	222.390168971	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_175	23945	48.7283357695	193.877009814	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_176	23720	52.3355817875	214.756365936	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_177	23589	44.1561744881	214.982237484	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_178	23438	46.2539465825	204.027988736	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_179	23326	50.7373746034	213.946583212	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_180	23287	48.3875123459	219.644866234	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_181	23242	42.2898201532	95.5787797952	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_182	23178	37.7340581586	121.826085081	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	unclassified	unclassified	4862
+RSA_2607_metscf_183	23127	48.311497384	212.875772906	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_184	23093	50.0411380072	219.324167497	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_185	23068	46.6316975897	224.747702445	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_186	22926	46.4450841839	180.982116374	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_187	22925	54.1810250818	226.36344602	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_188	22914	47.0934799686	207.524002793	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_189	22618	52.1089397825	224.892740295	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_190	22598	50.4115408443	241.753916276	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_191	22554	46.3687150838	216.924093287	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_192	22510	50.653043092	227.910617503	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_193	22496	53.8984708393	231.298141892	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_194	22381	50.659041151	186.048210536	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_195	22261	49.5485378015	220.668388662	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_196	22193	58.130942189	227.401523003	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_197	22059	48.6060111519	248.424588603	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_198	21999	43.0155916178	211.167598527	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_199	21679	44.6238295124	103.340283223	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_200	21635	49.1888144211	200.483244742	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_201	21452	51.7201193362	229.228183852	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_202	21448	51.4220440134	230.275923163	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_203	21435	41.0870072312	170.535759272	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_204	21412	50.6398281338	186.930599664	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_205	21410	49.7244278375	200.799112564	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_206	21347	52.4710732187	197.299386331	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_207	21323	46.6303990996	221.919804906	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_208	21287	46.4743740311	217.522149669	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_209	21274	45.6942747015	217.427846197	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_210	21237	50.4779394453	223.562791355	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_211	21224	47.9739917075	217.933612891	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_212	21175	48.0236127509	222.771711924	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_213	21154	45.5233052851	215.309870474	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_214	21139	46.913288235	195.795638393	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_215	21064	52.0888720091	219.375522218	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_216	21049	35.2510808114	92.6494845361	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_217	20970	54.6018121125	217.534716261	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_218	20966	46.7709625107	188.263474196	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_219	20888	44.7864802758	210.57195519	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_220	20803	46.724030188	223.466038552	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_221	20710	45.1907291164	209.509222598	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_222	20595	50.6287933965	213.712260257	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_223	20590	47.0616804274	178.647693055	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_224	20564	55.5631200156	226.925792647	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_225	20535	44.1246652057	207.04825907	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_226	20486	45.4066191545	213.028800156	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_227	20455	37.4969445123	145.401613297	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_228	20397	51.3752022356	217.428347306	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_229	20372	51.9389357942	223.433879835	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_230	20342	51.8582243634	222.635679874	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_231	20276	51.4845137108	220.018198856	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_232	20169	49.1943080966	221.257028112	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_233	20149	46.2901384684	192.195741724	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_234	20142	48.217654652	218.263380002	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_235	20138	43.9864931969	106.769391201	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_236	20096	50.1343550955	217.5859375	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_237	20082	48.5160840554	220.834827208	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_238	19959	34.5057367604	81.5846485295	Eukaryota	Basidiomycota	Agaricomycetes	Polyporales	Fomitopsidaceae	Fomitopsis	Fomitopsis rosea	34475
+RSA_2607_metscf_239	19940	45.6519558676	121.130842528	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_240	19939	53.3075881438	215.664225889	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_241	19885	49.8114156399	223.939904451	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_242	19774	45.80256903	214.294174168	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_243	19757	47.4262286784	215.120008098	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_244	19654	43.8129642821	107.70988094	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_245	19612	45.3140934122	214.740057108	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_246	19595	52.9216636897	229.557795356	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_247	19557	51.158153091	183.895331595	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_248	19525	48.5275288092	133.326248399	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_249	19518	47.176964853	187.600830003	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_250	19458	40.8777880563	95.4130434783	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_251	19365	54.1750580945	221.461089595	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_252	19335	54.6625290923	193.309180243	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_253	19312	51.7709196355	215.319335128	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_254	19228	50.5928853755	226.043374246	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_255	19225	38.9128738622	181.371547464	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_256	19197	41.8815439912	187.312653019	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_257	19118	41.175855215	116.794277644	Eukaryota	Zoopagomycota	Harpellomycetes	Harpellales	Legeriomycetaceae	Smittium	unclassified	4888
+RSA_2607_metscf_258	19100	54.3926701571	220.087801047	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_259	19060	47.6023084995	187.329380902	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_260	18916	50.740114189	212.988792557	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_261	18904	48.9843419382	247.494339822	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_262	18892	43.7486766885	215.816589032	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_263	18887	52.2899348758	232.541801239	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_264	18868	48.2298070808	230.041180835	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_265	18819	49.0940007439	225.724533716	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_266	18762	35.8437266816	70.4532032832	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_267	18736	34.4203672075	78.872117848	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_268	18683	54.3756356046	228.599850131	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_269	18600	52.3172043011	192.977956989	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_270	18556	48.0922612632	154.166792412	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_271	18531	51.6863633911	216.2498516	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_272	18522	42.2848504481	245.822427384	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_273	18452	49.7778018643	218.948515066	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_274	18448	52.3200346921	216.307838248	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_275	18359	51.2446211667	221.800261452	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_276	18324	47.4459724951	222.649967256	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_277	18293	45.4217460231	181.56021429	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_278	18255	53.103259381	217.482443166	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_279	18248	53.1893906181	208.72183253	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_280	18238	43.2942208576	154.149193991	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_281	18199	52.4754107369	208.305895928	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_282	18194	36.6164669671	178.231614818	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_283	18138	49.6195831955	223.383338847	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_284	18130	41.7319360177	105.771924986	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_285	18042	55.1324686842	223.340649595	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_286	18042	43.903114954	94.1183904223	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_287	18030	48.9018302829	220.29306711	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_288	17828	36.5324209109	99.1366950864	Eukaryota	Zoopagomycota	Harpellomycetes	Harpellales	Legeriomycetaceae	Zancudomyces	Zancudomyces culisetae	1213189
+RSA_2607_metscf_289	17791	51.3630487325	219.646506661	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_290	17765	48.3760202646	213.2306783	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_291	17625	52.6014184397	229.48822695	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_292	17539	49.4155881179	214.579736587	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_293	17456	44.643675527	102.45869615	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_294	17441	46.6142996388	223.173212545	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_295	17427	45.1999770471	193.863430309	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_296	17281	49.5399571784	212.281117991	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_297	17214	51.649819914	213.346636459	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_298	17188	36.1414940656	68.4474051664	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_299	17117	48.4781211661	226.341181282	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_300	17112	39.4576905096	108.180691912	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_301	17109	57.005085043	213.481617862	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_302	17007	54.8774034221	215.569647792	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_303	17002	45.5122926715	219.292436184	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_304	16963	44.4261038731	216.830690326	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_305	16938	38.3339237218	87.6104026449	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_306	16916	45.1347836368	205.117462757	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	unclassified	unclassified	4862
+RSA_2607_metscf_307	16787	49.3000536129	223.762673497	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_308	16718	34.6991266898	84.6010288312	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	unclassified	unclassified	4862
+RSA_2607_metscf_309	16712	53.5363810436	217.901627573	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_310	16710	53.7283064034	205.607121484	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_311	16697	48.8171527819	218.045756723	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_312	16692	49.9940091062	215.263359693	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_313	16657	44.2996938224	116.105661284	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_314	16612	54.8880327474	195.186672285	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_315	16537	46.4957368326	215.544234142	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_316	16522	47.2037283622	234.166626316	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_317	16512	57.6792635659	239.696705426	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_318	16501	52.5665111205	193.455487546	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_319	16483	49.2689437602	86.156585573	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_320	16441	40.6362143422	188.140988991	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_321	16396	54.3059282752	227.685533057	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_322	16377	52.2012578616	220.803504915	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_323	16377	48.8612077914	203.402454662	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_324	16373	51.7559396568	223.377206376	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_325	16335	52.6354453627	189.52647689	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_326	16171	45.7856656979	216.219714303	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_327	16171	49.8855976749	189.64207532	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_328	16110	41.1793916822	202.006828057	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_329	16078	48.7622838662	215.243935813	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_330	16043	46.4750981737	159.910116562	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_331	16038	36.9123332086	88.5965207632	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	unclassified	unclassified	4862
+RSA_2607_metscf_332	16016	54.7952047952	234.450799201	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_333	16014	45.766204571	116.434494817	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_334	15926	46.0002511616	196.881891247	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_335	15925	32.3579277865	78.5721821036	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_336	15921	49.8272721563	237.442811381	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_337	15907	49.1104545169	173.813164016	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_338	15874	44.7587249591	206.448784175	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_339	15825	49.8830963665	197.297819905	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_340	15795	47.831592276	221.304716682	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_341	15792	43.3130699088	220.409321175	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_342	15745	51.883137504	180.156938711	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_343	15659	49.5817101986	185.227983907	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_344	15622	49.1422353092	223.702726924	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_345	15617	51.8089261702	223.635973618	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_346	15604	46.4111766214	235.111381697	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_347	15597	51.0098095788	160.692953773	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_348	15524	48.2736408142	101.868977068	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	unclassified	unclassified	4862
+RSA_2607_metscf_349	15521	50.9889826686	228.429740352	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_350	15490	45.9522272434	219.822788896	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_351	15467	48.9623068468	220.628176117	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_352	15456	51.0222567288	221.925465839	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_353	15456	47.4702380952	143.209045031	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_354	15409	54.3059251087	249.144461029	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_355	15352	48.8210005211	230.893955185	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_356	15341	43.8498142233	103.650870217	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+RSA_2607_metscf_357	15315	37.1074110349	147.142278812	Eukaryota	Nematoda	Chromadorea	Rhabditida	Strongyloididae	Strongyloides	Strongyloides ratti	34506
+RSA_2607_metscf_358	15196	50.8818110029	222.495985786	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_359	15138	48.49385652	221.583828775	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	unclassified	unclassified	4862
+RSA_2607_metscf_360	15103	47.5799510031	187.257895782	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_361	15078	50.5902639607	230.895410532	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_362	15076	38.3258158663	90.3236269568	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+RSA_2607_metscf_363	15071	49.3729679517	224.072058921	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_364	15041	52.8023402699	217.214413935	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	unclassified	unclassified	4862
+RSA_2607_metscf_365	15030	43.9853626081	109.832867598	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_366	15014	41.9142134008	188.929998668	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_367	15013	48.1782455205	206.237727303	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_368	15011	47.1654120312	110.000932649	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_369	14975	49.8831385643	227.747445743	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_370	14963	44.9308293791	220.695515605	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_371	14946	54.7303626388	119.543556804	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_372	14944	54.7711456103	118.752609743	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_373	14936	50.5690948045	222.635846277	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_374	14875	40.6789915966	90.0053109244	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_375	14809	37.4974677561	195.606590587	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_376	14808	57.934900054	227.959616424	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_377	14800	55.9932432432	107.843783784	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_378	14792	60.4651162791	234.175635479	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_379	14735	49.1143535799	109.394027825	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_380	14732	47.352701602	220.941420038	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_381	14710	47.5322909585	218.531135282	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_382	14706	55.9635522916	224.119067047	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_383	14697	49.4182486222	195.580254474	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_384	14694	46.6585000681	244.85102763	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_385	14682	40.9549107751	157.286677564	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_386	14610	48.2819986311	223.967693361	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_387	14606	44.885663426	95.5958510201	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_388	14593	56.3969026245	112.102994586	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_389	14564	47.7822026916	224.75336446	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_390	14483	48.2082441483	127.693986053	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_391	14437	44.6976518667	245.847405971	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_392	14437	44.7946249221	150.136385676	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_393	14423	48.887194065	221.154614158	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_394	14416	37.2780244173	119.842813541	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_395	14393	48.190092406	186.779406656	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_396	14377	37.4556583432	76.7838909369	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_397	14344	48.8148354713	219.204824317	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_398	14303	53.7160036356	196.335524016	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_399	14281	51.2149009173	230.65142497	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_400	14271	40.7259477262	131.715016467	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_401	14268	50.1541911971	253.086276983	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	unclassified	unclassified	4862
+RSA_2607_metscf_402	14229	50.495467004	157.854030501	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_403	14208	52.7238175676	214.161739865	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_404	14202	43.6980706943	207.391142093	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_405	14200	52.7535211268	220.826267606	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_406	14163	52.8772152792	220.6605239	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_407	14137	30.0771026385	87.0654311381	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_408	14127	49.5858993417	226.432788278	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_409	14073	55.894265615	231.390606125	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_410	14043	57.0889411094	225.33027131	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_411	13976	46.5154550658	123.554378935	Eukaryota	Zoopagomycota	Harpellomycetes	Harpellales	unclassified	unclassified	unclassified	61421
+RSA_2607_metscf_412	13945	41.9935460739	137.311724632	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_413	13923	50.9516627164	157.934568699	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_414	13886	52.851793173	221.562148927	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_415	13863	50.1118084109	102.314650509	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	unclassified	unclassified	4862
+RSA_2607_metscf_416	13853	46.3293149498	108.672056594	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_417	13851	43.9318460761	153.551223738	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_418	13845	46.3488624052	107.503936439	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_419	13823	49.6925414165	226.444476597	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_420	13800	50.5072463768	168.391594203	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_421	13782	50.0217675229	110.155710347	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	unclassified	unclassified	4862
+RSA_2607_metscf_422	13779	42.0785252921	194.410624864	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_423	13703	35.0726118368	85.6209589141	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	unclassified	unclassified	4862
+RSA_2607_metscf_424	13701	40.4641996935	155.23866871	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_425	13652	40.4263111632	104.687591562	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	unclassified	unclassified	4862
+RSA_2607_metscf_426	13651	53.0583840012	178.069958245	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_427	13626	33.6342286805	105.602377807	Eukaryota	Nematoda	Chromadorea	Rhabditida	Strongyloididae	Strongyloides	Strongyloides ratti	34506
+RSA_2607_metscf_428	13615	55.0275431509	215.410723467	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_429	13573	47.4324025639	204.161276063	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_430	13534	45.0495049505	207.37416876	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_431	13474	49.4285290189	220.704616298	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_432	13463	55.4854044418	221.78667459	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_433	13453	50.6281126886	179.364602691	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_434	13448	49.2266508031	221.536436645	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_435	13418	51.0061111939	186.596959308	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_436	13411	52.0468272314	221.504436656	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_437	13409	59.4898948467	117.488254158	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	unclassified	unclassified	4862
+RSA_2607_metscf_438	13381	42.8816979299	89.7914206711	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	unclassified	unclassified	4862
+RSA_2607_metscf_439	13352	47.0940683044	219.42577891	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_440	13301	51.695361251	222.025862717	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_441	13297	53.0044370911	226.607655862	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_442	13280	42.8614457831	186.017243976	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_443	13273	44.8956528291	143.790401567	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	unclassified	unclassified	4862
+RSA_2607_metscf_444	13239	51.2803081804	112.086260292	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_445	13215	60.2497162316	118.933333333	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	unclassified	unclassified	4862
+RSA_2607_metscf_446	13212	32.6067211626	90.27641538	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	unclassified	unclassified	4862
+RSA_2607_metscf_447	13209	46.491028844	186.425846014	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_448	13098	52.4431210872	168.667048404	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_449	13075	54.8527724665	209.674034417	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_450	13075	51.0286806883	206.784474187	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_451	13042	46.787302561	221.572304861	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_452	13011	48.266851126	172.450772423	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_453	12995	50.5040400154	226.97006541	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_454	12978	39.7518878101	187.028124518	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_455	12965	54.9479367528	232.37909757	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_456	12938	40.1066625444	173.55232648	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+RSA_2607_metscf_457	12926	39.757078756	133.088581154	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_458	12905	42.1464548625	134.998450213	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	1
+RSA_2607_metscf_459	12896	47.6814516129	139.796293424	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_460	12841	33.8447161436	168.130130052	Eukaryota	Streptophyta	Magnoliopsida	unclassified	unclassified	unclassified	unclassified	3398
+RSA_2607_metscf_461	12840	49.2445482866	132.192445483	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_462	12803	48.6292275248	132.636569554	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_463	12778	50.7669431836	207.524573486	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_464	12757	46.1942462962	151.681194638	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_465	12756	47.5854499843	220.385308874	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_466	12749	37.9637618637	134.730645541	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+RSA_2607_metscf_467	12723	59.4749665959	232.979014383	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_468	12718	38.1978298475	100.545604655	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_469	12714	59.4698757275	190.175554507	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_470	12700	35.9212598425	85.8717322835	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+RSA_2607_metscf_471	12690	44.9330181245	102.545784082	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_472	12653	38.0937327116	98.164862088	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_473	12644	46.6229041443	113.374011389	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+RSA_2607_metscf_474	12628	48.4241368388	219.229490022	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_475	12620	48.676703645	103.544611727	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_476	12613	48.8067866487	111.380163324	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_477	12600	30.6904761905	76.6792857143	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+RSA_2607_metscf_478	12563	41.8769402213	127.832603677	Eukaryota	Nematoda	Chromadorea	Rhabditida	Strongyloididae	Strongyloides	Strongyloides ratti	34506
+RSA_2607_metscf_479	12559	35.3133211243	94.419858269	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	1
+RSA_2607_metscf_480	12549	47.9878874811	165.693919834	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_481	12548	54.8772712783	231.498167039	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_482	12541	48.696276214	221.473168009	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_483	12476	43.2350112215	118.40453671	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_484	12467	29.5981390872	73.7498195235	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_485	12420	51.1755233494	226.229146538	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_486	12418	45.4904171364	143.88766307	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_487	12365	50.5539830166	209.002264456	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_488	12350	44.04048583	156.565991903	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_489	12270	44.3846780766	216.565444173	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_490	12268	46.6824258233	212.399168569	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_491	12262	49.1273854184	224.732506932	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_492	12255	56.9155446756	244.801387189	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_493	12236	33.2298136646	178.078375286	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+RSA_2607_metscf_494	12235	50.6988148754	196.421740907	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_495	12224	45.2388743455	104.889888743	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_496	12222	54.9337260677	203.017591229	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_497	12220	38.0196399345	101.948854337	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	unclassified	unclassified	4862
+RSA_2607_metscf_498	12217	57.9356634198	201.573053941	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_499	12216	38.7033398821	181.427554028	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_500	12192	40.4937664042	99.8520341207	Eukaryota	Ascomycota	unclassified	unclassified	unclassified	unclassified	unclassified	4890
+RSA_2607_metscf_501	12170	44.0180772391	111.035497124	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_502	12134	42.4509642327	148.094362947	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_503	12108	43.4588701685	94.7566897919	Eukaryota	Zoopagomycota	Harpellomycetes	Harpellales	Legeriomycetaceae	Smittium	unclassified	4888
+RSA_2607_metscf_504	12076	25.861212322	78.4612454455	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+RSA_2607_metscf_505	12063	47.0115228384	214.342203432	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_506	12053	45.3662988468	170.769269062	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_507	12028	50.4156967077	266.221815763	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_508	12011	39.5137790359	161.529681126	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_509	12010	28.0682764363	105.568859284	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+RSA_2607_metscf_510	11969	57.2729551341	219.701645919	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_511	11969	47.2052803075	103.293925975	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_512	11962	48.2778799532	202.952349106	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_513	11866	39.2634417664	98.3893477162	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_514	11811	38.3456100246	141.399627466	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_515	11806	37.3115365069	91.753176351	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	unclassified	unclassified	4862
+RSA_2607_metscf_516	11781	49.0280960869	230.191579662	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_517	11781	48.2132246838	217.377896613	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_518	11773	46.6576063875	176.798012401	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_519	11772	49.7621474686	221.501019368	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_520	11768	50.1359619307	219.665703603	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_521	11760	31.1649659864	87.5901360544	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_522	11732	48.5509717013	223.126065462	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_523	11695	43.5485250107	123.279264643	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_524	11686	43.770323464	114.329710765	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_525	11685	53.8724860933	202.255969191	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_526	11672	41.6038382454	197.932145305	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+RSA_2607_metscf_527	11654	50.9267204393	224.296636348	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_528	11636	56.2392574768	216.71313166	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_529	11622	47.0831182241	125.244450181	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_530	11612	59.5590768171	223.825783672	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_531	11590	31.5789473684	88.5491803279	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+RSA_2607_metscf_532	11575	49.494600432	216.208552916	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_533	11532	44.250780437	213.370187305	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_534	11531	54.6179862978	224.998178822	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_535	11436	42.6635187128	125.156698146	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_536	11416	51.2964260687	219.853538893	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_537	11408	44.4161991585	110.392093268	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_538	11382	37.4802319452	94.6206290634	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	unclassified	unclassified	4862
+RSA_2607_metscf_539	11359	54.6967162602	211.321331103	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	unclassified	unclassified	4862
+RSA_2607_metscf_540	11352	51.4358703312	222.578400282	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_541	11351	41.3619945379	160.71253634	Eukaryota	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	2759
+RSA_2607_metscf_542	11318	48.5598162219	215.835306591	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_543	11287	33.8708248427	162.780366794	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+RSA_2607_metscf_544	11268	43.814341498	103.874245651	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_545	11246	35.3281166637	166.174195269	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_546	11238	31.6604378003	115.840985941	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+RSA_2607_metscf_547	11217	44.5841133993	129.985290185	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+RSA_2607_metscf_548	11209	41.1901150861	209.188955304	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_549	11201	43.9514329078	85.6604767431	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	unclassified	unclassified	4862
+RSA_2607_metscf_550	11200	55.6875	197.864285714	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_551	11169	38.3472110305	92.6573551795	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	unclassified	unclassified	4862
+RSA_2607_metscf_552	11156	48.3775546791	223.080763715	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_553	11146	38.4801722591	126.584066033	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_554	11141	44.0714478054	177.097836819	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	unclassified	unclassified	4862
+RSA_2607_metscf_555	11119	54.6811763648	231.033636118	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_556	11100	53.4864864865	148.067837838	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_557	11066	53.6508223387	231.97587204	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_558	11061	40.0235060121	115.800922159	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_559	11036	28.3798477709	84.5560891627	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+RSA_2607_metscf_560	11006	42.4950027258	195.678902417	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_561	11000	42.6454545455	120.255363636	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	unclassified	unclassified	4862
+RSA_2607_metscf_562	10973	27.4947598651	82.5338558279	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	unclassified	unclassified	unclassified	4827
+RSA_2607_metscf_563	10956	50.0821467689	114.610989412	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_564	10931	40.7647973653	107.704601592	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+RSA_2607_metscf_565	10920	46.7399267399	222.192124542	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_566	10902	46.688680976	214.989451477	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_567	10862	36.0799116185	99.8050082858	Eukaryota	Nematoda	Chromadorea	Rhabditida	Strongyloididae	Strongyloides	Strongyloides ratti	34506
+RSA_2607_metscf_568	10842	52.527209002	226.926212876	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_569	10816	43.9441568047	217.332840237	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_570	10784	33.3920623145	98.3772255193	Eukaryota	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	2759
+RSA_2607_metscf_571	10780	57.0408163265	214.968089054	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_572	10756	56.1454072146	208.552900707	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_573	10743	48.4594619752	222.229451736	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_574	10719	39.1547719004	216.391081258	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_575	10712	42.2050037341	131.956777446	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_576	10709	44.4205808199	355.958913064	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	1
+RSA_2607_metscf_577	10700	39.2523364486	72.9377570093	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_578	10696	47.8683620045	132.375560957	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_579	10679	41.6705684053	104.122296095	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_580	10667	45.1954626418	213.402081185	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_581	10647	49.3096646943	222.446322908	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_582	10645	41.3809300141	102.294316581	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	unclassified	4842
+RSA_2607_metscf_583	10634	50.4701899567	110.050686477	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_584	10606	40.7599471997	205.688666792	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_585	10604	46.0392304791	221.774047529	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_586	10597	29.8008870435	93.9229970746	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_587	10589	51.0718670318	96.5586929833	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_588	10579	49.4564703658	114.895453256	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_589	10566	47.0376679917	198.000473216	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_590	10555	54.6660350545	219.498720985	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_591	10541	49.4924580211	111.705625652	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_592	10498	46.2373785483	111.475614403	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_593	10491	41.9311791059	101.02363931	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_594	10473	32.3689487253	79.172443426	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	unclassified	unclassified	4862
+RSA_2607_metscf_595	10468	44.8891860909	110.785632404	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_596	10456	50.5929609793	173.49320964	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_597	10435	46.4206995688	219.578821275	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_598	10431	49.9760329786	218.384814495	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	unclassified	unclassified	4862
+RSA_2607_metscf_599	10400	39.3461538462	99.6410576923	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_600	10390	35.5822906641	103.341770934	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+RSA_2607_metscf_601	10368	43.2195216049	213.426118827	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_602	10346	43.8526966944	166.00338295	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_603	10334	31.2076640217	131.352332108	Eukaryota	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	2759
+RSA_2607_metscf_604	10316	47.2857696782	112.405195812	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_605	10311	38.1437299971	113.439336631	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_606	10296	41.2781662782	207.31993007	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_607	10280	44.4941634241	213.808560311	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_608	10271	57.1512024146	217.33161328	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_609	10268	47.5165562914	219.148032723	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_610	10243	47.5153763546	204.153080152	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_611	10241	48.403476223	218.323698858	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_612	10238	44.3739011526	191.083024028	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_613	10232	37.9397967162	130.601250977	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	unclassified	unclassified	4862
+RSA_2607_metscf_614	10230	47.3411534702	109.115053763	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_615	10225	24.4400977995	65.3729095355	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+RSA_2607_metscf_616	10156	42.3690429303	112.776289878	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_617	10145	46.1705273534	129.737506161	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	unclassified	unclassified	4862
+RSA_2607_metscf_618	10138	28.970211087	71.7397908858	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+RSA_2607_metscf_619	10115	26.495304004	81.472862086	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+RSA_2607_metscf_620	10114	58.1075736603	134.212873245	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_621	10108	40.8982983775	185.186090226	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_622	10093	58.19875161	128.187852967	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_623	10076	52.0742358079	247.897379913	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_624	10043	48.4217863188	101.786219257	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_625	10038	57.3819485953	220.121936641	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_626	10038	47.2305240088	115.865311815	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_627	10031	41.5711294986	111.389891337	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Linderina	Linderina pennispora	61395
+RSA_2607_metscf_628	10021	47.370521904	109.975551342	Eukaryota	Zoopagomycota	Kickxellomycetes	Kickxellales	Kickxellaceae	Coemansia	Coemansia reversa	61392
+RSA_2607_metscf_629	10013	34.2554678917	314.846599421	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified	unclassified
+RSA_2607_metscf_630	10003	48.9053284015	103.729381186	Eukaryota	Mucoromycota	Mucoromycetes	Mucorales	Rhizopodaceae	Rhizopus	Rhizopus oryzae	64495
