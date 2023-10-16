@@ -38,7 +38,7 @@ tail -n +2 $SAMPLEFILE | sed -n ${N}p | while read SPECIES STRAIN JGILIBRARY BIO
 do
     STEM=$(echo -n $SPECIES | perl -p -e 's/\s+/_/g')
     # for this project has only a single file base  but this needs fixing otherse
-    jellyfish count -C -m $KMER -s $JELLYFISHSIZE -t $CPU -o $SCRATCH/$STEM.jf <(pigz -dc $FASTQFOLDER/$/${STEM}_R[12].fq.gz)
+    jellyfish count -C -m $KMER -s $JELLYFISHSIZE -t $CPU -o $SCRATCH/$STEM.jf <(pigz -dc $FASTQFOLDER/${STEM}_R[12].fq.gz)
     jellyfish histo -t $CPU $SCRATCH/$STEM.jf > $GENOMESCOPE/$STEM.histo
     Rscript scripts/genomescope.R $GENOMESCOPE/$STEM.histo $KMER $READLEN $GENOMESCOPE/$STEM/
 done
